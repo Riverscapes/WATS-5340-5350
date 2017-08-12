@@ -13,5 +13,5 @@ Students learn the application of principles, theory, and skills to real-world a
 
 For students enrolled, all course materials can be found on this site, whereas you will submit assignments, track your grades and engage in collaborations on our [Canvas Course Pages](https://usu.instructure.com/courses/468472)
 
-[![canvas_logo](assets/Images/canvas_logo.png)](https://usu.instructure.com/courses/468472)
+[![canvas_logo]({{ site.baseurl }}assets/Images/canvas_logo.png)](https://usu.instructure.com/courses/468472)
 
