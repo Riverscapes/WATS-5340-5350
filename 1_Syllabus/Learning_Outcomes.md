@@ -18,7 +18,7 @@ Learning Outcomes include:
 5. [](#5340_LO5)  Objectively *evaluate* and *analyze* the scientific, political, economic and feasibility **tradeoffs of various approaches to restoration** in a specific project context and gain an appreciation of working with diverse stakeholders. *Synthesize* this analysis through a **planning process** that **prioritizes specific restoration and management actions** throughout a watershed.
 6. [](#5340_LO6)  *Develop* a **vision for a restoration project** and *propose* that solution formally.
 7. [](#5340_LO7)  *Identify* and *prepare* forms and applications to appropriate regulatory agencies for a specific project to gain appreciation of **legal and permitting** aspects of projects.
-8. [](#5340_LO8)  *Create***conceptual design alternatives** for a specific restoration action.
+8. [](#5340_LO8)  *Create* **conceptual design alternatives** for a specific restoration action.
 
 
 ### WATS 5350 - Capstone II

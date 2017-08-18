@@ -17,7 +17,7 @@ For Fall semester 2017, we will typically be meeting in [Huntsman Hall 126](http
 ## Rough Syllabus
 
 
-| Week  | Topic (Learning Outcomes met)            | Labs/ Field Trips                        | Assignments                              |
+| Week  | Topic ([Learning Outcomes]({{ site.baseurl }}/1_Syllabus/Learning_Outcomes) met)            | Labs/ Field Trips                        | Assignments                              |
 | ----- | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
 | 1     | Course Overview & Identification of Projects (L.O. 1, 2) | Field Trip Visit Project Site(s)         | Review Restoration Proposals             |
 | 2     | Overview of Restoration Project Process (L.O. 3, 1, 2) | Meet practitioners                       | Reading                                  |
