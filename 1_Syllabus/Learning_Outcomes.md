@@ -26,14 +26,14 @@ Learning Outcomes for the first semester include:
 
 Learning Outcomes for the second semester include:
 
-1. <a id="5350_LO1"></a> Gain direct experience *applying* knowledge as a watershed scientist to working on real-world aquatic ecosystem **restoration and management problems** (e.g. stream restoration, watershed management,wetland restoration) with practitioners. 
-2. <a id="5350_LO2"></a> Provide constructively critical *evaluations* of various aspects ofrestoration projects through a mix of **peer-review** of other student projects and *evaluation* of real-world projects.
-3. <a id="5350_LO3"></a> Build a working *understanding* of the typical **process** through which restoration projects are designed, constructed, evaluated and adaptively managed. 
-4. <a id="5350_LO4"></a> Develop a working *understanding* of different aspects and approaches to **restoration design** and *create* two types of design and *evaluate* their ability to achieve project objectives. *Articulate* specific, testable **design hypotheses** for your own designs.
-5. <a id="5350_LO5"></a> *Develop* a pragmatic **Adaptive Management Plan** for a real project.
-6. <a id="5350_LO6"></a> Get first-hand experience **constructing & implementing** a ‘cheap and cheerful’ restoration project by *building* structures you *designed*.
-7. <a id="5350_LO7"></a> Understand the principles of **Post Project Appraisals and Monitoring** and how to evaluate overall restoration objectives and test design hypotheses. 
-8. <a id="5350_LO8"></a> *Apply* the evaluation and adjust loops of an **Adaptive Management Plan ** to see how the process of learning-by-doing can work.
+1. Gain direct experience *applying* knowledge as a watershed scientist to working on real-world aquatic ecosystem **restoration and management problems** (e.g. stream restoration, watershed management,wetland restoration) with practitioners. 
+2. Provide constructively critical *evaluations* of various aspects ofrestoration projects through a mix of **peer-review** of other student projects and *evaluation* of real-world projects.
+3. Build a working *understanding* of the typical **process** through which restoration projects are designed, constructed, evaluated and adaptively managed. 
+4. Develop a working *understanding* of different aspects and approaches to **restoration design** and *create* two types of design and *evaluate* their ability to achieve project objectives. *Articulate* specific, testable **design hypotheses** for your own designs.
+5. *Develop* a pragmatic **Adaptive Management Plan** for a real project.
+6. Get first-hand experience **constructing & implementing** a ‘cheap and cheerful’ restoration project by *building* structures you *designed*.
+7. Understand the principles of **Post Project Appraisals and Monitoring** and how to evaluate overall restoration objectives and test design hypotheses. 
+8. *Apply* the evaluation and adjust loops of an **Adaptive Management Plan ** to see how the process of learning-by-doing can work.
 
 ---
 Note: The words in *italics* above refer to specific types of learning objectives (cesnu [Bloom's Taxonomy](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/)), whereas the **bold** words describe the specific topics students will be developing those skills with respect to. 
