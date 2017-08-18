@@ -1,5 +1,5 @@
 ---
-title: WATS 5340 Course Synthesis
+title: 9. WATS 5340 Course Synthesis
 ---
 
 ## Background

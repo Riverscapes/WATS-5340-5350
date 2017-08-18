@@ -1,5 +1,5 @@
 ---
-title: Visioning
+title: 6. Visioning
 ---
 
 ## Background

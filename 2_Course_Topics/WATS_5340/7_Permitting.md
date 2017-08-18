@@ -1,5 +1,5 @@
 ---
-title: Permitting
+title: 7. Permitting
 ---
 
 ## Background

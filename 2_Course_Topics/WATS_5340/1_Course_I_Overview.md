@@ -1,5 +1,5 @@
 ---
-title: Course Overview
+title: 1. Course Overview
 ---
 
 ## Background
