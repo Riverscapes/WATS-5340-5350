@@ -28,3 +28,7 @@ For Fall semester 2017, we will typically be meeting in [Huntsman Hall 126](http
 | 9-10  | [Permitting Projects]({{ site.baseurl }}/2_Course_Topics/WATS_5340/7_Permitting) | L.O. 7, 1, 3       | Permit Application/ Guest Lecture from Regulator(s) | Prepare Permit Applications              |
 | 12-14 | [Conceptual Design Process]({{ site.baseurl }}/2_Course_Topics/WATS_5340/8_Conceptual_Design) | L.O. 8, 1, 2, 3 | Alterative Conceptual Designs / Field Site Visit as needed | Conceptual Design Reports                |
 | 15    | [Course Synthesis & Introduction to WATS 5350]({{ site.baseurl }}/2_Course_Topics/WATS_5340/9_Course_I_Synthesis) | L.O. 6 | Design Presentations                     |                                          |
+
+### Agenda from Canvas
+
+<iframe src="https://calendar.google.com/calendar/embed?title=WATS%205340%20-%20Capstone&amp;showNav=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;src=bhhpcpicn4qeg6bs0gaumcf9f3faagdv%40import.calendar.google.com&amp;color=%23182C57&amp;ctz=America%2FDenver" style="border-width:0" width="600" height="600" frameborder="0" scrolling="no"></iframe>
