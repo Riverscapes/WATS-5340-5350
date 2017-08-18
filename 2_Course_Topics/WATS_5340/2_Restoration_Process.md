@@ -24,4 +24,4 @@ dd
 
 
 ----
-← [Previous Topic]()      &nbsp;&nbsp;         [Next Topic]() →
+← [Previous Topic](1_Course_I_Overview)      &nbsp;&nbsp;&nbsp;          [Next Topic](3_Assessing_Condition) →
