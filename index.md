@@ -27,17 +27,17 @@ Field trips are required.
 Students learn the theory and skills covered throughout MRAE program to real-world management and restoration projects. Topics include:
 * restoration design, 
 * adaptive management plan preparation,
-*  construction bidding, 
-*  project implementation, 
-*  construction oversight, 
-*  post project appraisal, 
-*  monitoring and maintenance. 
-  
+* construction bidding, 
+* project implementation, 
+* construction oversight, 
+* post project appraisal, 
+* monitoring and maintenance. 
+
 Field trips required.
 
 ## Canvas 
 
 For students enrolled, all course materials can be found on this site, whereas you will submit assignments, track your grades and engage in collaborations on our [Canvas Course Pages](https://usu.instructure.com/courses/468472)
 
-[![canvas_logo]({{ site.baseurl }}assets/Images/canvas_logo.png)](https://usu.instructure.com/courses/468472)
+[![canvas_logo](assets/Images/canvas_logo.png)](https://usu.instructure.com/courses/468472)
 
