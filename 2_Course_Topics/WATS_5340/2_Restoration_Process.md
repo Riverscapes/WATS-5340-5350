@@ -1,5 +1,5 @@
 ---
-title: Restoration Process
+title: 2. Restoration Process
 ---
 
 ## Background
@@ -7,11 +7,23 @@ title: Restoration Process
 ### Synopsis of Topic
 Some synopsis...
 
+
+
+[![ApproachesCompared_500](../../assets/Images/ApproachesCompared_500.png)]((../../assets/Images/ApproachesCompared.png))
+
+[![ApproachesCompared2_500](../../assets/Images/ApproachesCompared2_500.png)](../../assets/Images/ApproachesCompared2.png)
+
 ### Why we're covering it
+
 dd
 
+
+
+
+
 ### Learning Outcomes
-dd
+
+* Build a working *understanding* of the typical **process** through which restoration projects are conceived, proposed, planned, permitted and conceptually designed. 
 
 ------
 ## Resources
