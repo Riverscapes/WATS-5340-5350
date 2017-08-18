@@ -1,11 +1,12 @@
 ---
 title: Approximate Schedule
 ---
-## Schedule 
+
+## Schedule
+
 Our our [Canvas Course Pages](https://usu.instructure.com/courses/468472) has an up to date calendar and is the *official* source for assignment due dates, meeting times and field trips.
 
 [![canvas_logo]({{ site.baseurl }}assets/Images/canvas_logo.png)] (https://usu.instructure.com/courses/468472)
-
 
 For Fall semester 2017, we will typically be meeting in [Huntsman Hall 126](https://www.usu.edu/map/index.cfm?id=678) on Friday afternoons. We will sometimes be in the field.  
 
