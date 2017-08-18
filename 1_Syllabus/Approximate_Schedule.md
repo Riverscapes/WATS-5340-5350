@@ -1,4 +1,6 @@
-6title:  Syllabus & Schedule
+---
+title:  Syllabus & Schedule
+---
 
 This is a year-long course, taught over two semesters (WATS 5340 & WATS 5350) for a total of four credits.
 
