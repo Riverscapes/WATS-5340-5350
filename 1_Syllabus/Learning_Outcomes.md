@@ -6,7 +6,7 @@ title: Learning Outcomes
 
 ![Blooms](../assets/Images/Blooms.png)
 
-[anchor test](l#5350_L06)
+[anchor test](#5350_L06)
 The learning outcomes for the two capstone courses are related, and build on each other largely helping students understand and gain direct experience in the typical lifecycle of restoration projects.
 
 ### WATS 5340 - Capstone I
