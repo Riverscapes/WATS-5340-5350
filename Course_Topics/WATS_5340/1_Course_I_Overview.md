@@ -1,5 +1,6 @@
 ---
-title: 9. WATS 5340 Course Synthesis
+title: Course Overview
+weight: 1
 ---
 
 ## Background
@@ -21,7 +22,7 @@ dd
 
 ### Relevant or Cited Literature
 
-
+##
 
 ----
-← [Previous Topic](8_Conceptual_Design)
+← [Previous Topic]()              [Next Topic]() →

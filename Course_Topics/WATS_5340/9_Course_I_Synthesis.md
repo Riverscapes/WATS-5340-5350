@@ -1,5 +1,6 @@
 ---
-title: 4. Management Objectives
+title: WATS 5340 Course Synthesis
+weight: 9
 ---
 
 ## Background
@@ -24,4 +25,4 @@ dd
 
 
 ----
-← [Previous Topic](3_Assessing_Condition)      &nbsp;&nbsp;&nbsp;          [Next Topic](4_Management_Objectives) →
+← [Previous Topic](8_Conceptual_Design)

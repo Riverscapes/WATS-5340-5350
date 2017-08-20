@@ -1,5 +1,6 @@
 ---
-title: 5. Planning & Prioritization
+title: Assessing Condition
+weight: 3
 ---
 
 ## Background
@@ -24,4 +25,4 @@ dd
 
 
 ----
-← [Previous Topic](4_Management_Objectives)      &nbsp;&nbsp;&nbsp;          [Next Topic](6_Visioning) →
+← [Previous Topic](2_Restoration_Process)      &nbsp;&nbsp;&nbsp;          [Next Topic](4_Management_Objectives) →

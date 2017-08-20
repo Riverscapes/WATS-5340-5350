@@ -1,5 +1,6 @@
 ---
-title: 1. Course Overview
+title: Visioning
+weight: 6
 ---
 
 ## Background
@@ -21,7 +22,7 @@ dd
 
 ### Relevant or Cited Literature
 
-##
+
 
 ----
-← [Previous Topic]()              [Next Topic]() →
+← [Previous Topic](5_Planning_Prioritization)      &nbsp;&nbsp;&nbsp;          [Next Topic](7_Permitting) →

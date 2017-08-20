@@ -1,5 +1,6 @@
 ---
-title: 2. Restoration Process
+title: Restoration Process
+weight: 2
 ---
 
 ## Background

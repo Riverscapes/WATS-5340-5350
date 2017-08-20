@@ -1,5 +1,6 @@
 ---
-title: 3. Assessing Condition
+title: Management Objectives
+weight: 4
 ---
 
 ## Background
@@ -24,4 +25,4 @@ dd
 
 
 ----
-← [Previous Topic](2_Restoration_Process)      &nbsp;&nbsp;&nbsp;          [Next Topic](4_Management_Objectives) →
+← [Previous Topic](3_Assessing_Condition)      &nbsp;&nbsp;&nbsp;          [Next Topic](4_Management_Objectives) →

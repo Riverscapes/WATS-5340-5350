@@ -1,5 +1,6 @@
 ---
-title: 6. Visioning
+title: Planning & Prioritization
+weight: 5
 ---
 
 ## Background
@@ -24,4 +25,4 @@ dd
 
 
 ----
-← [Previous Topic](5_Planning_Prioritization)      &nbsp;&nbsp;&nbsp;          [Next Topic](7_Permitting) →
+← [Previous Topic](4_Management_Objectives)      &nbsp;&nbsp;&nbsp;          [Next Topic](6_Visioning) →

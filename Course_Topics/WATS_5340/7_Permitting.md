@@ -1,5 +1,6 @@
 ---
-title: 7. Permitting
+title: Permitting
+weight: 7
 ---
 
 ## Background
