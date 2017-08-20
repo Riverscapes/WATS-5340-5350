@@ -1,5 +1,6 @@
 ---
-title:  Syllabus & Schedule
+title:  Schedule
+weight: 1
 ---
 
 This is a year-long course, taught over two semesters (WATS 5340 & WATS 5350) for a total of four credits.
@@ -49,17 +50,17 @@ For Spring semester 2018, we will typically be meeting in [(Location TBD)](https
 
 | Week     | Topic                                    | [Learning Outcomes]({{ site.baseurl }}/1_Syllabus/Learning_Outcomes) | Labs/ Field Trips                        | Assignments                              |
 | -------- | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
-| 1        | [Course Overview & Review of WATS 5340]({{ site.baseurl }}/2_Course_Topics/WATS_5350/1_Course_I_Overview) | L.O. 3                                   | Field Trip Visit Project Site(s)         | Review Restoration Designs               |
-| 2        | [Overview of Restoration Design & Implementation Process]({{ site.baseurl }}/2_Course_Topics/WATS_5350/2_Restoration_Process) | L.O. 2, 3                                | Meet real design practitioners           | Reading                                  |
-| 3        | [Restoration Design - Geomorphic Principles]({{ site.baseurl }}/2_Course_Topics/WATS_5350/3_Assessing_Condition) | L.O. 4                                   | Field trip for identification of valley setting, geomorphic units and structural elements. | Prepare geomorphic map                   |
-| 4        | [Restoration Design - Grading Plans]({{ site.baseurl }}/2_Course_Topics/WATS_5350/4_Management_Objectives) | L.O. 3, 4, 1                             | Grading Plan Development in CAD or GIS   | Grading Plan (individual)                |
-| 5        | [Restoration Design - Design Hypothesis Generation & Testing]({{ site.baseurl }}/2_Course_Topics/WATS_5350/5_Planning_Prioritization) | L.O. 4, 1                                | Design hypothesis generation & testing with simulation modeling | Bioenergetics Modeling Report            |
-| 6-7      | [Restoration Design - Field Designs & Cheap & Cheerful]({{ site.baseurl }}/2_Course_Topics/WATS_5350/6_Visioning) | L.O. 3, 4, 1                             | Designing Pilots (week 1) ; Field design with design apps (week 2) | Conduct field design and prepare plan; Peer Review |
-| 8-9 & 14 | [Adaptive Management Plans]({{ site.baseurl }}/2_Course_Topics/WATS_5350/7_Permitting) | L.O. 5, 8, 1                             | Adaptive Management Planning (site visit as necessary); ‘Maintenance’ field trip; Use monitoring to evaluate and refine plan. | Prepare Adaptive Management Plan; Revise Plan |
-| 10       | [Construction Bidding & Planning]({{ site.baseurl }}/2_Course_Topics/WATS_5350/8_Conceptual_Design) | L.O. 6, 1, 2                             | Guest lecture/visit with engineering contractors | Evaluate Bids                            |
-| 11-12    | [Construction Implementation & Oversight]({{ site.baseurl }}/2_Course_Topics/WATS_5350/8_Conceptual_Design) | L.O. 6, 1                                | Build BDAs and PALs (local project) – 2 field trips (one to Birch Creek; one to new project) | As-Built Report & Lessons Learnt         |
-| 13       | [Post Project Appraisal]({{ site.baseurl }}/2_Course_Topics/WATS_5350/8_Conceptual_Design) | L.O. 7                                   | Testing design hypotheses through building – rapid assessment apps - BACI | PPA Vignette                             |
-| 15       | [Course Synthesis through Adaptive Management - Learning by Doing]({{ site.baseurl }}/2_Course_Topics/WATS_5350/9_Course_I_Synthesis) | L.O. 6                                   | Student Presentations                    |                                          |
+| 1        | [Course Overview & Review of WATS 5340]({{ site.baseurl }}/2_Course_Topics/WATS_5350/01_Course_II_Overview) | L.O. 3                                   | Field Trip Visit Project Site(s)         | Review Restoration Designs               |
+| 2        | [Overview of Restoration Design & Implementation Process]({{ site.baseurl }}/2_Course_Topics/WATS_5350/02_Implementation_Overview) | L.O. 2, 3                                | Meet real design practitioners           | Reading                                  |
+| 3        | [Restoration Design - Geomorphic Principles]({{ site.baseurl }}/2_Course_Topics/WATS_5350/03_Design_Geomorphic_Principles) | L.O. 4                                   | Field trip for identification of valley setting, geomorphic units and structural elements. | Prepare geomorphic map                   |
+| 4        | [Restoration Design - Grading Plans]({{ site.baseurl }}/2_Course_Topics/WATS_5350/04_Design_Grading) | L.O. 3, 4, 1                             | Grading Plan Development in CAD or GIS   | Grading Plan (individual)                |
+| 5        | [Restoration Design - Design Hypothesis Generation & Testing]({{ site.baseurl }}/2_Course_Topics/WATS_5350/05_Design_Hypotheses) | L.O. 4, 1                                | Design hypothesis generation & testing with simulation modeling | Bioenergetics Modeling Report            |
+| 6-7      | [Restoration Design - Field Designs & Cheap & Cheerful]({{ site.baseurl }}/2_Course_Topics/WATS_5350/06_Field_Design) | L.O. 3, 4, 1                             | Designing Pilots (week 1) ; Field design with design apps (week 2) | Conduct field design and prepare plan; Peer Review |
+| 8-9 & 14 | [Adaptive Management Plans]({{ site.baseurl }}/2_Course_Topics/WATS_5350/07_Adaptive_Management) | L.O. 5, 8, 1                             | Adaptive Management Planning (site visit as necessary); ‘Maintenance’ field trip; Use monitoring to evaluate and refine plan. | Prepare Adaptive Management Plan; Revise Plan |
+| 10       | [Construction Bidding & Planning]({{ site.baseurl }}/2_Course_Topics/WATS_5350/08_Construction_Bidding) | L.O. 6, 1, 2                             | Guest lecture/visit with engineering contractors | Evaluate Bids                            |
+| 11-12    | [Construction Implementation & Oversight]({{ site.baseurl }}/2_Course_Topics/WATS_5350/09_Construction_Implementation) | L.O. 6, 1                                | Build BDAs and PALs (local project) – 2 field trips (one to Birch Creek; one to new project) | As-Built Report & Lessons Learnt         |
+| 13       | [Post Project Appraisal]({{ site.baseurl }}/2_Course_Topics/WATS_5350/10_Post_Project_Appraisal) | L.O. 7                                   | Testing design hypotheses through building – rapid assessment apps - BACI | PPA Vignette                             |
+| 15       | [Course Synthesis through Adaptive Management - Learning by Doing]({{ site.baseurl }}/2_Course_Topics/WATS_5350/11_Course_II_Synthesis) | L.O. 6                                   | Student Presentations                    |                                          |
 
 ### Agenda from Canvas
 

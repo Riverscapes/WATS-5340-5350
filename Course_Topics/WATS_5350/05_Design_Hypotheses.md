@@ -1,5 +1,6 @@
 ---
-title: Restoration Design: Design Hypothesis Generation & Testing
+title: Restoration Design - Design Hypothesis Generation & Testing
+weight: 5
 ---
 
 ## Background

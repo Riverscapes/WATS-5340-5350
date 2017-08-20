@@ -1,6 +1,6 @@
 ---
-title: Restoration Design: Geomorphic Principles
-weight: 1
+title: Restoration Design - Geomorphic Principles
+weight: 3
 ---
 
 ## Background

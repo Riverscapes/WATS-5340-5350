@@ -1,5 +1,5 @@
 ---
-title: Restoration Design: Grading Plans
+title: Restoration Design - Grading Plans
 weight: 4
 ---
 

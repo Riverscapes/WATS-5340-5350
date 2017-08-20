@@ -1,5 +1,5 @@
 ---
-title: Restoration Design: Field Design & Engineering
+title: Restoration Design - Field Design & Engineering
 weight: 6
 ---
 
