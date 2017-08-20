@@ -1,6 +1,6 @@
 ---
-title: Restoration Design: Grading Plans
-weight: 4
+title: Course Synthesis
+weight: 11
 ---
 
 ## Background
