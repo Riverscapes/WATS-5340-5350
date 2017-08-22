@@ -4,7 +4,7 @@ title: Course Policies
 
 ## WATS 5340 and 5350 Policies:
 
-Our own course policies include:
+Our own course policies for WATS 5340 and 5350 include:
 
 * *Late work*. Any work submitted past the due date will receive an automatic 10% reductionunless due to a pre-approved excused absence. Any work turned in over one weekpast the due date may not be accepted without prior approval.
 * *Working together*. You are welcome and expected to work together on assignments andprojects. However, each student must undertake their own analyses, make theirown maps, produce their own figures, conduct their own peer reviews andcontribute to the production of group reports. Specific guidelines for theseexpectations will be provided on each assignment. Plagiarism will not be tolerated.Copying figures or text without appropriate citations or permission will not betolerated.
