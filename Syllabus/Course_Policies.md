@@ -1,5 +1,6 @@
 ---
 title: Course Policies 
+weight: 99
 ---
 
 ## WATS 5340 and 5350 Policies:
