@@ -1,5 +1,5 @@
 ---
-title: Management & Restoration of Aquatic Ecosystems Capstone Course
+![Solar_eclipse_1999_4_NR](C:\0_GIT\Restoration\WATS-5340-5350\assets\Images\Solar_eclipse_1999_4_NR.jpg)title: Management & Restoration of Aquatic Ecosystems Capstone Course
 ---
 
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
