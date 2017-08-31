@@ -1,6 +1,6 @@
 ---
 title: Assessing Condition
-weight: 3
+weight: 2
 ---
 
 ## Background
