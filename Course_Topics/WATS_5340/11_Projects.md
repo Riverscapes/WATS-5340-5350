@@ -1,6 +1,6 @@
 ---
-title: Conceptual Design
-weight: 8
+title: Design Alternatives Project
+weight: 11
 ---
 
 ## Background

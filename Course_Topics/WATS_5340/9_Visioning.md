@@ -1,6 +1,6 @@
 ---
-title: Visioning
-weight: 6
+title: Visioning Restoration Alternatives
+weight: 9
 ---
 
 ## Background
