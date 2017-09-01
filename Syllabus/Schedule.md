@@ -62,7 +62,7 @@ For Spring semester 2018, we will typically be meeting in [(Location TBD)](https
 | 13       | [Post Project Appraisal]({{ site.baseurl }}/2_Course_Topics/WATS_5350/10_Post_Project_Appraisal) | L.O. 7                                   | Testing design hypotheses through building – rapid assessment apps - BACI | PPA Vignette                             |
 | 15       | [Course Synthesis through Adaptive Management - Learning by Doing]({{ site.baseurl }}/2_Course_Topics/WATS_5350/11_Course_II_Synthesis) | L.O. 6                                   | Student Presentations                    |                                          |
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR5Ra1YseDSUUPBTJPQDP6aLS1d-T5-j5LefZ84USulvpDKZDQ11mR5TLCwsMXj1CmOV97imOteo2Jz/pubhtml?gid=2029979020&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR5Ra1YseDSUUPBTJPQDP6aLS1d-T5-j5LefZ84USulvpDKZDQ11mR5TLCwsMXj1CmOV97imOteo2Jz/pubhtml?gid=2029979020&amp;single=true&amp;widget=true&amp;headers=false" width="800"></iframe>
 
 ### Agenda from Canvas
 
