@@ -1,6 +1,6 @@
 ---
-title: Planning & Prioritization
-weight: 5
+title: Scoring & Ranking Design Alternatives
+weight: 8
 ---
 
 ## Background

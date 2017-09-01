@@ -1,6 +1,6 @@
 ---
-title: Permitting
-weight: 10
+title: Strategic Prioritization
+weight: 7
 ---
 
 ## Background
@@ -25,4 +25,4 @@ dd
 
 
 ----
-← [Previous Topic](6_Visioning)      &nbsp;&nbsp;&nbsp;          [Next Topic](8_Conceptual_Design) →
+← [Previous Topic](4_Management_Objectives)      &nbsp;&nbsp;&nbsp;          [Next Topic](6_Visioning) →
