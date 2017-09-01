@@ -1,6 +1,6 @@
 ---
 title: WATS 5340 Course Synthesis
-weight: 9
+weight: 15
 ---
 
 ## Background
