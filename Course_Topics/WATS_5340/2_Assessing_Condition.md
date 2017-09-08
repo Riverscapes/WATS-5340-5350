@@ -6,7 +6,11 @@ weight: 2
 ## Background
 
 ### Synopsis of Topic
-Some synopsis...
+There are many ways to define *restoration* and the related management actions we take to improve things. Regardless of the definition you subscribe to,  implicit in taking such *restoration* actions is the idea that current conditions are worse than either they were previously, or worse than they could be.  Condition can be described with simple qualitative categories (e.g. poor, moderate, good intact), descriptive categories (e.g. functioning properly, functioning at risk, impaired function), or with some sort of continuous score (e.g. 0 to 100% departure from historic).
+
+
+
+![WatershedCondition](../../assets/Images/WatershedCondition.png)
 
 ### Why we're covering it
 dd
@@ -25,4 +29,4 @@ dd
 
 
 ----
-← [Previous Topic](2_Restoration_Process)      &nbsp;&nbsp;&nbsp;          [Next Topic](4_Management_Objectives) →
+← [Previous Topic](1_Overview)     &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;          [Next Topic](3_Restoration_Process) →
