@@ -1,3 +1,22 @@
+{% if site.settings.autoPageContents.active %}
+	{% if page.url != "/" or site.settings.autoPageContents.onHome %}
+	<div class="title-bar">
+		<div class="title-bar-title"><i class="fa fa-file-text"></i> Page Contents</div>		
+	</div>
+	<div id="toc"></div>
+	{% endif %}
+{% endif %}
+
+<div class="title-bar">
+	<div class="title-bar-title"><i class="fa fa-sitemap"></i> Site Contents
+		<div id="menuCtls" class="button-group tiny show-for-medium">
+				<span id="expand" class="button primary fa fa-plus has-tip top" data-tooltip title="Expand all items" aria-haspopup="true" data-disable-hover="false" ></span>
+				<span id="contract" class="button primary fa fa-minus has-tip top" data-tooltip title="Contract all items" aria-haspopup="true" data-disable-hover="false" ></span>
+			</div>	
+	</div>
+</div>
+<div id="sidenav"></div>
+
 <div id="toc"></div>
 
 <div id="sidenav">
@@ -8,7 +27,7 @@
 	<h4><span class="fa fa-sitemap"></span> Site Contents:</h4>
 </div>
 
-<div class="callout">
+<!-- <div class="callout">
     <h4 class=""><span class="fa fa-leaf"></span>Useful Links</h4>
     <ul class="nav card-text">
       <li><a href="http://qcnr.usu.edu/wats//">USU Department of Watershed Sciences</a></li>
@@ -17,4 +36,4 @@
 	  <li><a href="http://joewheaton.org">Joe Wheaton</a> (<a href="https://qcnr.usu.edu/directory/wheaton_joseph">staff page</a>)</li>
 	  <li><a href="http://etal.joewheaton.org">Wheaton Ecogeomorphology & Topographic Analysis Lab (ET-AL) @ the Fluvial Habitats Center</a></li>    
 	</ul>
-</div>
+</div> -->
