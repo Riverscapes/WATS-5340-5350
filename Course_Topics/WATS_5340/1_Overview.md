@@ -42,4 +42,4 @@ BDA specific  Talks:
 6. 2017. *Invited Webinar. ***Wheaton JM **and Maestas J. [Cheap and Cheerful Stream and Riparian Restoration: Beaver Dam Analogues as a Low-cost Tool](https://www.researchgate.net/publication/315498006_Cheap_and_Cheerful_Stream_and_Riparian_Restoration_Beaver_Dam_Analogues_as_a_Low-cost_Tool). NRCS Science and Technology [Webinar Series](https://www.researchgate.net/publication/315498006_Cheap_and_Cheerful_Stream_and_Riparian_Restoration_Beaver_Dam_Analogues_as_a_Low-cost_Tool). DOI: [10.13140/RG.2.2.36295.70563](http://dx.doi.org/10.13140/RG.2.2.36295.70563)
 
 ----
-← [Previous Topic]()              [Next Topic]() →
+[Next Topic](2_Assessing_Condition) →
