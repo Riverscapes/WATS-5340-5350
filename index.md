@@ -1,8 +1,6 @@
 ---
-![Solar_eclipse_1999_4_NR](C:\0_GIT\Restoration\WATS-5340-5350\assets\Images\Solar_eclipse_1999_4_NR.jpg)title: Management & Restoration of Aquatic Ecosystems Capstone Course
+title: Management & Restoration of Aquatic Ecosystems Capstone Course
 ---
-
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 ## Course Overview
 
@@ -13,6 +11,7 @@ A total of four credits (2 in fall, Capstone I, and 2 in spring, Capstone II) wi
 ## Course Descriptions
 
 ### WATS 5340 - Capstone I
+
 Students learn the application of the principles, theory, and skills of Watershed Science to aquatic ecosystem management and restoration projects. Assignments and group projects include:
 * diagnosing aquatic ecosystem impairments, 
 * objective definition, 
@@ -24,7 +23,9 @@ Students learn the application of the principles, theory, and skills of Watershe
 Field trips are required.
 
 ### WATS 5350 - Capstone II
+
 Students learn the theory and skills covered throughout MRAE program to real-world management and restoration projects. Topics include:
+
 * restoration design, 
 * adaptive management plan preparation,
 * construction bidding, 
@@ -40,4 +41,3 @@ Field trips required.
 For students enrolled, all course materials can be found on this site, whereas you will submit assignments, track your grades and engage in collaborations on our [Canvas Course Pages](https://usu.instructure.com/courses/468472)
 
 [![canvas_logo](assets/Images/canvas_logo.png)](https://usu.instructure.com/courses/468472)
-
