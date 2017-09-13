@@ -10,9 +10,9 @@ Some synopsis...
 
 
 
-[![ApproachesCompared_500](../../assets/Images/ApproachesCompared_500.png)](../../assets/Images/ApproachesCompared.png)
+[![ApproachesCompared_500](../../assets/images/ApproachesCompared_500.png)](../../assets/Images/ApproachesCompared.png)
 
-[![ApproachesCompared2_500](../../assets/Images/ApproachesCompared2_500.png)](../../assets/Images/ApproachesCompared2.png)
+[![ApproachesCompared2_500](../../assets/images/ApproachesCompared2_500.png)](../../assets/Images/ApproachesCompared2.png)
 
 ### Why we're covering it
 

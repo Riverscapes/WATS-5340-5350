@@ -4,7 +4,7 @@ title: Learning Outcomes
 
 ## Course Descriptions
 
-![Blooms](../assets/Images/Blooms.png)
+![Blooms](../assets/images/Blooms.png)
 
 The learning outcomes for the two capstone courses are related, and build on each other largely helping students understand and gain direct experience in the typical lifecycle of restoration projects.
 
