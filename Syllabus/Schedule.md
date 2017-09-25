@@ -24,7 +24,7 @@ For Fall semester 2017, we will typically be meeting in [Huntsman Hall 126](http
 
 Our our [Canvas Course Pages](https://usu.instructure.com/courses/468472) has an up to date calendar and is the *official* source for assignment due dates, meeting times and field trips.
 
-[![canvas_logo]({{ site.baseurl }}assets/Images/canvas_logo.png)] (https://usu.instructure.com/courses/468472)
+[![canvas_logo]({{ site.baseurl }}assets/images/canvas_logo.png)] (https://usu.instructure.com/courses/468472)
 
 <iframe src="https://calendar.google.com/calendar/embed?title=WATS%205340%20-%20Capstone&amp;showNav=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;src=bhhpcpicn4qeg6bs0gaumcf9f3faagdv%40import.calendar.google.com&amp;color=%23182C57&amp;ctz=America%2FDenver" style="border-width:0" width="600" height="600" frameborder="0" scrolling="no"></iframe>
 
