@@ -28,10 +28,13 @@ The main learning outcome met is number 4 below, but all of these apply in this 
 
 ### Datasets
 
-GIS for Students Only:
+GIS Data for Students Only:
 
 * [Logan River Aerial Photos](https://usu.box.com/v/LoganRiverAPs) for 1952, 1959, 1966, 1974, 1974, 1977, 1980, 1981, 1987, 1993, 1997, 2004, 2008, 2010, 2011, 2012, 2013
+* 2016-2017 Geomorphic Change Detection Project - *If you download and install [GCD addIn](http://gcd.joewheaton.org) this is the easiest way to view the in-channel topographic surveys for the area.* 
 * [Logan River LiDAR Survey](https://usu.box.com/v/LoganRiverLiDAR) - From ??
+* [Logan River Watershed BRAT](https://usu.box.com/v/LoganBRAT) - The [Beaver Restoration Assessment Tool](http://brat.riverscapes.xyz) outputs for Logan River.
+* [Logan River Context Layers](https://usu.box.com/s/8y151kzgf489yxnrb9mo8vtupf4n5eet) - *A stream network with reaches delineated, and valley bottoms.*
 
 
 
