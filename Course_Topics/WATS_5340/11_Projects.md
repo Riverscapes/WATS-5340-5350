@@ -45,10 +45,6 @@ GIS Data for Students Only:
 * [Logan River Restoration Conservation Action Plan](http://www.loganutah.org/loganriverrestorationconservationactionplanMay2016.pdf), May 2016, Biowest. Logan, Utah.
 * [Logan River Restoration 2016-2017 Demonstration Projects](http://www.loganutah.org/departments/parkrec/LoganRiverResoration2016-2017DemonstrationProjectsPresentation.pdf), Power Point.
 * [Logan River Rendezvous Reach Restoration Plans 2017](https://usu.box.com/v/2017LoganRestoration), *in here you'll find 35%, 60%, 90%, 95% and 100% Construction Design Documents, cost estimates, bid specifications, and other useful information all form Bio-West.*
-* 600 West Flooding 3/23/17 https://www.youtube.com/watch?v=vam1TIG1hf0
-  * 0:00 – 2:00 and 4:00 – end show flooding between 6th W (Park Ave) and 10th W on Kunzler (north of river), ICON and City properties (south of river). Video starts at 6th W looking east then pans north and west
-* 1000 West Flooding 3/23/17 https://www.youtube.com/watch?v=YMzuNltyUeg#t=5.482027
-  * The video starts at 10th W and pans briefly to the east showing flooding of Kunzler property east of the highway (ICON is large white building south of the river). A short portion of the video returns to this area (around 2:15) but most of it (2:15 - shows flooding of Kunzler properties west of 10th W (as well as flooding on ICON south of the river east of 10th W). The Logan River is outlined by the crack willow trees. At 3:30 you can see a small, straight drainage and small line of trees at the middle right (3 o’clock) of the frame. This is the Little Logan River which marks the north boundary of Kunzler’s largest parcel where it intercepts the Logan River (small clump of trees at 12 o’clock).
 
 ------
 
