@@ -27,13 +27,14 @@ weight: 2
 
 #### Excercise Materials
 Download all materials below to easy to find place (e.g. `c:\0_Logan`).
-* Excercise 1 - River Styles [KMZ](https://usu.box.com/v/LoganRiverStylesMain)
-* Excercise 2 - Hand out (mapping confining margins)
-* Excercise 3 to  - Manual Mapping of Geomorphic Units - Download [Merged & Clipped LiDAR 2015 and August 2016 Total Station Surveys](https://usu.box.com/v/LoganRiver-2016-LiDaR-TS-50cm) - I recommend using this for today, grading plan and hydraulics. If you really want it, [here is a 10 cm version](https://usu.box.com/v/LoganRiver-2016-LiDaR-TS-10cm) (its huge though!).
-* Context: Hydraulics: [Tyler Alred's Q2 and Q100 HEC-RAS-2D Depth Rasters](https://usu.box.com/v/Alred-HECRAS2D-LoganRiver-2016) - These were created based on 2015 LiDAR and [HEC-RAS](http://www.hec.usace.army.mil/software/hec-ras/)
-* Excerise 6- Inspecting Geomorphic Units: [Logan River (Golf Course Road to 10th West) GUT 2.2.1 Project](https://usu.box.com/v/GUT-LoganRiver-City-2016-Aug) - This was run for the seven contiguous [CHaMP](http://champmonitoring.org) topographic surveys from August 2016 from Golf Course Road to 10 West. I used the Geomorphic Unit Toolkit ([GUT Version 2.2.1](https://github.com/Riverscapes/pyGUT/releases/tag/2.2.1)) individually on each reach and merged the inputs and outputs into one. If you want to run GUT yourself, see the [documentaton here](https://riverscapes.github.io/pyGUT/). The video below walks you through an example of running GUT on the Logan (including explaining inputs):
+- Excercise 1 - River Styles [KMZ](https://usu.box.com/v/LoganRiverStylesMain)
+- Excercise 2 - Hand out (mapping confining margins)
+- Excercise 3 to  - Manual Mapping of Geomorphic Units - Download [Merged & Clipped LiDAR 2015 and August 2016 Total Station Surveys](https://usu.box.com/v/LoganRiver-2016-LiDaR-TS-50cm) - I recommend using this for today, grading plan and hydraulics. If you really want it, [here is a 10 cm version](https://usu.box.com/v/LoganRiver-2016-LiDaR-TS-10cm) (its huge though!).
+- Context: Hydraulics: [Tyler Alred's Q2 and Q100 HEC-RAS-2D Depth Rasters](https://usu.box.com/v/Alred-HECRAS2D-LoganRiver-2016) - These were created based on 2015 LiDAR and [HEC-RAS](http://www.hec.usace.army.mil/software/hec-ras/)
+- Excerise 6- Inspecting Geomorphic Units: [Logan River (Golf Course Road to 10th West) GUT 2.2.1 Project](https://usu.box.com/v/GUT-LoganRiver-City-2016-Aug) - This was run for the seven contiguous [CHaMP](http://champmonitoring.org) topographic surveys from August 2016 from Golf Course Road to 10 West. I used the Geomorphic Unit Toolkit ([GUT Version 2.2.1](https://github.com/Riverscapes/pyGUT/releases/tag/2.2.1)) individually on each reach and merged the inputs and outputs into one. If you want to run GUT yourself, see the [documentaton here](https://riverscapes.github.io/pyGUT/). The video below walks you through an example of running GUT on the Logan (including explaining inputs):
 <iframe width="560" height="315" src="https://www.youtube.com/embed/90wbto5YQRg?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-* Optional [Geomorphic Change Detection](http://gcd.riverscapes.xyz) from [April 2016 to August 2016](https://usu.box.com/v/2016-2017GCD) (A GCD 6 Project)
+
+- Optional [Geomorphic Change Detection](http://gcd.riverscapes.xyz) from [April 2016 to August 2016](https://usu.box.com/v/2016-2017GCD) (A GCD 6 Project)
 
 ### Relevant or Cited Literature
 
