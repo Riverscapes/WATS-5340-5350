@@ -34,7 +34,7 @@ Download all materials below to easy to find place (e.g. `c:\0_Logan`).
 - Excerise 6- Inspecting Geomorphic Units: [Logan River (Golf Course Road to 10th West) GUT 2.2.1 Project](https://usu.box.com/v/GUT-LoganRiver-City-2016-Aug) - This was run for the seven contiguous [CHaMP](http://champmonitoring.org) topographic surveys from August 2016 from Golf Course Road to 10 West. I used the Geomorphic Unit Toolkit ([GUT Version 2.2.1](https://github.com/Riverscapes/pyGUT/releases/tag/2.2.1)) individually on each reach and merged the inputs and outputs into one. If you want to run GUT yourself, see the [documentaton here](https://riverscapes.github.io/pyGUT/). The video below walks you through an example of running GUT on the Logan (including explaining inputs):
 <iframe width="560" height="315" src="https://www.youtube.com/embed/90wbto5YQRg?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-- Optional [Geomorphic Change Detection](http://gcd.riverscapes.xyz) from [April 2016 to August 2016](https://usu.box.com/v/2016-2017GCD) (A GCD 6 Project)
+- Optional [Geomorphic Change Detection](http://gcd.riverscapes.xyz) from April 2016 to August 2016 [GCD 6 Project](https://usu.box.com/v/2016-2017GCD) or [GCD 7 Project](https://usu.box.com/v/LoganRiver2016-GCD-7) - see [this video for GCD 7](https://youtu.be/u4w1pa3IAAY)
 
 ### Relevant or Cited Literature
 
