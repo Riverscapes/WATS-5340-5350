@@ -28,6 +28,7 @@
       <meta name="msapplication-TileColor" content="#ffffff">
       <meta name="msapplication-TileImage" content="{{ site.baseurl }}/assets/images/favicons/ms-icon-144x144.png">
       <meta name="theme-color" content="#ffffff">
+      <link rel="shortcut icon" href="{{ site.baseurl }}/assets/images/favicons/favicon.ico" />
 
       <!--[if lt IE 9]>
       <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -36,22 +37,37 @@
 
   <body>
 
-  <div id="topbarnav"></div>
   <header>
-    <div class="text-center callout large">
-      <a href="{{ site.baseurl }}"><img src="{{ site.baseurl }}/assets/images/WATS53405350_Banner_Web.png" alt="WATS 5340 and 5350"></a>
+    <div id="topbarnav"></div>
+    <div id="headcallout" class="text-center callout large">
+      {% if page.url == "/" %}
+      <h1>{{ site.title | replace: 'Riverscapes Consortium', '<div class="RCLogo">Riverscapes Consortium</div>' }}</h1>
+        {% if page.subtitle %}
+          <h3 class="post-subtitle subheader">{{ site.description }}</h3>    
+        {% endif %}
+      {% else %}
+
+      
+      <h4 class="subheader show-for-medium"><a href="{{ site.baseurl }}/">{{  site.title }}</a></h4>   
+      <h1>{{ page.title | replace: 'Riverscapes Consortium', '<div class="RCLogo">Riverscapes Consortium</div>' }}</h1>
+        {% if page.subtitle %}
+          <h3 class="post-subtitle subheader">{{ page.subtitle }}</h3>    
+        {% endif %}    
+      {% endif %}
     </div>
   </header>
 
-  <div id="inner" class="row">
-    <div id="main" class="large-8 columns large-push-4">
-      <h1>{{ page.title }}</h1> 
-      <section>{{ content }}</section>
-    </div>
-    <div id="sidebar" class="large-4 columns large-pull-8">
-        {% include sidenav.html %}
+  <div id="inner-wrapper">
+    <div id="inner" class="row">
+      <div id="main" class="large-8 columns large-push-4">
+        <section>{{ content }}</section>
       </div>
+      <div id="sidebar" class="large-4 columns large-pull-8">
+          {% include sidenav.html %}
+        </div>
+    </div>
   </div>
+
 
     {% include footer.html %}
     {% include navigation.html context="/" %}

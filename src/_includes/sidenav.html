@@ -15,18 +15,17 @@
 			</div>	
 	</div>
 </div>
+<div id="sidenav">
+	{% capture html %}
 
-<div id="sidenav"></div>
-
-<div class="title-bar">
-	<div class="title-bar-title"><i class="fa fa-link"></i> Useful Links</div>
-</div>
-	<div class="sidebar-content">
-	<ul>
-	<li><a href="http://qcnr.usu.edu/wats//">USU Department of Watershed Sciences</a></li>
-	  <li><a href="https://qcnr.usu.edu/undergraduates/prospective/degrees/aquatic_ecosystems">Management & Restoration of Aquatic Ecosystems</a></li>
-	  <li><a href="http://qcnr.usu.edu/directory/wilcock_peter">Peter Wilcock</a></li>
-	  <li><a href="http://joewheaton.org">Joe Wheaton</a> (<a href="https://qcnr.usu.edu/directory/wheaton_joseph">staff page</a>)</li>
-	  <li><a href="http://etal.joewheaton.org">Wheaton Ecogeomorphology & Topographic Analysis Lab (ET-AL) @ the Fluvial Habitats Center</a></li>
+	{% assign entries = site.pages | sort: "path" %}
+	<ul id='HTMLOnlyNav'>
+	{% for entry in entries %}
+		{% capture slug    %}{{ entry.url | split: "/"   | last                       }}{% endcapture %}
+		{% capture current %}{{ entry.url | remove: slug | remove: "//" | append: "/" }}{% endcapture %}
+		<li><a href='{{ site.baseurl }}{{ entry.url }}'>{{entry.title}}</a></li>
+	{% endfor %}
 	</ul>
+
+	{% endcapture %}{{ html | strip_newlines | replace:'    ','' | replace:'    ','' | replace:'  ',' ' }}
 </div>
