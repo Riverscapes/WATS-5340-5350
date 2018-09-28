@@ -32,7 +32,15 @@ Secondarily, we will build towards:
 
 #### 2018
 
-* [Lecture & Discussion Slides](http://etalweb.joewheaton.org/Courses/WATS5340/2018/Condition_Assessment_2018.pdf)
+- [Lecture & Discussion Slides](http://etalweb.joewheaton.org/Courses/WATS5340/2018/Condition_Assessment_2018.pdf)
+- [Middle Bear BRAT Layer Package](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5340/2018/Excercises/Condition/LittleBearLogan_BRAT.lpk)
+- [Middle Bear RCAT Layer Package](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5340/2018/Excercises/Condition/LittleBearLogan_RCAT.lpk)
+- [Middle Bear BRAT](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5340/2018/Excercises/Condition/Et_Al_16010203_BRAT.zip)
+- [Middle Bear Floodplain Connectivity](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5340/2018/Excercises/Condition/Et_Al_16010203_FP_Connectivity.zip)
+- [Middle Bear RCAT](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5340/2018/Excercises/Condition/Et_Al_16010203_RCA.zip)
+- [Middle Bear VBET](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5340/2018/Excercises/Condition/Et_Al_16010203_VBET.zip)
+- [Watershed Boundaries]()
+
 
 #### 2017
 * [Trail Creek GIS Data on Box](https://usu.box.com/v/wats5340-condition)
