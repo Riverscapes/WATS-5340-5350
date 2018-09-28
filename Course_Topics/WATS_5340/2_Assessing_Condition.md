@@ -30,12 +30,6 @@ Secondarily, we will build towards:
 
 ### Workshop Slides & Handouts
 
-#### 2018
-
-* [Lecture & Discussion Slides](http://etalweb.joewheaton.org/Courses/WATS5340/2018/Condition_Assessment_2018.pdf)
-
-#### 2017
-
 * [Trail Creek GIS Data on Box](https://usu.box.com/v/wats5340-condition)
 * [Lecture & Discussion Slides](http://etalweb.joewheaton.org/Courses/WATS5340/2017/Condition_Assessment.pdf)
 
@@ -61,6 +55,7 @@ Secondarily, we will build towards:
 - [USFS Watershed Condition Framework](https://www.fs.fed.us/biology/watershed/condition_framework.html)
 - River Styles - [Geomorphic Condition Assessment](http://www.riverstyles.com/river-styles-framework-outline/stage-2-geomorphic-river-condition/)
 - USEPA - [Wadeable Streams Assessment](https://www.epa.gov/national-aquatic-resource-surveys/wadeable-streams-assessment)
+
 
 ----
 ← [Previous Topic](1_Overview)     &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;          
