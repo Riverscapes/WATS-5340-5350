@@ -65,7 +65,7 @@ Possible determinations under [NEPA's review process](https://www.epa.gov/nepa/n
 
 Sometimes, a determination under NEPA for your proposed restoration may already exist (e.g. a project on USFS where installing BDAs was already included in their Forest Plan, which required NEPA review). Much of it boils down to interpetation and precedent too. Most restoration projects typically fall under a CATEX or EA/FONSI. 
 
-Many NEPA certification programs exist including [one here at USU](https://qcnr.usu.edu/nepa/):
+Many NEPA certification programs exist including [one here at USU](https://qcnr.usu.edu/nepa/). 
 
 
 
