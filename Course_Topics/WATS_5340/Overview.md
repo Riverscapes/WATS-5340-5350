@@ -41,5 +41,8 @@ BDA specific  Talks:
 5. 2017. *Invited Keynote*. **Wheaton JM**. [The Role of Beaver in Promoting Better Health for Streams](https://www.researchgate.net/publication/316428092_The_Role_of_Beaver_in_Promoting_Better_Health_for_Streams). Bridgerland Audubon Society. Logan, UT. DOI: [10.13140/RG.2.2.36677.04328](http://dx.doi.org/10.13140/RG.2.2.36677.04328)
 6. 2017. *Invited Webinar. ***Wheaton JM **and Maestas J. [Cheap and Cheerful Stream and Riparian Restoration: Beaver Dam Analogues as a Low-cost Tool](https://www.researchgate.net/publication/315498006_Cheap_and_Cheerful_Stream_and_Riparian_Restoration_Beaver_Dam_Analogues_as_a_Low-cost_Tool). NRCS Science and Technology [Webinar Series](https://www.researchgate.net/publication/315498006_Cheap_and_Cheerful_Stream_and_Riparian_Restoration_Beaver_Dam_Analogues_as_a_Low-cost_Tool). DOI: [10.13140/RG.2.2.36295.70563](http://dx.doi.org/10.13140/RG.2.2.36295.70563)
 
-----
-[Next Topic](2_Assessing_Condition) →
+-----
+<div align="center">
+	<a class="hollow button" href="{{ site/baseurl }}/Course_Topics/WATS_5340/Restoration_Process"> Next Topic <i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a>  
+
+</div>
