@@ -1,6 +1,6 @@
 ---
 title: Permitting
-weight: 10
+weight: 6
 ---
 
 ## Background
@@ -25,7 +25,6 @@ The most relevant [learning outcomes]({{ site.baseurl }}/Syllabus/Learning_Outco
 Each year, for a specific [low-tech process based restoration](https://www.sagegrouseinitiative.com/what-is-low-tech-stream-restoration/) project you will design and build in the spring, we have students prepare a real [Joint Permit Application Form](https://www.waterrights.utah.gov/strmalt/forms.asp) to the [Utah Division of Water Rights](https://www.waterrights.utah.gov/strmalt/default.asp) for a Stream Alteration Permit for compliance under [§73-3-29](https://le.utah.gov/xcode/Title73/Chapter3/73-3-S29.html) of Utah Code. The U.S. Army Corps of Engineers is resposnible for administering [§404 of the Clean Water Act](https://www.epa.gov/cwa-404/clean-water-act-section-404), which regulates the discharge of dredged or fill material into waters of the United States. If the imacts of the proposed 'alterations' are minor enough (as is typically the case in [low-tech process based restoration](https://www.sagegrouseinitiative.com/what-is-low-tech-stream-restoration/)), then a project can be approved under this joint permit application. 
 
 For example, the work the spring 2018 class did on Three Mile Creek, fell under this [stream alteration permit: 17-25-002](https://waterrights.utah.gov/cgi-bin/strmview.exe?Modinfo=Viewapp&Permit_Number=17250002), whreas the work that the Fall 2017 and Fall 2018 classes did on Trail Creek fell under this [stream alteration permit: 17-25-003](https://waterrights.utah.gov/cgi-bin/strmview.exe?Modinfo=Viewapp&Permit_Number=17250003). 
-
 
 ------
 ## Resources
@@ -86,5 +85,9 @@ If you wish to translocate beaver, you need to work with the [Utah Division of W
 - Haddock R. 2015. [Beaver Restoration Across Boundaries](https://www.rockies.ca/files/reports/Beaver%20Restoration%20Across%20Boundaries_Mar_26_2015.pdf), [Miistakis Institute](https://www.rockies.ca/reports.php), Calgary, Alberta, 38 pp. _- A nice review of beaver management by state._
 
 
-----
-← [Previous Topic](6_Visioning)      &nbsp;&nbsp;&nbsp;          [Next Topic](8_Conceptual_Design) →
+-----
+<div align="center">
+	<a class="hollow button" href="{{ site/baseurl }}/Course_Topics/WATS_5340/SDM"><i class="fa fa-arrow-circle-left" aria-hidden="true"></i> Previous Topic</a>
+	<a class="hollow button" href="{{ site/baseurl }}/Course_Topics/WATS_5340/Projects"> Next Topic <i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a>  
+
+</div>

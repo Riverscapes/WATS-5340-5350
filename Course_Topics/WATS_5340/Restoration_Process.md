@@ -32,8 +32,7 @@ To learn more about the restoration process, by looking at a real restoration pr
 Peter's slides from 2017:
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQHBau1JxUEdypuwXyMJfBes0zGgLoN3_0YhQMAegj9MikVRdWaUKJLHo6kX5ywI6a25gFcfMWFOW96/embed?start=false&loop=false&delayms=3000" frameborder="0" width="550" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-<iframe id="iframepdf" src="http://all-geo.org/jefferson/wp-content/uploads/2012/12/Kenney-2012-is-urban-restoration-worth-it.pdf"></iframe>
-https://drive.google.com/open?id=1yJoLMNRFB2XfFLUK00b97V9U5b8fvuJU
+
 ###  Resources
 
 * Logan River CAP Table- [`Logan River Conservation Action Plan.xlsx`](https://usu.box.com/s/bavz45cvba1eyg8exg4734hjq1i3epg3) 

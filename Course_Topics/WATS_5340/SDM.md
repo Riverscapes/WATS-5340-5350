@@ -36,6 +36,3 @@ The most relevant [learning outcomes]({{ site.baseurl }}/Syllabus/Learning_Outco
 	<a class="hollow button" href="{{ site/baseurl }}/Course_Topics/WATS_5340/Permitting"> Next Topic <i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a>  
 
 </div>
-
-----
-← [Previous Topic](4_Management_Objectives)      &nbsp;&nbsp;&nbsp;          [Next Topic](6_Visioning) →

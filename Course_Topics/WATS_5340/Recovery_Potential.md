@@ -25,6 +25,15 @@ The course [learning outcomes]({{ site.baseurl }}/Syllabus/Learning_Outcomes.htm
 ### Slides
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTYm34HFTtc_XZkk7uH2Uq0IPTLVdkOtOpoCToHyjp8ja1hwKrZu97meOCNZoo1RXcwbR_3sT-imCKo/embed?start=false&loop=false&delayms=3000" frameborder="0" width="550" height="450" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+### Tools we Used
+
+In class we used both [BRAT](http://brat.riverscapes.xyz) & [RCAT](http://rcat.riverscapes.xyz) as examples to conceptualize the idea of recovery potential. 
+
+<div align="center">
+	<a class="button alert" href="http://brat.riverscapes.xyz"><img src="{{ site.baseurl }}/assets/images/BRAT_Logo-wGrayTxt.png"></a>
+	<a class="button alert" href="http://brat.riverscapes.xyz"><img src="{{ site.baseurl }}/assets/images/RCAT_Logo-wTxt.png"></a>
+</div>
+
 ### Relevant or Cited Literature
 
 #### Books we Looked at in Class:
@@ -38,9 +47,10 @@ The course [learning outcomes]({{ site.baseurl }}/Syllabus/Learning_Outcomes.htm
 
 #### Specific Articles or Chapters:
 
-* Fryirs K, Brierley GJ and Erskine WD. 2012. Use of ergodic reasoning to reconstruct the historical range of variability and evolutionary trajectory of rivers. Earth Surface Processes and Landforms. 37(7): 763-773. DOI: [10.1002/esp.3210](http://dx.doi.org/10.1002/esp.3210).
-* Fryirs KA. 2015. Developing and using geomorphic condition assessments for river rehabilitation planning, implementation and monitoring. Wiley Interdisciplinary Reviews: Water. 2(6): 649-667. DOI: [10.1002/wat2.1100](http://dx.doi.org/10.1002/wat2.1100).
-* Fryirs KA. 2016. River sensitivity: A lost foundation concept in fluvial geomorphology. Earth Surface Processes and Landforms. DOI: 10.1002/esp.3940.
+- Macfarlane WW, Gilbert JT, Gilbert JD, Saunders WC, Hough-Snee N, Hafen C, Wheaton JM and Bennett SN. 2018. [What are the Conditions of Riparian Ecosystems? Identifying Impaired Floodplain Ecosystems across the Western U.S. Using the Riparian Condition Assessment (RCA) Tool.](https://www.researchgate.net/publication/325098563_What_are_the_Conditions_of_Riparian_Ecosystems_Identifying_Impaired_Floodplain_Ecosystems_across_the_Western_US_Using_the_Riparian_Condition_Assessment_RCA_Tool) Environmental Management. DOI: [10.1007/s00267-018-1061-2](http://dx.doi.org/10.1007/s00267-018-1061-2).
+- Fryirs K, Brierley GJ and Erskine WD. 2012. Use of ergodic reasoning to reconstruct the historical range of variability and evolutionary trajectory of rivers. Earth Surface Processes and Landforms. 37(7): 763-773. DOI: [10.1002/esp.3210](http://dx.doi.org/10.1002/esp.3210).
+- Fryirs KA. 2015. Developing and using geomorphic condition assessments for river rehabilitation planning, implementation and monitoring. Wiley Interdisciplinary Reviews: Water. 2(6): 649-667. DOI: [10.1002/wat2.1100](http://dx.doi.org/10.1002/wat2.1100).
+- Fryirs KA. 2016. River sensitivity: A lost foundation concept in fluvial geomorphology. Earth Surface Processes and Landforms. DOI: 10.1002/esp.3940.
 * Kondolf GM and Yang C-N. 2008. [Planning River Restoration Projects: Social and Cultural Dimensions](http://www1.inecol.edu.mx/repara/download/III_1_RiverRestorationManagingTheUncertaintyInRestoringPhysicalHabitat_I.pdf#page=58), River Restoration. John Wiley & Sons, Ltd, pp. 41-60. DOI:  [10.1002/9780470867082.ch4](http://dx.doi.org/10.1002/9780470867082.ch4).
 
 
