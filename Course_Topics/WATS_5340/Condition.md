@@ -1,6 +1,6 @@
 ---
 title: Condition & Impairment Assessment
-weight: 2
+weight: 3
 ---
 
 ## Background
@@ -19,7 +19,7 @@ Although it is possible to just jump into restoration actions without a clear ev
 ### Learning Outcomes
 Of the course [learning outcomes](https://restoration-usu.github.io/WATS-5340-5350/Syllabus/Learning_Outcomes.html), we are primarily focused this week on:
 
-4. Identify* and *document* specific **watershed or ecosystem impairments** in relationship to pre-defined management objectives.
+4. _Identify_ and _document_ specific **watershed or ecosystem impairments** in relationship to pre-defined management objectives.
 
 Secondarily, we will build towards:
 
@@ -33,6 +33,15 @@ Secondarily, we will build towards:
 #### 2018
 
 - [Lecture & Discussion Slides](http://etalweb.joewheaton.org/Courses/WATS5340/2018/Condition_Assessment_2018.pdf)
+
+Background & Definitions:
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRLHUC4hXamRLl9cRYeFbdkovQXkJKNjgT2H-dgx4X9peNNEJuqpz8aGzKkjINtljZiPsJVVdjHSIDI/embed?start=false&loop=false&delayms=3000" frameborder="0" width="550" height="450" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+Examples:
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS-tcYMJ17hL7diAyrR8e0dgXMbW9vLpHC60YtVsVzUqQ2FF8pAh5DAvc835S04Pbh1dw2Ep50jS9Fx/embed?start=false&loop=false&delayms=3000" frameborder="0" width="550" height="450" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+##### Datasets for Richards Hollow
+
 - [Middle Bear BRAT Layer Package](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5340/2018/Excercises/Condition/LittleBearLogan_BRAT.lpk)
 - [Middle Bear RCAT Layer Package](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5340/2018/Excercises/Condition/LittleBearLogan_RCAT.lpk)
 - [Middle Bear BRAT](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5340/2018/Excercises/Condition/Et_Al_16010203_BRAT.zip)
@@ -46,7 +55,14 @@ Secondarily, we will build towards:
 * [Trail Creek GIS Data on Box](https://usu.box.com/v/wats5340-condition)
 * [Lecture & Discussion Slides](http://etalweb.joewheaton.org/Courses/WATS5340/2017/Condition_Assessment.pdf)
 
+### Tools we Used
 
+In class we used both [BRAT](http://brat.riverscapes.xyz) & [RCAT](http://rcat.riverscapes.xyz) as examples to conceptualize the idea of recovery potential. 
+
+<div align="center">
+	<a class="button alert" href="http://brat.riverscapes.xyz"><img src="{{ site.baseurl }}/assets/images/BRAT_Logo-wGrayTxt.png"></a>
+	<a class="button alert" href="http://brat.riverscapes.xyz"><img src="{{ site.baseurl }}/assets/images/RCAT_Logo-wTxt.png"></a>
+</div>
 
 ### Relevant or Cited Literature
 
@@ -71,8 +87,9 @@ Secondarily, we will build towards:
 - River Styles - [Geomorphic Condition Assessment](http://www.riverstyles.com/river-styles-framework-outline/stage-2-geomorphic-river-condition/)
 - USEPA - [Wadeable Streams Assessment](https://www.epa.gov/national-aquatic-resource-surveys/wadeable-streams-assessment)
 
+-----
+<div align="center">
+	<a class="hollow button" href="{{ site/baseurl }}/Course_Topics/WATS_5340/Restoration_Process"><i class="fa fa-arrow-circle-left" aria-hidden="true"></i> Previous Topic</a>
+	<a class="hollow button" href="{{ site/baseurl }}/Course_Topics/WATS_5340/Recovery_Potential"> Next Topic <i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a>  
 
-----
-← [Previous Topic](1_Overview)     &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;          
-
-[Next Topic](3_Restoration_Process) →
+</div>

@@ -1,6 +1,6 @@
 ---
 title: Restoration Process
-weight: 3
+weight: 2
 ---
 
 ## Background
@@ -28,10 +28,13 @@ To learn more about the restoration process, by looking at a real restoration pr
 ------
 ## Resources
 
-### Slides & Handouts
+### Slides
+Peter's slides from 2017:
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQHBau1JxUEdypuwXyMJfBes0zGgLoN3_0YhQMAegj9MikVRdWaUKJLHo6kX5ywI6a25gFcfMWFOW96/embed?start=false&loop=false&delayms=3000" frameborder="0" width="550" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-* [Anoucement](https://usu.instructure.com/courses/468472/discussion_topics/1540555)
-* Class Slides
+
+###  Resources
+
 * Logan River CAP Table- [`Logan River Conservation Action Plan.xlsx`](https://usu.box.com/s/bavz45cvba1eyg8exg4734hjq1i3epg3) 
 
 ### Relevant or Cited Literature
@@ -50,5 +53,10 @@ To learn more about the restoration process, by looking at a real restoration pr
 * [Allred Restoration](http://www.allred-restoration.com/) - *Consulting firm here in Logan (Tyler Alred)*
 * [City of Logan](http://www.loganutah.org/) - *Client & Lead on Logan River Restoration*
 
-----
-← [Previous Topic](1_Course_I_Overview)      &nbsp;&nbsp;&nbsp;          [Next Topic](3_Assessing_Condition) →
+-----
+<div align="center">
+	<a class="hollow button" href="{{ site/baseurl }}/Course_Topics/WATS_5340/Overview"><i class="fa fa-arrow-circle-left" aria-hidden="true"></i> Previous Topic</a>
+	<a class="hollow button" href="{{ site/baseurl }}/Course_Topics/WATS_5340/Condition"> Next Topic <i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a>  
+
+</div>
+
