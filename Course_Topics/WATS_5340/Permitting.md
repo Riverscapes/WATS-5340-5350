@@ -22,7 +22,7 @@ The most relevant [learning outcomes]({{ site.baseurl }}/Syllabus/Learning_Outco
 -----
 ## Assignment
 
-Each year, for a specific [low-tech process based restoration](https://www.sagegrouseinitiative.com/what-is-low-tech-stream-restoration/) project you will design and build in the spring, we have students prepare a real [Joint Permit Application Form](https://www.waterrights.utah.gov/strmalt/forms.asp) to the [Utah Division of Water Rights](https://www.waterrights.utah.gov/strmalt/default.asp) for a Stream Alteration Permit for compliance under [§73-3-29](https://le.utah.gov/xcode/Title73/Chapter3/73-3-S29.html) of Utah Code. The U.S. Army Corps of Engineers is resposnible for administering [§404 of the Clean Water Act](https://www.epa.gov/cwa-404/clean-water-act-section-404), which regulates the discharge of dredged or fill material into waters of the United States. If the imacts of the proposed 'alterations' are minor enough (as is typically the case in [low-tech process based restoration](https://www.sagegrouseinitiative.com/what-is-low-tech-stream-restoration/)), then a project can be approved under this joint permit application. 
+Each year, for a specific [low-tech process based restoration](https://www.sagegrouseinitiative.com/what-is-low-tech-stream-restoration/) project you will design and build in the spring, we have students prepare a real [Joint Permit Application Form](https://www.waterrights.utah.gov/strmalt/forms.asp) to the [Utah Division of Water Rights](https://www.waterrights.utah.gov/strmalt/default.asp) for a Stream Alteration Permit for compliance under [§73-3-29](https://le.utah.gov/xcode/Title73/Chapter3/73-3-S29.html) of Utah Code. The U.S. Army Corps of Engineers is responsible for administering [§404 of the Clean Water Act](https://www.epa.gov/cwa-404/clean-water-act-section-404), which regulates the discharge of dredged or fill material into waters of the United States. If the impacts of the proposed 'alterations' are minor enough (as is typically the case in [low-tech process based restoration](https://www.sagegrouseinitiative.com/what-is-low-tech-stream-restoration/)), then a project can be approved under this joint permit application. 
 
 For example, the work the spring 2018 class did on Three Mile Creek, fell under this [stream alteration permit: 17-25-002](https://waterrights.utah.gov/cgi-bin/strmview.exe?Modinfo=Viewapp&Permit_Number=17250002), whreas the work that the Fall 2017 and Fall 2018 classes did on Trail Creek fell under this [stream alteration permit: 17-25-003](https://waterrights.utah.gov/cgi-bin/strmview.exe?Modinfo=Viewapp&Permit_Number=17250003). 
 
@@ -38,12 +38,11 @@ The [Clean Water Act](https://www.epa.gov/laws-regulations/summary-clean-water-a
 
 > The Clean Water Act (CWA) establishes the basic structure for regulating discharges of pollutants into the waters of the United States and regulating quality standards for surface waters. The basis of the CWA was enacted in 1948 and was called the Federal Water Pollution Control Act, but the Act was significantly reorganized and expanded in 1972. "Clean Water Act" became the Act's common name with amendments in 1972.
 
-Essentially, any disturbance or modification you do as part of restoration construction has the potential to dischrage pollutants into waters, and therefore a stream alteration permit is often required. In many states (e.g. Utah) there is a joint-permit application where a state agencey (typically a Division of Water Resources or Rights) acts as the clearing house for a permit application that is considered jointly by the state and federal counterparts at the US Army Corps of Engineers. Some states actually require separate applications to the US Army Corps of Engineers and the State agency. In some localities, a county or city municipality may have further requirements.  
+Essentially, any disturbance or modification you do as part of restoration construction has the potential to discharge pollutants into waters, and therefore a stream alteration permit is often required. In many states (e.g. Utah) there is a joint-permit application where a state agency (typically a Division of Water Resources or Rights) acts as the clearing house for a permit application that is considered jointly by the state and federal counterparts at the US Army Corps of Engineers. Some states actually require separate applications to the US Army Corps of Engineers and the State agency. In some localities, a county or city municipality may have further requirements.  
 
 ##### ESA
 
-When it comes to managing for specific species of flora and fauna and their habitats, the [Endangered Species Act](http://uscode.house.gov/browse/prelim@title16/chapter35&edition=prelim) is the most signifcant piece of legisliation. There are many 
-As [summarized by the EPA](https://www.epa.gov/laws-regulations/summary-endangered-species-act):
+When it comes to managing for specific species of flora and fauna and their habitats, the [Endangered Species Act](http://uscode.house.gov/browse/prelim@title16/chapter35&edition=prelim) is the most significant piece of legislation. As [summarized by the EPA](https://www.epa.gov/laws-regulations/summary-endangered-species-act):
 
 >The Endangered Species Act (ESA) provides a program for the conservation of threatened and endangered plants and animals and the habitats in which they are found. The lead federal agencies for implementing ESA are the [U.S. Fish and Wildlife Service](http://www.fws.gov/) (FWS) and the [U.S. National Oceanic and Atmospheric Administration](http://www.nmfs.noaa.gov/) (NOAA) [Fisheries Service](http://www.nmfs.noaa.gov/). The FWS maintains a worldwide [list of endangered species](http://www.fws.gov/endangered/species/index.html). Species include birds, insects, fish, reptiles, mammals, crustaceans, flowers, grasses, and trees.
 >
@@ -62,7 +61,7 @@ Possible determinations under [NEPA's review process](https://www.epa.gov/nepa/n
 - [Environmental Assessment/Finding of No Significant Impact](https://www.epa.gov/nepa/national-environmental-policy-act-review-process#ea) (EA/FONSI)
 - [Environmental Impact Statement](https://www.epa.gov/nepa/national-environmental-policy-act-review-process#EIS) (EIS)
 
-Sometimes, a determination under NEPA for your proposed restoration may already exist (e.g. a project on USFS where installing BDAs was already included in their Forest Plan, which required NEPA review). Much of it boils down to interpetation and precedent too. Most restoration projects typically fall under a CATEX or EA/FONSI. 
+Sometimes, a determination under NEPA for your proposed restoration may already exist (e.g. a project on USFS where installing BDAs was already included in their Forest Plan, which required NEPA review). Much of it boils down to interpretation and precedent too. Most restoration projects typically fall under a CATEX or EA/FONSI. 
 
 Many NEPA certification programs exist including [one here at USU](https://qcnr.usu.edu/nepa/). 
 
@@ -70,7 +69,7 @@ Many NEPA certification programs exist including [one here at USU](https://qcnr.
 
 #### Specific State Permitting Examples
 ##### Utah
-In Utah, when you're working under streams, the main permits you need to worrry about are a [stream alteration permit]()
+In Utah, when you're working under streams, the main permits you need to worry about are a [stream alteration permit]()
 
 In order to install low-cost, instream structures in the State of Utah, a [stream alteration permit](https://waterrights.utah.gov/strmalt/default.asp) is potentially required. To do this for the workshop, we applied for such a permit using the US Army Corps of Engineers and Utah Division of Water Resources, Joint Application Form. 
 
@@ -83,7 +82,6 @@ If you wish to translocate beaver, you need to work with the [Utah Division of W
 ### References
 
 - Haddock R. 2015. [Beaver Restoration Across Boundaries](https://www.rockies.ca/files/reports/Beaver%20Restoration%20Across%20Boundaries_Mar_26_2015.pdf), [Miistakis Institute](https://www.rockies.ca/reports.php), Calgary, Alberta, 38 pp. _- A nice review of beaver management by state._
-
 
 -----
 <div align="center">
