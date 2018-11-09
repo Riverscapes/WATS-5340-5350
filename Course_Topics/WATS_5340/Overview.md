@@ -43,6 +43,6 @@ BDA specific  Talks:
 
 -----
 <div align="center">
-	<a class="hollow button" href="{{ site/baseurl }}/Course_Topics/WATS_5340/Restoration_Process"> Next Topic <i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a>  
+	<a class="hollow button" href="{{ site.baseurl }}/Course_Topics/WATS_5340/Restoration_Process"> Next Topic <i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a>  
 
 </div>

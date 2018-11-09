@@ -85,11 +85,11 @@ In class we used both [BRAT](http://brat.riverscapes.xyz) & [RCAT](http://rcat.r
 
 - [USFS Watershed Condition Framework](https://www.fs.fed.us/biology/watershed/condition_framework.html)
 - River Styles - [Geomorphic Condition Assessment](http://www.riverstyles.com/river-styles-framework-outline/stage-2-geomorphic-river-condition/)
-- USEPA - [Wadeable Streams Assessment](https://www.epa.gov/national-aquatic-resource-surveys/wadeable-streams-assessment)
+- USEPA:  [Wadeable Streams Assessment](https://www.epa.gov/national-aquatic-resource-surveys/wadeable-streams-assessment)
 
 -----
 <div align="center">
-	<a class="hollow button" href="{{ site/baseurl }}/Course_Topics/WATS_5340/Restoration_Process"><i class="fa fa-arrow-circle-left" aria-hidden="true"></i> Previous Topic</a>
-	<a class="hollow button" href="{{ site/baseurl }}/Course_Topics/WATS_5340/Recovery_Potential"> Next Topic <i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a>  
+	<a class="hollow button" href="{{ site.baseurl }}/Course_Topics/WATS_5340/Restoration_Process"><i class="fa fa-arrow-circle-left" aria-hidden="true"></i> Previous Topic</a>
+	<a class="hollow button" href="{{ site.baseurl }}/Course_Topics/WATS_5340/Recovery_Potential"> Next Topic <i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a>  
 
 </div>

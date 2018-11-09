@@ -57,6 +57,6 @@ In class we used both [BRAT](http://brat.riverscapes.xyz) & [RCAT](http://rcat.r
 
 -----
 <div align="center">
-	<a class="hollow button" href="{{ site/baseurl }}/Course_Topics/WATS_5340/Condition"><i class="fa fa-arrow-circle-left" aria-hidden="true"></i> Previous Topic</a>
-	<a class="hollow button" href="{{ site/baseurl }}/Course_Topics/WATS_5340/SDM"> Next Topic <i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a>  
+	<a class="hollow button" href="{{ site.baseurl }}/Course_Topics/WATS_5340/Condition"><i class="fa fa-arrow-circle-left" aria-hidden="true"></i> Previous Topic</a>
+	<a class="hollow button" href="{{ site.baseurl }}/Course_Topics/WATS_5340/SDM"> Next Topic <i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a>  
 </div>

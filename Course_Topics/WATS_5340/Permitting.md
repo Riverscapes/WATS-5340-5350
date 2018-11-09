@@ -85,7 +85,7 @@ If you wish to translocate beaver, you need to work with the [Utah Division of W
 
 -----
 <div align="center">
-	<a class="hollow button" href="{{ site/baseurl }}/Course_Topics/WATS_5340/SDM"><i class="fa fa-arrow-circle-left" aria-hidden="true"></i> Previous Topic</a>
-	<a class="hollow button" href="{{ site/baseurl }}/Course_Topics/WATS_5340/Projects"> Next Topic <i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a>  
+	<a class="hollow button" href="{{ site.baseurl }}/Course_Topics/WATS_5340/SDM"><i class="fa fa-arrow-circle-left" aria-hidden="true"></i> Previous Topic</a>
+	<a class="hollow button" href="{{ site.baseurl }}/Course_Topics/WATS_5340/Projects"> Next Topic <i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a>  
 
 </div>
