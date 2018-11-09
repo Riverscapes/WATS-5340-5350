@@ -6,7 +6,7 @@ weight: 9
 ## Background
 
 ### Synopsis of Topic
-It is sometimes critical to communicate the aspirations of what you're trying to achieve as a vision to a target audience. There are many ways to convey this message and vision, including vision statements, graphics, maps, videos, presentations, posters, glossy fact sheets, etc.  Visioning is not always done for restoration projects, but can be a critical and important step in helping a project go from just an idea or notion and build the support to help make it a reality. 
+It is often critical to communicate the aspirations of what you're trying to achieve as a vision to a target audience. There are many ways to convey this message and vision, including vision statements, graphics, maps, videos, presentations, posters, glossy fact sheets, etc.  Visioning is not always done for restoration projects, but can be a critical and important step in helping a project go from just an idea or notion and build the support to help make it a reality. 
 
 ### Why we're covering it
 Depending on the audience you are targeting, a vision is sometimes essential to securing funding for restoration projects or proposals, building necessary stakeholder support and buy-in, or successfully navigating regulatory and permitting hurdles. You need to have the skills necessary to communicate and illustrate such visions to be a successful practitioner. 
@@ -18,11 +18,37 @@ Depending on the audience you are targeting, a vision is sometimes essential to 
 ## Resources
 
 ### Slides & Handouts
-* [Joe's Slides on Visioning for Restoration](http://etalweb.joewheaton.org/Courses/WATS5340/2017/Restoration_Visioning.pdf)
+* [Joe's 2017 Slides on Visioning for Restoration](http://etalweb.joewheaton.org/Courses/WATS5340/2017/Restoration_Visioning.pdf)
+
+#### Joe's 2018 Slides on Visioning
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTJYVAt3rB-0vtQWdrKa-XIwFsNib37AljRB_WVkkMlxvaBLWUGsdJLdI78-2Ii4QkFXrR2nLzuQSZk/embed?start=false&loop=false&delayms=3000" frameborder="0" width="550" height="450" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
+
+
+#### Social Connectivity in Urban Rivers
+An excerpt of [Matt Kondolf's](https://ced.berkeley.edu/ced/faculty-staff/g-mathias-kondolf) Slides from his 2016 keynote Binghamton Talk:
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT4DJJCOjeRoAyhf8n0B0CdRLHsrAtC9QTsSzimx7YwZ_CrTqpcUvhWLMtuiFCFxNg9hHx4k5E8f3zY/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+- Kondolf G.M & Pinto P. (2017) [Social Connectivity of Urban Rivers](https://usu.instructure.com/courses/493648/files/folder/Papers?preview=70880025). Geomorphology. 227 (15) pp. 182-196. DOI: [10.1016/j.geomorph.2016.09.028](http://dx.doi.org/10.1016/j.geomorph.2016.09.028)
+- Kondolf G.M. & Podolak K. (2011)  [Urban Rivers: Landscapes of Leisure and Consumption](https://usu.instructure.com/courses/493648/files/folder/Papers?preview=71451895). Chapter 7 in PM Santos and PC, (eds). [Globalization and Metropolization: Perspective on Europe's West Coast](http://edicoes.ufp.pt/en/product/humanidades/globalization-and-metropolization-perspectives-on-europes-west-coast).
+
+------
 
 ### Visions we Looked at in Class
 
-#### Ones I pointed you to:
+#### RRC UK
+- The [River Restoration Centre](https://www.therrc.co.uk/) [Manual of River Restoration Techniques](https://www.therrc.co.uk/manual-river-restoration-techniques), includes a number of great examples linked off of [this table](https://www.therrc.co.uk/MOT/MOT_Tabular_view.pdf) of illustrative visions of specific restoration projects.
+
+#### Portneuf River Vision Study, ID
+
+- [Portneuf River Vision Study](http://river.pocatello.us/), 2016  - [PDF](http://river.pocatello.us/vision-study/)
+
+------
+
+#### Other Vision Examples
 
 * [Los Angeles River](https://youtu.be/hIZL2R5BDi8), CA
 
@@ -60,17 +86,9 @@ Depending on the audience you are targeting, a vision is sometimes essential to 
 
 * [USC Stream Team Emergency Stream Intervention](http://www.u-s-c.org/html/Streamteam.htm)
 
-  ​
-
   ![Emergency Stream Intervention](http://www.u-s-c.org/html/images/esiPOSTERa.JPG)
 
-  ​
 
-##### Portneuf River Vision Study, ID
-
-* [Portneuf River Vision Study](http://river.pocatello.us/), 2016  - [PDF](http://river.pocatello.us/vision-study/)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zm25owMMNbE?rel=0" frameborder="0" allowfullscreen></iframe>
 
 
 
@@ -80,20 +98,19 @@ Depending on the audience you are targeting, a vision is sometimes essential to 
 
 Text:
 
-" The River Restoration Project will replace a dam and surround it with 80 acres of parks for hiking, biking, and recreation that includes paddling a thriving river. During the summer of 2014, Phil Hagerman walked the Flint river with friend and Flint resident, Kathleen Gazall. They spoke of what the river could become if the dangerous Hamilton Dam was removed and replaced with a more naturalized river. That conversation continued with community partners who shared this vision and the River Restoration Project was born.
+> The River Restoration Project will replace a dam and surround it with 80 acres of parks for hiking, biking, and recreation that includes paddling a thriving river. During the summer of 2014, Phil Hagerman walked the Flint river with friend and Flint resident, Kathleen Gazall. They spoke of what the river could become if the dangerous Hamilton Dam was removed and replaced with a more naturalized river. That conversation continued with community partners who shared this vision and the River Restoration Project was born.
 The River Restoration Project is a $37 million effort to replace Michigan’s most dangerous dam and surround it with 80 acres of parks for hiking, biking, and paddling.
-
-“This grant from The Hagerman Foundation to the Flint River Corridor Alliance and the Flint River Watershed Coalition initiated the preliminary engineering design,” said Amy McMillan, director of Genesee County Parks and Recreation Commission, who now manages the overall project.
-
-“We knew we were taking a risk to grant dollars to a project like this, but knew the outcome was worth the risk,” said Phil Hagerman, president of The Hagerman Foundation. “We looked at other river restoration projects nationally and saw the economic development that resulted when communities embraced their rivers and natural resources. Supporting these types of projects is vital to the future of Flint and its residents.”
-
-The project now has support from other nonprofit and government funding sources, including $7.6 million from the Michigan Natural Resources Trust Fund; ​$5 million from the Flint-based C.S. Mott Foundation; $5 million from the U.S. Department of Transportation; ​$4.3 million from Michigan Department of Natural Resources; $3.5 million from the state’s Department of Environment Quality; ​$3 million from the Department of Natural Resources’ Grant Management Program, (approving the removal of the Hamilton Dam); and $1.4 million from the U.S. Environmental Protection Agency."
-
-
+>
+>This grant from The Hagerman Foundation to the Flint River Corridor Alliance and the Flint River Watershed Coalition initiated the preliminary engineering design,” said Amy McMillan, director of Genesee County Parks and Recreation Commission, who now manages the overall project.
+>
+>We knew we were taking a risk to grant dollars to a project like this, but knew the outcome was worth the risk,” said Phil Hagerman, president of The Hagerman Foundation. “We looked at other river restoration projects nationally and saw the economic development that resulted when communities embraced their rivers and natural resources. Supporting these types of projects is vital to the future of Flint and its residents.”
+>
+>The project now has support from other nonprofit and government funding sources, including $7.6 million from the Michigan Natural Resources Trust Fund; ​$5 million from the Flint-based C.S. Mott Foundation; $5 million from the U.S. Department of Transportation; ​$4.3 million from Michigan Department of Natural Resources; $3.5 million from the state’s Department of Environment Quality; ​$3 million from the Department of Natural Resources’ Grant Management Program, (approving the removal of the Hamilton Dam); and $1.4 million from the U.S. Environmental Protection Agency.
 
 
 
-### Relevant or Cited Literature
+----
+## Relevant or Cited Literature
 
 * A vision for targets: Peroli et al. (2002) DOI: [10.1023/A:1015221425315](https://www.researchgate.net/publication/226280964_Setting_targets_for_river_restoration) in Landscape Ecology
 * Brierley GJ and Fryirs KA (Eds). 2008. [River Futures: An Integrative Scientific Approach to River Repair](https://islandpress.org/book/river-futures). Island Press: Washington DC.
@@ -101,5 +118,21 @@ The project now has support from other nonprofit and government funding sources,
 
 * Kondolf GM and Pinto PJ. 2016. The social connectivity of urban rivers. Geomorphology. DOI: [10.1016/j.geomorph.2016.09.028](http://dx.doi.org/10.1016/j.geomorph.2016.09.028).
 
-----
-← [Previous Topic](5_Planning_Prioritization)      &nbsp;&nbsp;&nbsp;          [Next Topic](7_Permitting) →
+------
+## How can I do some of that?
+
+Find exmaples you like, and try to recreate them. Don't be afraid to draw. Drawing digitally in free vector graphic packages like [Inskscape]() or proprietary like [Adobe Illustrator]() are really valuable skills to learn. Some of Joe's old GIS course [figure preparation guidelines](http://gis.joewheaton.org/useful-quick-references/figure-preparation-guidelines) cover the basics of working in a mix of GIS and Illustrator:
+<div align="center">
+	<a class="hollow button" href="http://gis.joewheaton.org/useful-quick-references/figure-preparation-guidelines"><i class="fa fa-pagelines" aria-hidden="true"></i> Figure Preparation Guidelines - Advanced GIS</a>
+</div>
+
+
+Check out [Brent Chamerlain's](http://brentchamberlain.org/) (LAEP) new course on Advanced Geospatial Analysis and Visualization:
+[![LAEP3400]({{ site.baseurl }}\assets\images\LAEP3400.png)](http://brentchamberlain.org/)
+
+-----
+<div align="center">
+	<a class="hollow button" href="{{ site.baseurl }}/Course_Topics/WATS_5340/Permitting"><i class="fa fa-arrow-circle-left" aria-hidden="true"></i> Previous Topic</a>
+	<a class="hollow button" href="{{ site.baseurl }}/Course_Topics/WATS_5340/Projects"> Next Topic <i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a>  
+
+</div>

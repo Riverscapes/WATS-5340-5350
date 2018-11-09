@@ -60,6 +60,15 @@ GIS Data for Students Only:
 
 * *The video starts at 10th W and pans briefly to the east showing flooding of Kunzler property east of the highway (ICON is large white building south of the river). A short portion of the video returns to this area (around 2:15) but most of it (2:15 - shows flooding of Kunzler properties west of 10th W (as well as flooding on ICON south of the river east of 10th W). The Logan River is outlined by the crack willow trees. At 3:30 you can see a small, straight drainage and small line of trees at the middle 
 
+------
+### Examples of Design Alternatives from 2017
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR45Eq_r02KPEqW1xakgZd48fvKMU9logWHQe3_JXOaM2umgbY-1q9TeKgye-2MsutoUP37gymr7xF7/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+-----
+<div align="center">
+	<a class="hollow button" href="{{ site.baseurl }}/Course_Topics/WATS_5340/Visioning"><i class="fa fa-arrow-circle-left" aria-hidden="true"></i> Previous Topic</a>
 
 
-← [Previous Topic](2_Restoration_Process)      &nbsp;&nbsp;&nbsp;          [Next Topic](4_Management_Objectives) →
+</div>
+
