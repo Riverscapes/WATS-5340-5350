@@ -133,6 +133,6 @@ Check out [Brent Chamerlain's](http://brentchamberlain.org/) (LAEP) new course o
 -----
 <div align="center">
 	<a class="hollow button" href="{{ site.baseurl }}/Course_Topics/WATS_5340/Permitting"><i class="fa fa-arrow-circle-left" aria-hidden="true"></i> Previous Topic</a>
-	<a class="hollow button" href="{{ site.baseurl }}/Course_Topics/WATS_5340/Projects"> Next Topic <i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a>  
+	<a class="hollow button" href="{{ site.baseurl }}/Course_Topics/WATS_5340/Project"> Next Topic <i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a>  
 
 </div>
