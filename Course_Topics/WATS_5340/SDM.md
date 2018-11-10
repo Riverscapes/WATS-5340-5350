@@ -8,12 +8,6 @@ weight: 5
 ### Synopsis of Topic
 There are many ways to make decisions, but for complicated projects with numerous, competing objectives it can be helpful to use a structured decision making process. 
 
-### Why we're covering it
-dd
-
-### Learning Outcomes
-dd
-
 ------
 ## Resources
 

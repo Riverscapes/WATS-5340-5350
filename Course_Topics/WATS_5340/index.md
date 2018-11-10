@@ -14,7 +14,7 @@ Students learn the application of the principles, theory, and skills of Watershe
 - [Conceptual Design Alternatives]({{ site.baseurl }}/Course_Topics/WATS_5340/ConceptDesign.html). 
 - [Permitting]({{ site.baseurl }}/Course_Topics/WATS_5340/Permitting.html)
 -  [Visioning Restoration Alternative]({{ site.baseurl }}/Course_Topics/WATS_5340/Visioning.html)
-- [Conceptual Design Project]({{ site.baseurl }}/Course_Topics/WATS_5340/Projects.htmll). 
+- [Conceptual Design Project]({{ site.baseurl }}/Course_Topics/WATS_5340/Project/). 
 
 
 

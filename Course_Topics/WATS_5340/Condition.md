@@ -61,7 +61,7 @@ In class we used both [BRAT](http://brat.riverscapes.xyz) & [RCAT](http://rcat.r
 
 <div align="center">
 	<a class="button alert" href="http://brat.riverscapes.xyz"><img src="{{ site.baseurl }}/assets/images/BRAT_Logo-wGrayTxt.png"></a>
-	<a class="button alert" href="http://brat.riverscapes.xyz"><img src="{{ site.baseurl }}/assets/images/RCAT_Logo-wTxt.png"></a>
+	<a class="button alert" href="http://rcat.riverscapes.xyz"><img src="{{ site.baseurl }}/assets/images/RCAT_Logo-wTxt.png"></a>
 </div>
 
 ### Relevant or Cited Literature
