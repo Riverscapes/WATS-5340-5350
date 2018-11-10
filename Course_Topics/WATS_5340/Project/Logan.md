@@ -32,7 +32,23 @@ weight: 1
 
 - The video starts at 10th W and pans briefly to the east showing flooding of Kunzler property east of the highway (ICON is large white building south of the river). A short portion of the video returns to this area (around 2:15) but most of it (2:15 - shows flooding of Kunzler properties west of 10th W (as well as flooding on ICON south of the river east of 10th W). The Logan River is outlined by the crack willow trees. At 3:30 you can see a small, straight drainage and small line of trees at the middle.
 
+### What about _Salix fragillis_?
 
+Crack Willow (Salix fragilis) is native to Europe and Asia, not North America. 
+
+Some info:
+
+- [Logan River at Rendezvous Park, Channel and Floodplain Restoration:
+Crack Willow (_Salix fragilis_) Issues and Management Strategies](http://www.loganutah.org/departments/parkrec/LoganRiveratRendezvousPark,ChannelandFloodplainRestorationCrackWillowIssuesandManagementStrategies.pdf) - Prepared by Darren Olsen for Logan River Task Force
+- [CABI Infasive Species Compendium Entry for crack willow](
+https://www.cabi.org/isc/datasheet/48577) 
+- [Crack Willow Invasive Plant Infromation]
+(http://www.badplants.com/show/plant/Crack-Willow/357)
+- [](https://en.wikipedia.org/wiki/Salix_fragilis) - From [BadPlants.com](http://badplants.com)
+
+These are useful information on treatments for Crack Willow:
+- [Mangment & Control of Crack Willow](http://invasives.glifwc.org/Salix_spp/control.html) - From Great Lakes Indian Fish & Wildlife Commision
+- [Weed Information Sheet from Weedbusters](https://www.weedbusters.org.nz/weed-information/weed-list/crack-willow/) 
 
 -----
 <div align="center">
