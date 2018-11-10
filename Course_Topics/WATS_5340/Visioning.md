@@ -17,6 +17,12 @@ Depending on the audience you are targeting, a vision is sometimes essential to 
 ------
 ## Resources
 
+<div align="center">
+	<a class="hollow button" href="{{ site.baseurl }}/Course_Topics/WATS_5340/Project/2018#examples-of-design-alternatives-from-2017"><i class="fa fa-question-circle" aria-hidden="true"></i> What did last year's class do for visualizing their design alternatives?</a>
+	
+
+</div>
+
 ### Slides & Handouts
 * [Joe's 2017 Slides on Visioning for Restoration](http://etalweb.joewheaton.org/Courses/WATS5340/2017/Restoration_Visioning.pdf)
 
@@ -139,6 +145,8 @@ Find exmaples you like, and try to recreate them. Don't be afraid to draw. Drawi
 
 Check out [Brent Chamerlain's](http://brentchamberlain.org/) (LAEP) new course on Advanced Geospatial Analysis and Visualization:
 [![LAEP3400]({{ site.baseurl }}\assets\images\LAEP3400.png)](http://brentchamberlain.org/)
+
+
 
 -----
 <div align="center">
