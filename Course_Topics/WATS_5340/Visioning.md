@@ -30,8 +30,18 @@ Depending on the audience you are targeting, a vision is sometimes essential to 
 #### Social Connectivity in Urban Rivers
 An excerpt of [Matt Kondolf's](https://ced.berkeley.edu/ced/faculty-staff/g-mathias-kondolf) Slides from his 2016 keynote Binghamton Talk:
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT4DJJCOjeRoAyhf8n0B0CdRLHsrAtC9QTsSzimx7YwZ_CrTqpcUvhWLMtuiFCFxNg9hHx4k5E8f3zY/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+
+<div class="row small-up-2 medium-up-2 large-up-2" align="center">
+  <div class="column column-block">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT4DJJCOjeRoAyhf8n0B0CdRLHsrAtC9QTsSzimx7YwZ_CrTqpcUvhWLMtuiFCFxNg9hHx4k5E8f3zY/embed?start=false&loop=false&delayms=3000" frameborder="0" width="450" height="325" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+  </div>
+  <div class="column column-block">
+		<a href="https://photos.app.goo.gl/tb7GSJdGJf8UD7vE3"><img src="{{ site.baseurl }}/assets/images/eg/TruckeeRIver_Album.png"></a><br>
+	<a href="https://photos.app.goo.gl/tb7GSJdGJf8UD7vE3"><i class="fa fa-google" aria-hidden="true"></i> Google Album</a>
+ </div>
+
+</div>
 - Kondolf G.M & Pinto P. (2017) [Social Connectivity of Urban Rivers](https://usu.instructure.com/courses/493648/files/folder/Papers?preview=70880025). Geomorphology. 227 (15) pp. 182-196. DOI: [10.1016/j.geomorph.2016.09.028](http://dx.doi.org/10.1016/j.geomorph.2016.09.028)
 - Kondolf G.M. & Podolak K. (2011)  [Urban Rivers: Landscapes of Leisure and Consumption](https://usu.instructure.com/courses/493648/files/folder/Papers?preview=71451895). Chapter 7 in PM Santos and PC, (eds). [Globalization and Metropolization: Perspective on Europe's West Coast](http://edicoes.ufp.pt/en/product/humanidades/globalization-and-metropolization-perspectives-on-europes-west-coast).
 
