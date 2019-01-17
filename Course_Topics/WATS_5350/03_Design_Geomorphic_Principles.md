@@ -23,6 +23,10 @@ weight: 2
 
 ### Slides & Handouts
 
+<div class="responsive-embed">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTEBwDZh8uD2FbT5guSppFsszlSr5qZ77t7X49_ZkOhPNHNyek1X7MOltB7XEcJHP4WG2Q_4Zl-UQZp/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
+
 [Lecture Slides](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2018/Week2_WATS_5350.pdf)
 
 #### Excercise Materials
