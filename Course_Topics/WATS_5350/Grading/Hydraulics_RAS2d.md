@@ -3,7 +3,7 @@ title:  Working with Hydraulics - RAS 2D
 weight: 3
 ---
 
-## Hydraulic Simulation of 
+## Hydraulic Simulation of Logan River [Kunzler Reach](http://127.0.0.1:4001/WATS-5340-5350/Course_Topics/WATS_5340/Project/2018.html)
 Tyler Allred ([Allred Restoration](http://www.allred-restoration.com/)) was generous enough to prepare a Hydraulic model ([HEC-RAS2d](https://www.hec.usace.army.mil/software/hec-ras/)) of this year's restoration reach for us. 
 
 
@@ -26,3 +26,8 @@ Here is expanded set of slides from a workshop Peter and Joe taught, where the g
 If you wish to use the HEC-RAS 2D model yourself, you may find the West Consultants manual helpful:
 
 - West Conultants, Inc, 2016. [Two-Dimensional Modeling Using HEC-RAS](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Two-Dimensional_Modeling_Using_HEC-RAS.pdf), American Society of Civil Engineers, and West Consultants.
+
+Course on hydraulics and open channel flow are highly recommended to build your theoretical understanding and proficiency in running hydraulic models. You might find the resoursces on [Fluvial Hydraulics](http://fluvial.joewheaton.org) a helpful resource. There are a variety of tutorials for running 2D hydraulic models you can find there:
+- [Tutorial for Delft3D](http://fluvial.joewheaton.org/2014-course-topics/curtis-creek---delft3d-hydraulic-model-lab)
+- [Tutorial for IRIC](http://fluvial.joewheaton.org/assignments/iricfastmech-2dhydraulicmodelinglabofcurtiscreek)
+
