@@ -42,7 +42,9 @@ weight: 1
 - Jan 2019, <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Kunzler Conceptual Mitigation Map](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2019/Kunzler/Kunzler_Conceptual+Mitigation_Map.pdf), [Bio West Consultants](https://www.bio-west.com/)
 - Jan 2019, <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Preliminary Kunzler Crack Willow Removal Plan](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2019/Kunzler/Kunzler_Crack+Willow+Removal_Map.pdf), [Bio West Consultants](https://www.bio-west.com/)
 - Jan 2019, <i class="fa fa-file-archive-o" aria-hidden="true"></i> [Existing Hydraulic Model Simulations](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2019/Kunzler/TMA_Kunzler_E_RAS2d_6FEB2019.zipf), [Alred Restoration](http://www.allred-restoration.com/) - see also [here]({{ site.baseurl }}/Course_Topics/WATS_5350/Grading/Hydraulics_RAS2d.html)
- 
+
+We don't currently have GIS shapefiles for you. If you want to georeference images and trace, you might take a look at [this old lab](http://gis.joewheaton.org/assignments/labs/old-labs/Georeferencing).
+
 -----
 ## What about _Salix fragillis_?
 
