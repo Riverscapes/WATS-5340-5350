@@ -1,6 +1,6 @@
 ---
 title: Restoration Design - Grading Plan Project
-weight: 4
+weight: 2
 ---
 
 ## Background
@@ -29,7 +29,18 @@ To give you first hand experience in converting conceptual designs into actual g
 
 ## Resources
 
+### In-Class Excercises
 
+<div class="row small-up-2 medium-up-2 large-up-3" align="center">
+  <div class="column column-block">
+	<a class="button hollow" href="{{ site.baseurl }}/Course_Topics/WATS_5350/Grading/Manual-Grading"><i class="fa fa-hand-rock-o" aria-hidden="true"></i>  Manual Grading Excercies</a>
+  </div>
+  <div class="column column-block">
+	<a class="button hollow" href="{{ site.baseurl }}/Course_Topics/WATS_5350/Grading/GIS-Grading"><i class="fa fa-globe" aria-hidden="true"></i>  GIS Grading Excercise</a>
+ </div>
+
+
+</div>
 
 ### Slides
 
@@ -62,6 +73,8 @@ In class, I showed you [Section 320](https://s3-us-west-2.amazonaws.com/etalweb.
 
 You may also find Strom & Nathan's (2013) [Site Engineering for Landscape Architects](https://www.amazon.com/Engineering-Landscape-Architects-Steven-Strom/dp/1118090861) helpful.
 
+Also see:
+- Matusik, J & Deible D. (2004) [Chapter 24: Grading & Earthwork](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Harris-Dines_Chapter+320+-+Grading.pdf) in Land Development Handbook. McGraw-Hill. pp 545-593.
 
 
 
