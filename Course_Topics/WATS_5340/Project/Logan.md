@@ -4,15 +4,17 @@ weight: 1
 ---
 
 
-## Resources
+# Resources
 
 
-### Reference Literature, Reports, Designs & Documentation
+## Reference Literature, Reports, Designs & Documentation
 
 * [Logan River Emergency Watershed Protection Documents](https://usu.box.com/v/LoganRiverEWP) - *this folder contains a series of publicly available PDFs and reports describing what was done with NRCS EWP funding from 2011 to 2013 in response to 2011 floods.* Some of information also available from [Cache County's NRCS-EWP Logan River Project Pages](https://www.cachecounty.org/public-works/current-projects/riverprojects/current-projects/loganriver.html).
 * [Logan River  and Blacksmith fork Flood Control Project; Phase I](http://www.acewater.com/wp-content/uploads/2011/06/UTLC01-Logan-River.pdf), 2012
 * [Logan River Restoration Conservation Action Plan](http://www.loganutah.org/loganriverrestorationconservationactionplanMay2016.pdf), May 2016, Biowest. Logan, Utah.
 * [Logan River Restoration 2016-2017 Demonstration Projects](http://www.loganutah.org/departments/parkrec/LoganRiverResoration2016-2017DemonstrationProjectsPresentation.pdf), Power Point.
+
+## Logan River Rendezvous Reach (2017)
 * [Logan River Rendezvous Reach Restoration Plans 2017](https://usu.box.com/v/2017LoganRestoration), *in here you'll find 35%, 60%, 90%, 95% and 100% Construction Design Documents, cost estimates, bid specifications, and other useful information all form Bio-West. Also, in here you will find four geoTiffs provided by Tyler Alred of the hydraulic modelling he performed with HEC-RAS 2D representing before and after 2 year return interval water depth inundation mapping and a 100 year return interval event.*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oFNQ8uaN15Q?rel=0" frameborder="0" allowfullscreen></iframe>
@@ -32,7 +34,17 @@ weight: 1
 
 - The video starts at 10th W and pans briefly to the east showing flooding of Kunzler property east of the highway (ICON is large white building south of the river). A short portion of the video returns to this area (around 2:15) but most of it (2:15 - shows flooding of Kunzler properties west of 10th W (as well as flooding on ICON south of the river east of 10th W). The Logan River is outlined by the crack willow trees. At 3:30 you can see a small, straight drainage and small line of trees at the middle.
 
-### What about _Salix fragillis_?
+-----
+## Logan River - 600 West to 1000 West - Kunzler
+
+- 17 Jan 2019, <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Preliminary Kunzler Wetland Map](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2019/Kunzler/Bio-West+17JAN2019+Kunzler+Wetland+Map.pdf), [Bio West Consultants](https://www.bio-west.com/)
+- 17 Jan 2019, <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Preliminary Kunzler Wetland Cross Section](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2019/Kunzler/Bio-West+17JAN2019+Kunzler+Wetland+XS.pdf), [Bio West Consultants](https://www.bio-west.com/)
+- Jan 2019, <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Kunzler Conceptual Mitigation Map](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2019/Kunzler/Kunzler_Conceptual+Mitigation_Map.pdf), [Bio West Consultants](https://www.bio-west.com/)
+- Jan 2019, <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Preliminary Kunzler Crack Willow Removal Plan](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2019/Kunzler/Kunzler_Crack+Willow+Removal_Map.pdf), [Bio West Consultants](https://www.bio-west.com/)
+- Jan 2019, <i class="fa fa-file-archive-o" aria-hidden="true"></i> [Existing Hydraulic Model Simulations](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2019/Kunzler/TMA_Kunzler_E_RAS2d_6FEB2019.zipf), [Alred Restoration](http://www.allred-restoration.com/) - see also [here]({{ site.baseurl }}/Course_Topics/WATS_5350/Grading/Hydraulics_RAS2d.html)
+ 
+-----
+## What about _Salix fragillis_?
 
 Crack Willow (Salix fragilis) is native to Europe and Asia, not North America. 
 
