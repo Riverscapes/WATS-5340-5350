@@ -7,11 +7,7 @@ weight: 2
 
 ### Synopsis of Topic
 
-On Friday, we will meet in class for an hour and then head to the Logan River at Rendezvous Dog Park. We will be out until 5p.
-
-In class, we will first discuss different approaches to restoration planning. Basically, most approaches have similar elements, but the organization and wording varies, We will then specifically consider the Conservation Action Planning process developed by the Nature Conservancy. This process was used by the Logan River Task Force for general planning for the Logan River between First Dam and Cutler Reservoir. Hence, this provides the backdrop for discussing general goals for the current project at Rendezvous Park and - TA DAH! - the next reach upstream for which you will be developing conceptual design alternative this December.
-
-In the field, we will meet up with (i) Frank Howe (chair of the Logan River Task Force), (ii) Lance Houser (assistant Logan City Engineer), and (iii) Darren Olsen (Principal, Bio-West), who has led the efforts to develop and implement the Logan River CAP. These three are your CLIENTS for your design exercise this fall.
+There are many different approaches to restoration planning. Most approaches have similar elements, but the organization and wording varies. In the context of the [Logan River Task Force]({{ site.baseurl }}/Course_Topics/WATS_5340/Project/Logan.html), we  specifically consider the Conservation Action Planning process developed by the Nature Conservancy. This process was used by the Logan River Task Force for general planning for the Logan River between First Dam and Cutler Reservoir. 
 
 [![ApproachesCompared_500](../../assets/images/ApproachesCompared_500.png)](../../assets/Images/ApproachesCompared.png)
 
@@ -30,7 +26,9 @@ To learn more about the restoration process, by looking at a real restoration pr
 
 ### Slides
 Peter's slides from 2017:
+<div class="responsive-embed">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQHBau1JxUEdypuwXyMJfBes0zGgLoN3_0YhQMAegj9MikVRdWaUKJLHo6kX5ywI6a25gFcfMWFOW96/embed?start=false&loop=false&delayms=3000" frameborder="0" width="550" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
 
 
 ###  Resources

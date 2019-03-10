@@ -1,6 +1,6 @@
 ---
 title: Structured Decision Making
-weight: 5
+weight: 3
 ---
 
 # Structured Decision Making
