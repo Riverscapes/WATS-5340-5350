@@ -3,20 +3,32 @@ title: Structured Decision Making
 weight: 5
 ---
 
+# Structured Decision Making
+
 ## Background
 
 ### Synopsis of Topic
+
 There are many ways to make decisions, but for complicated projects with numerous, competing objectives it can be helpful to use a structured decision making process. 
+
+
+### Relevant Learning Outcomes
+<img class="float-right" src="{{ site.baseurl }}/assets/images/SDM.png"> 
+The most relevant [learning outcomes]({{ site.baseurl }}/Syllabus/Learning_Outcomes.html#wats-5340---capstone-i) for this unit is (5), but that feeds into (1) and (3).
+
+1. Gain direct experience *applying* knowledge as a watershed scientist to working on real-world aquatic ecosystem **restoration and management problems** (e.g. stream restoration, watershed management,wetland restoration) with practitioners. 
+2. Build a working *understanding* of the typical **process** through which restoration projects are conceived, proposed, planned, permitted and conceptually designed. 
+3. Objectively *evaluate* and *analyze* the scientific, political, economic and feasibility **tradeoffs of various approaches to restoration** in a specific project context and gain an appreciation of working with diverse stakeholders. *Synthesize* this analysis through a **planning process** that **prioritizes specific restoration and management actions** throughout a watershed.
 
 ------
 ## Resources
 
 ### Slides & Handouts
-The most relevant [learning outcomes]({{ site.baseurl }}/Syllabus/Learning_Outcomes.html#wats-5340---capstone-i) for this unit is (5), but that feeds into (1) and (3).
 
-1. Gain direct experience *applying* knowledge as a watershed scientist to working on real-world aquatic ecosystem **restoration and management problems** (e.g. stream restoration, watershed management,wetland restoration) with practitioners. 
-3. Build a working *understanding* of the typical **process** through which restoration projects are conceived, proposed, planned, permitted and conceptually designed. 
-5. Objectively *evaluate* and *analyze* the scientific, political, economic and feasibility **tradeoffs of various approaches to restoration** in a specific project context and gain an appreciation of working with diverse stakeholders. *Synthesize* this analysis through a **planning process** that **prioritizes specific restoration and management actions** throughout a watershed.
+[Peter's slides on Structured Decision Making](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5340/2018/14SEP2018_RestoPlanningProcess_MCDA_prw.pdf):
+<div class="responsive-embed">
+	<iframe src="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5340/2018/14SEP2018_RestoPlanningProcess_MCDA_prw.pdf" width="100%" height="100%"></iframe>
+</div>
 
 ### Relevant or Cited Literature
 
