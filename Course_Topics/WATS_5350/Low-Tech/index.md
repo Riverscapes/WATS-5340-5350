@@ -50,10 +50,10 @@ To give you first hand experience in designing, building and developing an adapt
 <div class="row small-up-2 medium-up-2 large-up-3" align="center">
  
   <div class="column column-block">
-	<a class="button" href="{{ site.baseurl }}/Course_Topics/WATS_5350/Project/2017"><i class="fa fa-files-o" aria-hidden="true"></i> 2018 : Three Mile Creek, Utah</a>
+	<a class="button" href="{{ site.baseurl }}/Course_Topics/WATS_5350/Low-Tech/Projects/3mile"><i class="fa fa-files-o" aria-hidden="true"></i> 2018 : Three Mile Creek, Utah</a>
  </div>
  <div class="column column-block">
-		<a class="button" href="{{ site.baseurl }}/Course_Topics/WATS_5350/Project/2018"><i class="fa fa-files-o" aria-hidden="true"></i> 2019: Station Creek, Idaho </a>
+		<a class="button" href="{{ site.baseurl }}/Course_Topics/WATS_5350/Low-Tech/Projects/station"><i class="fa fa-files-o" aria-hidden="true"></i> 2019: Station Creek, Idaho </a>
   </div>
 
 
