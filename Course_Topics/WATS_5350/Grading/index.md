@@ -68,13 +68,13 @@ To give you first hand experience in converting conceptual designs into actual g
 ### Grading Guidelines
 
 <img class="float-right" src="{{ site.baseurl }}/assets/images/LS_TimeSaver.png"> 
-In class, I showed you [Section 320](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Harris-Dines_Chapter+320+-+Grading.pdf)  out of Harris and Dines (1998). You may find it a helpful resource for a vareity of grading and site design tasks.:
+In class, I showed you [Section 320](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Harris-Dines_Chapter+320+-+Grading.pdf)  out of Harris and Dines (1998). You may find it a helpful resource for a vareity of grading and site design tasks:
 - Charles W. Harris & Nicholas T. Dines. 1998.  [Time-Saver Standards for Landscape Architecture 2nd Edition](https://www.amazon.com/Time-Saver-Standards-Landscape-Architecture-Charles/dp/0070170274). McGraw Hill. 928 pp.
 
 You may also find Strom & Nathan's (2013) [Site Engineering for Landscape Architects](https://www.amazon.com/Engineering-Landscape-Architects-Steven-Strom/dp/1118090861) helpful.
 
 Also see:
-- Matusik, J & Deible D. (2004) [Chapter 24: Grading & Earthwork](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Harris-Dines_Chapter+320+-+Grading.pdf) in Land Development Handbook. McGraw-Hill. pp 545-593.
+- Matusik, J & Deible D. (2004) [Chapter 24: Grading & Earthwork](http://my.fit.edu/~locurcio/14-Civil%20&%20Const%20handbooks/Land%20Development/Ch24-Earthwork.pdf) in Land Development Handbook. McGraw-Hill. pp 545-593.
 
 
 

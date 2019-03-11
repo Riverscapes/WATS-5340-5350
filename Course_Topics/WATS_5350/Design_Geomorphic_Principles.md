@@ -25,6 +25,10 @@ weight: 2
 
 [Lecture Slides](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2018/Week2_WATS_5350.pdf)
 
+<div class="responsive-embed">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTEBwDZh8uD2FbT5guSppFsszlSr5qZ77t7X49_ZkOhPNHNyek1X7MOltB7XEcJHP4WG2Q_4Zl-UQZp/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
+
 #### Excercise Materials
 Download all materials below to easy to find place (e.g. `c:\0_Logan`).
 - Excercise 1 - River Styles [KMZ](https://usu.box.com/v/LoganRiverStylesMain)
@@ -40,7 +44,7 @@ Download all materials below to easy to find place (e.g. `c:\0_Logan`).
 
 * Kramer N, Bangen SG, Wheaton JM, Bouwes N, Wall E, Saunders C, and Bennett S.. 2017. Geomorphic Unit Tool (GUT): Applications in Fluvial Mapping. EP11A-1546. AGU. New Orleans, LA, 11-15 Dec. DOI: [10.13140/RG.2.2.30142.18241](http://dx.doi.org/10.13140/RG.2.2.30142.18241).
 * Bangen SG, Kramer N, Wheaton, JM, and Bouwes N. 2017. The GUTs of the Geomorphic Unit Tool: What is under the hood. EP31D-1901. AGU. New Orleans, LA, 11-15 Dec. DOI: [10.13140/RG.2.2.31118.66884](http://dx.doi.org/10.13140/RG.2.2.31118.66884).
-* 2015. Fryirs K, Wheaton JM, and Brierley G. [An approach for measuring confinement and assessing the influence of valley setting on river forms and processes](https://www.researchgate.net/publication/287108944_An_approach_for_measuring_confinement_and_assessing_the_influence_of_valley_setting_on_river_forms_and_processes). Earth Surface Processes & Landforms. DOI: [10.1002/esp.3893](http://dx.doi.org/10.1002/esp.3893).
+* Fryirs K, Wheaton JM, and Brierley G. 2015.  [An approach for measuring confinement and assessing the influence of valley setting on river forms and processes](https://www.researchgate.net/publication/287108944_An_approach_for_measuring_confinement_and_assessing_the_influence_of_valley_setting_on_river_forms_and_processes). Earth Surface Processes & Landforms. DOI: [10.1002/esp.3893](http://dx.doi.org/10.1002/esp.3893).
 
 
 
