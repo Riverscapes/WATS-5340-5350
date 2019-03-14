@@ -16,32 +16,7 @@ A total of four credits (2 in fall, Capstone I, and 2 in spring, Capstone II) wi
 
 ------
 
-## Course Descriptions
 
-### WATS 5340 - Capstone I
-
-Students learn the application of the principles, theory, and skills of Watershed Science to aquatic ecosystem management and restoration projects. Assignments and group projects include:
-* [diagnosing aquatic ecosystem impairments]({{ site.baseurl }}/Course_Topics/WATS_5340/Condition.html), 
-* [objective definition]({{ site.baseurl }}/Course_Topics/WATS_5340/SDM.html), 
-* requests for proposals, 
-* [restoration planning]({{ site.baseurl }}/Course_Topics/WATS_5340/Restoration_Process.html), 
-* [regulatory permitting]({{ site.baseurl }}/Course_Topics/WATS_5340/Permitting.html), and 
-* [conceptual design]({{ site.baseurl }}/Course_Topics/WATS_5340/ConceptDesign.html). 
-
-Field trips are required.
-
-### WATS 5350 - Capstone II
-
-Students learn the theory and skills covered throughout MRAE program to real-world management and restoration projects. Topics include:
-
-* [restoration design]({{ site.baseurl }}/Course_Topics/WATS_5350/03_Design_Geomorphic_Principles.html), 
-* [adaptive management plan preparation]({{ site.baseurl }}/Course_Topics/WATS_5350/07_Adaptive_Management.html),
-* [construction bidding]({{ site.baseurl }}/Course_Topics/WATS_5350/08_Construction_Bidding.html), 
-* [project implementation & construction oversight]({{ site.baseurl }}/Course_Topics/WATS_5350/09_Construction_Implementation.html), 
-* [post project appraisal, monitoring & mainteance]({{ site.baseurl }}/Course_Topics/WATS_5350/10_Post_Project_Appraisal.html), 
-
-
-Field trips required.
 
 ## Canvas 
 
