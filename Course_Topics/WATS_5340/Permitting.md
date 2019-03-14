@@ -48,6 +48,8 @@ When it comes to managing for specific species of flora and fauna and their habi
 >
 >The law requires federal agencies, in consultation with the U.S. Fish and Wildlife Service and/or the NOAA Fisheries Service, to ensure that actions they authorize, fund, or carry out are not likely to jeopardize the continued existence of any listed species or result in the destruction or adverse modification of designated critical habitat of such species. The law also prohibits any action that causes a "taking" of any listed species of endangered fish or wildlife. Likewise, import, export, interstate, and foreign commerce of listed species are all generally prohibited.
 
+<i class="fa fa-volume-up" aria-hidden="true"></i> Listen to [Utah Public Radio's Science Utah](https://www.upr.org/programs/science-utah) reporter and Watershed Science's own [Niall Clancy](https://qcnr.usu.edu/wats/people/graduates/clancy_niall) describe the Endangered Species Act in [Episode 3 of of Utah Public Radio's Science Utah](https://www.upr.org/post/episode-3-endangered-species-act). <a href="https://www.upr.org/post/episode-3-endangered-species-act"><i class="fa fa-play" aria-hidden="true"></i></a>
+
 ##### NEPA
 
 If you are working with Federal Agencies or on Federally owned land,  [National Environmental Policy Act](https://www.epa.gov/nepa) will apply:
