@@ -7,7 +7,7 @@ weight: 3
 
 ### Synopsis of Topic
 
-[<img class="float-right" src="{{ site.baseurl }}/assets/images/PBR_LT_cc_100w.png">](https://www.wetlands.com/technology/) 
+[<img class="float-right" src="{{ site.baseurl }}/assets/images/PBR_LT_cc_100w.png">](http://lowtechprb.restoration.usu.edu) 
 Our second project this semester will be a [low-tech](https://www.sagegrouseinitiative.com/what-is-low-tech-stream-restoration/) restoration project. 
 
 ### Why we're covering it
@@ -30,6 +30,11 @@ To give you first hand experience in designing, building and developing an adapt
 ------
 
 ## Resources
+<a href="http://lowtechpbr.restoration.usu.edu//manual"><img class="float-right" src="{{ site.baseurl }}/assets/images/covers/Manual_Tilted_150.png"></a> 
+The definitive source on low-tech process-based restoration is the Wheaton et al. (2019) Design Manual:
+
+- Wheaton J.M., Bennett S.N., Bouwes, N., Maestas J.D. and Shahverdian S.M. (Editors). 2019. [Low-Tech Process-Based Restoration of Riverscapes: Design Manual. Version 1.0](http://lowtechpbr.restoration.usu.edu/manual). Utah State University Restoration Consortium. Logan, UT. Available at: [http://lowtechpbr.restoration.usu.edu/manual](http://lowtechpbr.restoration.usu.edu/manual). 
+
 
 ###  Topics
 
@@ -48,7 +53,7 @@ To give you first hand experience in designing, building and developing an adapt
 ### Projects
 
 <div class="row small-up-2 medium-up-2 large-up-3" align="center">
- 
+
   <div class="column column-block">
 	<a class="button" href="{{ site.baseurl }}/Course_Topics/WATS_5350/Low-Tech/Projects/3mile"><i class="fa fa-files-o" aria-hidden="true"></i> 2018 : Three Mile Creek, Utah</a>
  </div>
