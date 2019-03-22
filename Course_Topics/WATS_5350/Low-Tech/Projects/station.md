@@ -50,7 +50,7 @@ The WATS 5350 Spring 2019 class focused on [Station Creek](https://earth.app.goo
        <div class="card-section" align="center">
        <a src="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/station/BRAT/BirchCreek_StationCreek_RCAT.lpk"><img src="{{ site.baseurl }}/assets/images/projects/Station_RCAT_RVD_200.png"></a>
        <a src="http://rcat.riverscapes.xyz"><img src="{{ site.baseurl }}/assets/images/projects/RCAT_Logo-200.png"></a>
-        <p><a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/station/BRAT/BirchCreek_StationCreek_RCAT.lpk"><i class="fa fa-map" aria-hidden="true"></i></a> <a href="http://rcat.riverscapes.xyz">RCAT</a> Layer Package for Station Creek & Birch Creek</p>
+        <p><a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/station/BRAT/BirchCreek_StationCreek_RCAT.lpk"><i class="fa fa-map" aria-hidden="true"></i></a> <a href="http://rcat.riverscapes.xyz">RCAT</a> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/station/BRAT/Middle_Bear_RCAT.lpk">Layer Package for Station Creek & Birch Creek</a></p>
       </div>
     </div>
     </div>
@@ -59,15 +59,16 @@ The WATS 5350 Spring 2019 class focused on [Station Creek](https://earth.app.goo
        <div class="card-section" align="center">
        <a src="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/station/BRAT/BirchCreek_StationCreek_BRAT.lpk"><img src="{{ site.baseurl }}/assets/images/projects/Station_BRAT_RVD_200.png"></a>
        <a src="http://brat.riverscapes.xyz"><img src="{{ site.baseurl }}/assets/images/projects/BRAT_Logo-200.png"></a>
-        <p><a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/station/BRAT/BirchCreek_StationCreek_BRAT.lpk"><i class="fa fa-map" aria-hidden="true"></i></a> <a href="http://brat.riverscapes.xyz">BRAT</a> Layer Package for Station Creek & Birch Creek</p>
+        <p><a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/station/BRAT/BirchCreek_StationCreek_BRAT.lpk"><i class="fa fa-map" aria-hidden="true"></i></a> <a href="http://brat.riverscapes.xyz">BRAT</a> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/station/BRAT/BirchCreek_StationCreek_BRAT.lpk">Layer Package for Station Creek & Birch Creek</a></p>
       </div>
     </div>
-    
+
   </div>
 
 
 </div>
-Download <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/station/BRAT/Middle_Bear_RCAT.lpk"><i class="fa fa-map" aria-hidden="true"></i></a> <a href="http://brat.riverscapes.xyz">BRAT</a> Layer Package for Entire [Middle Bear River HUC8](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/station/BRAT/Middle_Bear_RCAT.lpk).
+
+
 
 #### Static Maps from [RCAT](http://rcat.riverscapes.xyz) and [BRAT](http://brat.riverscapes.xyz)
 
