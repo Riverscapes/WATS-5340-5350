@@ -3,11 +3,35 @@ title: Design for Low-Tech PBR
 weight: 4
 ---
 
+![ch05_Cover]({{ site.baseurl }}\assets\images\covers\ch05_Cover.png)
+
 You will design and build your own low-tech PBR project this semester!
 
 
 
 # Resources
+
+## Design Manual Chapters
+
+<div class="row small-up-2 medium-up-2">
+  <div class="column">
+    <div class="card">
+      <a  href="http://lowtechpbr.restoration.usu.edu/manual/chap04"><img  src="{{ site.baseurl }}/assets/images/covers/Chap4.png"></a>
+      <div class="card-section">
+        <a href="http://lowtechpbr.restoration.usu.edu/manual/chap04" ><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Shahverdian, S.M., Wheaton, J.M., Bennett, S.N., Bouwes, N., Camp, R., Jordan, C.E., Portugal, E. and Weber, N. 2019. <a href="http://lowtechpbr.restoration.usu.edu/manual/chap04">Chapter 4 – Mimicking and Promoting Wood Accumulation and Beaver Dam Activity with Post-Assisted Log Structures and Beaver Dam Analogues</a>. In: J.M. Wheaton, S.N. Bennett, N. Bouwes, J.D. Maestas and S.M. Shahverdian (Editors), <a href="http://lowtechpbr.restoration.usu.edu/manual/">Low-Tech Process-Based Restoration of Riverscapes: Design Manual</a>. Utah State University Wheaton Restoration Consortium, Logan, Utah. 68 pp.
+      </div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <a  href="http://lowtechpbr.restoration.usu.edu/manual/chap05"><img  src="{{ site.baseurl }}/assets/images/covers/Chap5.png"></a>
+      <div class="card-section">
+        <a href="http://lowtechpbr.restoration.usu.edu/manual/chap05" ><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Shahverdian, S.M., Bennett, S.N., Bouwes, N., Camp, R., Portugal, E. and Wheaton, JM. 2019. <a href="http://lowtechpbr.restoration.usu.edu/manual/chap05"> Chapter 5- Designing Low-Tech Restoration Projects</a>. In: J.M. Wheaton, S.N. Bennett, N. Bouwes, J.D. Maestas and S.M. Shahverdian (Editors), <a href="http://lowtechpbr.restoration.usu.edu/manual/">Low-Tech Process-Based Restoration of Riverscapes: Design Manual</a>. Utah State University Wheaton Restoration Consortium, Logan, Utah. 28 pp.
+      </div>
+    </div>
+  </div>
+</div>
+
 
 ## Examples of Design & Implementation Reports
 Below are good examples of real reports you can base your design and  implementation reports for low-tech PBR projects on. Thse are based on (i.e. [Chapter 5](http://lowtechpbr.restoration.usu.edu/manual/chap05) and [Chapter 6](http://lowtechpbr.restoration.usu.edu/manual/chap06) of [design manual](http://lowtechpbr.restoration.usu.edu/manual/)):
