@@ -100,6 +100,10 @@ See [here](https://photos.app.goo.gl/iHB3goMo55inQu5z7) for album to download ma
 - <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Station Creek USGS StreamStats Report](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/station/StationCreekStreamStats.pdf)
 - <i class="fa fa-map" aria-hidden="true"></i> [Station Creek USGS StreamStats Shapefile](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/station/StationCk_USGS_SS_Shapefile.zip)
 
+### Photos
+
+[Google Photo Album](https://photos.app.goo.gl/o4E9ru8tKSsbHBni9) from design field trip.
+
 ### Jay Wilde's Story of Beaver Reintroduction on Birch Creek
 <a href="https://earth.app.goo.gl/n9RRA6"><img width="100" class="float-left" src="{{ site.baseurl }}/assets/images/projects/wilde-round_9.png"></a>
 Idaho Rancher Jay Wilde tells his [story](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/CheapCheerful/2018/NRCS/Idaho/Lectures/2018_IdahoNRCS_Wilde_BirchCreek.pdf) about bringing beaver back to the creek he grew up on to restore flow.  Jay went on the road in the summer of 2018 and helped spread this message to workshop participants in five SGI Low-Tech Process Based Restoration of Mesic & Riparian Workshops. This video below is from the [Logan Workshop](http://beaver.joewheaton.org/logan-workshop-materials.html):
