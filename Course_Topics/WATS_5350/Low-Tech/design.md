@@ -10,6 +10,10 @@ You will design and build your own low-tech PBR project this semester!
 
 
 # Resources
+## Slides from Class
+<div class="responsive-embed">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQXcKPqQh9vm0BrlVM0esUn3i7KvDXwABsHST5DWAOC9YQAHI_IAD0JSSj0eaOzY1YOU5y6u0Ojbt9y/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
 
 ## Design Manual Chapters
 
@@ -34,11 +38,11 @@ You will design and build your own low-tech PBR project this semester!
 
 
 ## Examples of Design & Implementation Reports
-Below are good examples of real reports you can base your design and  implementation reports for low-tech PBR projects on. Thse are based on (i.e. [Chapter 5](http://lowtechpbr.restoration.usu.edu/manual/chap05) and [Chapter 6](http://lowtechpbr.restoration.usu.edu/manual/chap06) of [design manual](http://lowtechpbr.restoration.usu.edu/manual/)):
+Below are good examples of real reports you can base your design and  implementation reports for low-tech PBR projects on. These are based on the guidleines we reviewed in class and laid out in the manual (i.e. [Chapter 5](http://lowtechpbr.restoration.usu.edu/manual/chap05) and [Chapter 6](http://lowtechpbr.restoration.usu.edu/manual/chap06) of [design manual](http://lowtechpbr.restoration.usu.edu/manual/)):
 
 | Report Citation | Description | Location |
 |-----------------|-------------|-------------|
 | <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Shahverdian, S.M., Bennett, S. and Wheaton, J., 2018. [Baugh Creek Post-Fire Emergency Restoration – **Design & Implementation**](http://dx.doi.org/10.13140/RG.2.2.14182.27209), Prepared for Rebecca Patton by Anabranch Solutions, LLC, Newton, UT. DOI: [10.13140/RG.2.2.14182.27209](http://dx.doi.org/10.13140/RG.2.2.14182.27209). | A post-fire emergency low-tech restoration where 150 structures were installed over 5 miles of burn stream, in a week following the 65,000 acre [Sharp's fire](https://swc.idaho.gov/media/1870/final-2018_12-december-2018-newsletter.pdf). | Baugh Creek, Idaho|
 |<i class="fa fa-file-pdf-o" aria-hidden="true"></i>  Shahverdian, S. and Wheaton, J.M., 2017. [Grouse Creek Watershed **Restoration Design Report**](http://dx.doi.org/10.13140/RG.2.2.18376.57603), Prepared for Utah Division of Wildlife Resources by Anabranch Solutions, LLC, Logan, UT. DOI: [10.13140/RG.2.2.18376.57603](http://dx.doi.org/10.13140/RG.2.2.18376.57603). |A demonstration project with the with [Utah Watershed Restoration Initaitive](https://wri.utah.gov/) and [Utah Division of Wildlife](https://wildlife.utah.gov/) and built 114 low-tech structures over 5.5 miles of stream  | Grouse Creek Watershed, Utah|
 |<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Shahverdian, SM. and Wheaton, JM. 2017. [Birch Creek **Restoration Design Report**](https://www.researchgate.net/publication/322104193_Birch_Creek_Restoration_Design_Report_-_Prepared_for_Utah_Division_of_Wildlife_Resources_and_Bureau_of_Land_Management). Prepared for the Utah Division of Wildlife Resources by Anabranch Solutions, LLC. Newton, UT. 26 Pages. DOI: [10.13140/RG.2.2.11439.84646](http://dx.doi.org/10.13140/RG.2.2.11439.84646) | A small demonstration project in a Southern Utah stream to show off different low-tech treatments (60 structures, 12 complexes, 1 mile)  | Birch Creek, Utah|
-| <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Portugal, E., Wheaton, J. and Bouwes, N., 2015. [Pine Creek Watershed **Design Report for Pilot Restoration**: Using Beaver Dam Analogues and High-Density Large Woody Debris to Initiate Process-Based Stream Recovery](http://dx.doi.org/10.13140/2.1.1209.9367). Prepared for the Confederated Tribes of  the Warm Springs by Eco Logical Research, Inc., Logan, UT. DOI: [10.13140/2.1.1209.9367](http://dx.doi.org/10.13140/2.1.1209.9367). | We installed a small trial project (15 structures) to look at whether or not BDAs in a system with a weak flow regime might work (or more to the point, how long you might have to wait). | Pine Creek Watershed, Oregon|
+
