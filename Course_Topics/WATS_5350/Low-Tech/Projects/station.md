@@ -9,7 +9,7 @@ weight: 2
 
 <a href="https://earth.app.goo.gl/n9RRA6"><img class="float-right" src="{{ site.baseurl }}/assets/images/projects/Station_GE.png"></a>
 
-The WATS 5350 Spring 2019 class focused on [Station Creek](https://earth.app.goo.gl/n9RRA6) in southeast Idaho. Station Creek is a , a left-bank tributary to the Bear River, which joins the Bear River just downstream of Oneida Narrows and the Mink Creek confluence.  The project is on landowner Terry Westburg's property. Terry saw the success of Jay Wilde's beaver reintroduction on Birch Creek, just over the hill, and wanted to see similar improvements to Station Creek through his property. The project was originally envisioned as a BDA-assisted, beaver translocation project and was going to be funded by Pacificorps.  
+The WATS 5350 Spring 2019 class focused on [Station Creek](https://earth.app.goo.gl/n9RRA6) in southeast Idaho. Station Creek is a , a left-bank tributary to the Bear River, which joins the Bear River just downstream of Oneida Narrows and the Mink Creek confluence.  The project is on landowner Terry Westerberg's property. Terry saw the success of Jay Wilde's beaver reintroduction on Birch Creek, just over the hill, and wanted to see similar improvements to Station Creek through his property. The project was originally envisioned as a BDA-assisted, beaver translocation project and was going to be funded by Pacificorps.  
 
 
 
