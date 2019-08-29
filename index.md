@@ -37,4 +37,5 @@ Past Versions of Canvas:
 ## Restoration Consortium
 
 These capstone classes are the flagship synthesis of the [Watershed Sciences](https://qcnr.usu.edu/wats/index) [Management & Restoration of Aquatic Ecosystems](qcnr.usu.edu/undergraduates/prospective/degrees/aquatic_ecosystems) undergraduate major. The major is one of two programs offered through [USU's Restoration Consortium](http://restoration.usu.edu).
+<br>
 [![USU_Braids_Circle_Restorati]({{ site.baseurl }}/assets/images/USU_Braids_Circle_Restorati.png)](http://restoration.usu.edu)
