@@ -23,12 +23,14 @@ A total of four credits (2 in fall, Capstone I, and 2 in spring, Capstone II) wi
 For students enrolled, all course materials can be found on this site, whereas you will submit assignments, track your grades and engage in collaborations on our Canvas Course Pages:
 
 <div align="center">
-	<a class="hollow button" href="https://usu.instructure.com/courses/493648"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  Fall 2018 Canvas WATS 5340 Course</a>  
-	<a class="hollow button" href="https://usu.instructure.com/courses/531745"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  Spring 2019 Canvas WATS 5350 Course</a> 
+	<a class="hollow button" href="https://usu.instructure.com/courses/547592"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  Fall 2019 Canvas WATS 5340 Course</a>  
+	<a class="hollow button" href=""><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  Spring 2020 Canvas WATS 5350 Course</a> 
 </div>
 
 
 Past Versions of Canvas:
+- [WATS 5340 - Fall 2018]https://usu.instructure.com/courses/493648)
+- [WATS 5350 - Spring 2019](https://usu.instructure.com/courses/531745)
 - [WATS 5340 - Fall 2017](https://usu.instructure.com/courses/468472)
 - [WATS 5350 - Spring 2018](https://usu.instructure.com/courses/481819)
 
