@@ -29,7 +29,7 @@ For students enrolled, all course materials can be found on this site, whereas y
 
 
 Past Versions of Canvas:
-- [WATS 5340 - Fall 2018]https://usu.instructure.com/courses/493648)
+- [WATS 5340 - Fall 2018](https://usu.instructure.com/courses/493648)
 - [WATS 5350 - Spring 2019](https://usu.instructure.com/courses/531745)
 - [WATS 5340 - Fall 2017](https://usu.instructure.com/courses/468472)
 - [WATS 5350 - Spring 2018](https://usu.instructure.com/courses/481819)
