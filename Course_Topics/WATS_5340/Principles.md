@@ -42,8 +42,7 @@ We started out with an introduction to restoration principles.
 6. Wheaton, J.M., Bennett, S.N., Bouwes, N., Camp, R., Maestas, J.D. and Shahverdian, S.M. 2019. [**Chapter 2 – Principles of Low-Tech Process-Based Restoration**](http://lowtechpbr.restoration.usu.edu/manual/chap02). In: J.M. Wheaton, S.N. Bennett, N. Bouwes, J.D. Maestas and S.M. Shahverdian (Editors), [Low-Tech Process-Based Restoration of Riverscapes: Design Manual](http://lowtechpbr.restoration.usu.edu/manual). Utah State University Wheaton Restoration Consortium, Logan, Utah. 30 pp. DOI: [10.13140/RG.2.2.34270.69447](http://dx.doi.org/10.13140/RG.2.2.34270.69447). *A chapter on principles specific to the low-tech processs-based restoration of structurally-starved riverscapes.*
 
 
-
-
+#### Process-Based Restoration Specifically
 
 Perhaps the two most definitive resources on Process-Based Restoration for riverscapes have been Beechie et al. (2010) and Roni & Beechie (2013).  Please also see [Appendix A](http://lowtechpbr.restoration.usu.edu/manual/chap01/appendix-A).
 
@@ -60,7 +59,10 @@ Perhaps the two most definitive resources on Process-Based Restoration for river
 	</div>
 </div>
 
+### Useful Related Resources
 
+- Society for Ecological Restoration's [International Standards for the Practice of Ecological Restoration](https://www.ser.org/page/SERStandards/International-Standards-for-the-Practice-of-Ecological-Restoration.htm)
+- [Slides from LTPBR Workshop](http://lowtechpbr.restoration.usu.edu/workshops/2019/SGI/materials.html#5-guiding-principles) on guiding principles of low-tech process-based restoration of riverscapes.
 
 -----
 <div align="center">
