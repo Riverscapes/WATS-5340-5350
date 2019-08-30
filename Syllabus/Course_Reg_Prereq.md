@@ -4,7 +4,7 @@ title: Course Registration & Prerequisites
 
 ## How to Register
 
-USU students may register for WATS 5340 and 5350 on USU Banner. The CRN for Fall 2017, WATS 5340 is [44379](https://ssb.banner.usu.edu/zprod/bwckctlg.p_disp_listcrse?term_in=201740&subj_in=WATS&crse_in=5340&schd_in=INV).
+USU students may register for WATS 5340 and 5350 on USU Banner. The CRN for Fall 2019, WATS 5340 is [43162](https://ssb.banner.usu.edu/zprod/bwckschd.p_disp_detail_sched?term_in=201940&crn_in=43162).
 
 ## Prerequisites
 
