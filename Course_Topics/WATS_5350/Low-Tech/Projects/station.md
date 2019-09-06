@@ -22,7 +22,6 @@ The WATS 5350 Spring 2019 class focused on [Station Creek](https://earth.app.goo
 
 ### Location
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d45802.83867783453!2d-111.79209379514047!3d42.16222247080642!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x875450c38a8057ed%3A0xa5ee2601f3513928!2sUnnamed+Road%2C+Preston%2C+ID+83263!5e0!3m2!1sen!2sus!4v1552275189358" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
-
 ## Resources for 2019 Students
 
 <div class="row small-up-2 medium-up-4">
@@ -113,5 +112,81 @@ Idaho Rancher Jay Wilde tells his [story](https://s3-us-west-2.amazonaws.com/eta
 </div>
 
 Birch Creek was the catalyst for the Station Creek project.
+
+----
+## Student Consulting Team Outputs
+
+### Project Reports
+
+<div class="row small-up-2 medium-up-3">
+  <div class="column">
+    <div class="card">
+
+      <div class="card-section" align="center">
+      <a src="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2019/Station/Station+Creek-Low+Tech+Restoration+Report+(1).pdf"><img src="{{ site.baseurl }}/assets/images/projects/Canyon_Station_Final.png"></a>
+        <p><a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2019/Station/Station+Creek-Low+Tech+Restoration+Report+(1).pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Canyon Aquatic Restoration Specialists - <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2019/Station/Station+Creek-Low+Tech+Restoration+Report+(1).pdf">Station Creek Design Report</a></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+
+      <div class="card-section" align="center">
+      <a src="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2019/Station/EcoLife+Low-Tech+Plan_Station+Creek+Upper+Lower+Reach.pdf"><img src="{{ site.baseurl }}/assets/images/projects/EcoLife_Station_Final.png"></a>
+        <p><a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2019/Station/EcoLife+Low-Tech+Plan_Station+Creek+Upper+Lower+Reach.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> ECO Life Consulting - <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2019/Station/EcoLife+Low-Tech+Plan_Station+Creek+Upper+Lower+Reach.pdf">Station Creek  Design Report</a></p>
+      </div>
+    </div>
+  </div> 
+
+    <div class="column">
+    <div class="card">
+      
+   <div class="card-section" align="center">
+      <a src="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2019/Station/iQ_Low-Tech_Final_Report.pdf"><img src="{{ site.baseurl }}/assets/images/projects/IQ_StationFinal.png"></a>
+        <p><a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2019/Station/iQ_Low-Tech_Final_Report.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Intermountain Quality Ecosystem Restoration - <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2019/Station/iQ_Low-Tech_Final_Report.pdf">Station Creek  Design Report</a></p>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+
+### Project Presentations
+
+<div class="row small-up-2 medium-up-3">
+  <div class="column">
+    <div class="card">
+
+      <div class="card-section" align="center">
+      <a src="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2019/Station/Canyon_Station+Creek+Presentation.pdf"><img src="{{ site.baseurl }}/assets/images/projects/Canyon_Station_PPT.png"></a>
+        <p><a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2019/Station/Canyon_Station+Creek+Presentation.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Canyon Aquatic Restoration Specialists - <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2019/Station/Canyon_Station+Creek+Presentation.pdf">Station Creek Presentation</a></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+
+      <div class="card-section" align="center">
+      <a src="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2019/Station/EcoLife+Low-Tech+Presentation.pdf"><img src="{{ site.baseurl }}/assets/images/projects/EcoLife_Station_PPT.png"></a>
+        <p><a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2019/Station/EcoLife+Low-Tech+Presentation.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> ECO Life Consulting - <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2019/Station/EcoLife+Low-Tech+Presentation.pdf">Station Creek Presentation</a></p>
+      </div>
+    </div>
+  </div> 
+
+    <div class="column">
+    <div class="card">
+      
+   <div class="card-section" align="center">
+      <a src="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2019/Station/IQ+station+creek+low+tech+PBR.pdf"><img src="{{ site.baseurl }}/assets/images/projects/IQ_StationPPT.png"></a>
+        <p><a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2019/Station/IQ+station+creek+low+tech+PBR.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Intermountain Quality Ecosystem Restoration - <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2019/Station/IQ+station+creek+low+tech+PBR.pdf">Station Creek Presentation</a></p>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+
 
 -----
