@@ -24,6 +24,7 @@ Without some guiding principles explicitly spelt out, it can be easy to get lost
 
 ### Slides & Handouts
 
+#### Week 1
 [<img class="float-right" src="{{ site.baseurl }}/assets/images/specific/2019_WATS5340_Week01.png">](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5340/2019/1_Restoration_Principles.pdf)
 We started out with an introduction to restoration principles. 
 - <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Restoration Principles - Introduction](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5340/2019/1_Restoration_Principles.pdf) slides
@@ -31,6 +32,10 @@ We started out with an introduction to restoration principles.
 
 <i class="fa fa-hand-o-left" aria-hidden="true"></i> [Handout from Class](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5340/2019/Day_Principles_Handout.pdf)
 
+#### Week 2
+[<img class="float-right" src="{{ site.baseurl }}/assets/images/lectures/2019_WATS5340_Week02.png">](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5340/2019/2_Restoration_Process%26Principles.pdf)
+In the second week we also reviewd of principles in addition to introducing the restoration [process]({{ site.baseurl }}/Course_Topics/WATS_5340/Restoration_Process) 
+- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Restoration Processs & Principles Revisited](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5340/2019/2_Restoration_Process%26Principles.pdf) slides
 
 ### Relevant or Cited Literature
 
