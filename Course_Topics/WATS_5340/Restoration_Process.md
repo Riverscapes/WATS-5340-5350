@@ -9,9 +9,9 @@ weight: 2
 
 There are many different approaches to restoration planning. Most approaches have similar elements, but the organization and wording varies. In the context of the [Logan River Task Force]({{ site.baseurl }}/Course_Topics/WATS_5340/Project/Logan.html), we  specifically consider the Conservation Action Planning process developed by the Nature Conservancy. This process was used by the Logan River Task Force for general planning for the Logan River between First Dam and Cutler Reservoir. 
 
-[![ApproachesCompared_500](../../assets/images/ApproachesCompared_500.png)](../../assets/Images/ApproachesCompared.png)
+[![ApproachesCompared_500]({{ site.baseurl }}/assets/images/ApproachesCompared_500.png)]({{ site.baseurl }}/assets/images/ApproachesCompared.png)
 
-[![ApproachesCompared2_500](../../assets/images/ApproachesCompared2_500.png)](../../assets/Images/ApproachesCompared2.png)
+[![ApproachesCompared2_500]({{ site.baseurl }}/assets/images/ApproachesCompared2_500.png)]({{ site.baseurl }}/assets/images/ApproachesCompared2.png)
 
 ### Why we're covering it
 
