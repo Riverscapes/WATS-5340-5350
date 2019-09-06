@@ -27,7 +27,7 @@ The main learning outcome met is number 4 below, but all of these apply in this 
 ## Resources
 
 
-<div class="row small-up-2 medium-up-2 large-up-3" align="center">
+<div class="row small-up-2 medium-up-2 large-up-4" align="center">
   <div class="column column-block">
 	<a class="button" href="{{ site.baseurl }}/Course_Topics/WATS_5340/Project/Logan"><i class="fa fa-users" aria-hidden="true"></i> Logan River Task Force</a>
   </div>
@@ -38,9 +38,10 @@ The main learning outcome met is number 4 below, but all of these apply in this 
 		<a class="button" href="{{ site.baseurl }}/Course_Topics/WATS_5340/Project/2018"><i class="fa fa-files-o" aria-hidden="true"></i> 2018 - 600 West to 1000 West</a>
   </div>
 
-
+ <div class="column column-block">
+		<a class="button" href="{{ site.baseurl }}/Course_Topics/WATS_5340/Project/2019"><i class="fa fa-files-o" aria-hidden="true"></i> 2019 - Crockett Reach</a>
+  </div>
 </div>
-
 
 
 
