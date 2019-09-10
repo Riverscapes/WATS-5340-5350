@@ -38,3 +38,14 @@ ehthumbs.db
 Thumbs.db
 
 _site
+*.gem
+.bundle
+.sass-cache
+_site
+.jekyll-cache
+Gemfile.lock
+node_modules
+
+.jekyll-metadata
+.DS_Store
+resources/pocket\.md
