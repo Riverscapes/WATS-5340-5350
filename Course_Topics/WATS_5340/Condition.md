@@ -30,17 +30,21 @@ Secondarily, we will build towards:
 
 ### Workshop Slides & Handouts
 
+#### 2019
+[<img class="float-right" src="{{ site.baseurl }}/assets/images/lectures/2019_WATS5340_Week05.png">](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5340/2019/Condition_Assessment_2019.pdf)
+In the fifth week we moved into considering condition assesssment through the lens of the Conservation Planning Process. 
+- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Condition Assessment](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5340/2019/Condition_Assessment_2019.pdf) slides
+
+
 #### 2018
 
 - [Lecture & Discussion Slides](http://etalweb.joewheaton.org/Courses/WATS5340/2018/Condition_Assessment_2018.pdf)
 
 Background & Definitions:
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRLHUC4hXamRLl9cRYeFbdkovQXkJKNjgT2H-dgx4X9peNNEJuqpz8aGzKkjINtljZiPsJVVdjHSIDI/embed?start=false&loop=false&delayms=3000" frameborder="0" width="550" height="450" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
 Examples:
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS-tcYMJ17hL7diAyrR8e0dgXMbW9vLpHC60YtVsVzUqQ2FF8pAh5DAvc835S04Pbh1dw2Ep50jS9Fx/embed?start=false&loop=false&delayms=3000" frameborder="0" width="550" height="450" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-##### Datasets for Richards Hollow
+##### Datasets for Cache Valley
 
 - [Middle Bear BRAT Layer Package](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5340/2018/Excercises/Condition/LittleBearLogan_BRAT.lpk)
 - [Middle Bear RCAT Layer Package](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5340/2018/Excercises/Condition/LittleBearLogan_RCAT.lpk)
