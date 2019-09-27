@@ -70,6 +70,9 @@ In class we used both [BRAT](http://brat.riverscapes.xyz) & [RCAT](http://rcat.r
 
 ### Relevant or Cited Literature
 
+
+
+* Bennett, S., Wheaton, J., Bouwes, N., Shahverdian, S., Macfarlane, W.W. and Portugal, E. 2019. **Chapter 3 - Planning for Low-Tech Process-Based Restoration**. In: [Low-Tech Process-Based Restoration of Riverscapes: Design Manual - Version 1.0](http://lowtechpbr.restoration.usu.edu/chap03). Wheaton JM, Bennett S, Shahverdian S, and Maestas JD, (Editors). [Utah State University](http://restoration.usu.edu/) [Wheaton Ecogeomorphology & Topographic Analysis Lab](http://etal.joewheaton.org/). Logan, UT. 57 pp. DOI: [10.13140/RG.2.2.15815.75680](http://dx.doi.org/10.13140/RG.2.2.15815.75680).
 * Beechie T, Pess G, Morley S, Butler L, Downs P, Maltby A, Skidmore P, Clayton S, Muhlfeld C and Hanson K. 2012. [Watershed Assessments and Identification of Restoration Needs, Stream and Watershed Restoration](ftp://ftp.fire.ca.gov/forest/0_TRFRP_CampbellCreek/Watershed%20Assessment/Manuals%20and%20Guidelines/Beechie%20et%20al.%202013%20Chapter%203.pdf). John Wiley & Sons, Ltd, pp. 50-113. DOI:  [10.1002/9781118406618.ch3](http://dx.doi.org/10.1002/9781118406618.ch3).
 * Brierley G and Fryirs K. 2005. Geomorphology and River Management: Applications of the River Styles Framework. Blackwell Publishing: Victoria, Australia, 398 pp. 
 * Fryirs KA. 2015. Developing and using geomorphic condition assessments for river rehabilitation planning, implementation and monitoring. Wiley Interdisciplinary Reviews: Water. 2(6): 649-667. DOI: [10.1002/wat2.1100](http://dx.doi.org/10.1002/wat2.1100).
