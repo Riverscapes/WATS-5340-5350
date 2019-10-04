@@ -24,6 +24,14 @@ The course [learning outcomes]({{ site.baseurl }}/Syllabus/Learning_Outcomes.htm
 ## Resources
 
 ### Slides
+
+#### 2019
+[<img class="float-right" src="{{ site.baseurl }}/assets/images/lectures/2019_WATS5340_Week06.png">](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5340/2019/RecoveryPotential_Priortization_2019.pdf)
+In the sixth week we wrapped up some carry over from [condition assesssment] and focused on recovery potential through the lens of the Conservation Planning Process . 
+- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Recovery Potential &  Prioritization](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5340/2019/RecoveryPotential_Priortization_2019.pdff) slides
+
+#### 2018
+
 <div class="responsive-embed">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTYm34HFTtc_XZkk7uH2Uq0IPTLVdkOtOpoCToHyjp8ja1hwKrZu97meOCNZoo1RXcwbR_3sT-imCKo/embed?start=false&loop=false&delayms=3000" frameborder="0" width="550" height="450" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
