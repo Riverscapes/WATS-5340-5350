@@ -20,10 +20,23 @@ The generic steps in creating a DEM, are:
 2. *Optionally* - Edit TIN with [Tin Editor](https://desktop.arcgis.com/en/arcmap/10.3/manage-data/tin/interactive-tin-editing-tools.htm)
 2. Convert TIN to DEM
 
-TINs can be built from a vareity of data types, but minimally require one source of vector elevation data. 
+[TINs](https://desktop.arcgis.com/en/arcmap/10.7/manage-data/tin/fundamentals-of-creating-tins.htm) can be built from a vareity of data types, but minimally require one source of vector elevation data. Vector elevation data can come as:
+- Mass points (i.e. a shapefile or feature class of type point with an elevation field)
+- Contours (i.e. a shapefile or feature class of type polyline with an elevation field)
+- 3D breaklines (i.e. a shapefile or feature class of type polygline with 3D geometry represtning an elevation at every node)
+
+Optionally, TINs can also include 2D breaklines, and/or polygons to act as hard clip or soft clip boundaries. 
+
 
 ### What we want
-We want a new DEM, that is the old DEM outside our limits of grading, and is a modified DEM within our limits of grading reflecting our design. 
+We want a new DEM, that is the old DEM outside our limits of grading, and is a modified DEM within our limits of grading reflecting our design.  We can use the following inputs to get it:
+
+
+| TIN Input Features | Existing Topography <br>(outside Limits of Grading) | Design Topography <br>(inside Limits of Grading) |
+|-------------------------------------------------------------|-----------------------------------------------------|----------------------------------------------------------------------|
+| Contours<br>(shapefile of type polyline with elev field) | Recommended (e.g. 5 cm or 10 cm contour interval) | Recommended (likely @ 25 cm contour) these are your grading contours |
+| Mass Points <br>(*shapefile of type point with elev field*) | Optional (points extracted from existing DEM) | Optional<br>(finish grade spot elevations) |
+| Breaklines  | Optional | Optional <br>(breaklines at TOB, TOE, riffle crests, thalwegs, etc.) |
 
 ### Step 1 - Get Existing Topography for Whole Area of Intrest 
 Your Area of Interest will be greater than just your design extents or limits of grading. If, for example, you want to run a hydraulic model of your finish design, you will want to span the whole valley bottom (floodable area) and enough distance upstream and downstream (e.g. 5-10 channel widths) to provide a reasonable boundary condition and context.
@@ -42,9 +55,28 @@ Your final TIN will be built with existing elevations only outside your limits o
 You will need to create a blank shapefile of type polygon, and draw a polygon boundary that represents your limits of grading. If you completely graded all the contours for your finish design, this is literally at the intersection of your finish (proposed) contours with your exisitng contours.  In reality this is the line that divides where on the outside exsiting features are left alone and within which heavy equipment (e.g. excavators, backhoes, scrapers, bulldozers) will be changing elevations with cut or fill. 
 
 #### 2 B. Erase Existing Elevations
-<img src="https://desktop.arcgis.com/en/arcmap/10.7/tools/analysis-toolbox/GUID-40F0B845-07D7-4269-8E32-A5977821ADA2-web.gif"></img>The [`erase`](https://desktop.arcgis.com/en/arcmap/10.3/tools/analysis-toolbox/erase.htm) command allows 
+<img class="float-right" src="https://desktop.arcgis.com/en/arcmap/10.7/tools/analysis-toolbox/GUID-40F0B845-07D7-4269-8E32-A5977821ADA2-web.gif">The [`erase`](https://desktop.arcgis.com/en/arcmap/10.3/tools/analysis-toolbox/erase.htm) command allows you to use your contours (as input), and your limits of grading (as erase feature), and produce a new contour shapefile (maybe call it something like `ExistingContours_5cm_OutsideLoG.shp`). This will be your input into your finish TIN for the existing topgraphy.
 
 ### 3. Assemble your Elevation Data for your Grading Plan
 
+As the table above indicated, you will minimally have some finish contours inside your Limits of Grading, and may optionally have some finish spot elevations, and maybe some breakline data.
 
+### 3 A. Finish Contours
+1. You will need to create a blank shapefile of type polyline (e.g. `25cm_FinishContours.shp`.
+2. Open the attribute table, and add a field of type floating point, with a precision of 7 and scale of 2 called `elev`. This will be where you specify the finish elevation value.
+3. Start an edit session in ArcGIS of your contour shapefile.
+4. Draw finish contours  (with create features) everywhere you want to specify an elevaiton, and edit each contours `elev` attribute manually to specify the finish elevation. *TIP: it might be useful to have the existing 25 cm contours turned on and symbolized with a multi color ramp so you can easily identify the contour you are breaking away from and where you need to tie back into.*
+5. Stop editing and save edits when done.
 
+### 3 B. Finish Spot Elevations (optional)
+1. You will need to create a blank shapefile of type polyline (e.g. `FinishGrades.shp`.
+2. Open the attribute table, and add a field of type floating point, with a precision of 7 and scale of 2 called `elev`. This will be where you specify the finish elevation value.
+3. Start an edit session in ArcGIS of your point shapefile.
+4. Add points (with create features) everywhere you want to specify an elevaiton, and edit each points `elev` attribute manually to specify the finish elevation. *Tip:  You might find it helpful to turn on labels for this feature so you can see elevations you are specifying.*
+5. Stop editing and save when done.
+
+## 4. Assemble the TIN
+
+## 5. Convert TIN to DEM and Derive Hillshade
+
+## 6. Do Earthwork Calculation in GCD
