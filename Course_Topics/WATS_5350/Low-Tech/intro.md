@@ -9,23 +9,41 @@ weight: 2
 We first introduced low-tech process-based restoration (PBR) by defining it and talking about:
 - the primary impairment it addresses: **structurally-starved riverscapes**
 - the primary processes promoted with low-tech PBR: **wood accumulation** and **beaver dam activity**
-- the typicaly structures used to reverse structural starvation
+- the typically structures used to reverse structural starvation
 
+
+
+# Resources
+
+## 2020 Content
+In Fall, 2019 WATS 5340, we introduced the topic of low-tech PBR in the [Principles topics](http://capstone.restoration.usu.edu/Course_Topics/WATS_5340/Principles.html#slides--handouts).  As such, we didn't cover it again in the Spring (WATS 5350), but we draw your attention to it here. We did not give an introduction to the different types of low-tech treatments, and we provide that lecture here:
+
+
+
+## 2019 Content
+This introduction corresponds to the first two chapters from the [Low-Tech PBR Design Manual](http://lowtechpbr.restoration.edu). 
 
 <div class="responsive-embed">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSjfm0WXXKCN_7cZKIjl6dAI2gvGhkUHBoNJ_kDYJdcYTsasrNHnTVt-qtXaJszShojnOUOm-ll-WnV/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
-## Principles
+### Principles
 
 We then transitioned into the bigger background problem and scope, and the core principles of low-tech PBR:
 <div class="responsive-embed">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSqwMg3Hma2l5vVxDOY5vF9GK_Mf-DEfOzpqF7QZ23DYNGmoZxhfM1dkrsBJ2vYI1Z_8o_pmE454bin/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
-# Resources
 
-This introduction corresponds to the first two chapters from the [Low-Tech PBR Design Manual](http://lowtechpbr.restoration.edu):
 
-- Wheaton JM, Bennett SN, Bouwes N, Maestas J, and Shahverdian S (Editors). 2019. Low-Tech Process-Based Restoration of Riverscapes: Design Manual. Version 1.0. Utah State University Wheaton Ecogeomorphology & Topographic Analysis Lab. Logan, UT.
 
+# More Resources
+
+See also:
+- [LTPBR Intros](http://lowtechpbr.restoration.usu.edu/workshops/Materials/Intro/materials.html#day-1---intro-to-low-tech-process-based-restoration) from the Intro Workshop to LTPBR. Particularly, the lectures on:
+  - [Background](http://lowtechpbr.restoration.usu.edu/workshops/Materials/Intro/materials.html#2-background-and-purpose)
+  - [Intro to Low-Tech Approaches](http://lowtechpbr.restoration.usu.edu/workshops/Materials/Intro/materials.html#4-introduction-to-low-tech-approaches)
+  - [Guiding Principles](http://lowtechpbr.restoration.usu.edu/workshops/Materials/Intro/materials.html#5-guiding-principles) - Similar to the WATS 5340 the [Principles Intro](http://capstone.restoration.usu.edu/Course_Topics/WATS_5340/Principles.html#slides--handouts). 
+
+<a href="http://dx.doi.org/10.13140/RG.2.2.19590.63049/2"><img class="float-right" src="https://ltpbr.restoration.usu.edu/assets/images/covers/Manual_Tilted_150.png"></a> 
+-  Chapters 1, 2 & 3 of <a href="http://dx.doi.org/10.13140/RG.2.2.19590.63049/2"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Wheaton J.M., Bennett S.N., Bouwes, N., Maestas J.D. and Shahverdian S.M. (Editors). 2019. [Low-Tech Process-Based Restoration of Riverscapes: Design Manual. Version 1.0](https://lowtechpbr.restoration.usu.edu/manual). Utah State University Restoration Consortium. Logan, UT. 286 pp. DOI: [10.13140/RG.2.2.19590.63049/2](http://dx.doi.org/10.13140/RG.2.2.19590.63049/2).
