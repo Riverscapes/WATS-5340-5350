@@ -3,8 +3,8 @@ title: 2020 - Birch Creek
 weight: 3
 ---
 
-<a class="button" href="https://dps.usu.edu/emergency/COVID-19/"><img src="/assets/images/covid19-icon.png"> USU's COVID-19 Policies </a>
-
+<a class="hollow button" href="https://dps.usu.edu/emergency/COVID-19/"><img src="/assets/images/covid19-icon.png"> USU's COVID-19 Policies </a>
+The week we were scheduled to begin focusing on the Birch Creek 2020 project as a class, the [University was rapidly responding to prevent the spread of the COVID-19 virus](https://dps.usu.edu/emergency/COVID-19/). As such, the field trips were changed to *optional*, and Utah State University began teaching remotely on Wednesday, March 18. Classes on Friday, March 13 through Tuesday, March 17 were canceled to allow faculty members time to move their classes into the online learning environment. As such, the resources presented here are more thorough than past years (to facilitate remote participation and learning), and you will see references to our policies related to COVID-19 prevention during the optional field trips.    
 
 
 
