@@ -7,7 +7,7 @@ weight: 2
 
 ### Synopsis of Topic
 [<img class="float-right" src="{{ site.baseurl }}/assets/images/eg/F1.png">](https://science.sciencemag.org/content/348/6235/638/tab-pdf)
-As part of our first and second classes (as well as your first homework), we will cover a vareity of perspectives on restoration principles. A principle is a fundmental truth or proposaition that serves as the foundation for a system of belief or behavior. The underlying principles to restoration provide guideance and sideboards for how we prusue restoration practice. We will cover both some generic ecological restoration principles as well as some principles more specific to riverscape and aquatic ecoystem restoration as well as process-based restoration. 
+As part of our first and second classes (as well as your first homework), we will cover a variety of perspectives on restoration principles. A principle is a fundamental truth or proposition that serves as the foundation for a system of belief or behavior. The underlying principles to restoration provide guidance and sideboards for how we pursue restoration practice. We will cover both some generic ecological restoration principles as well as some principles more specific to riverscape and aquatic ecosystem restoration as well as process-based restoration. 
 
 Common themes will include: *sustainability, resilience, efficency, effectiveness and engagement*.
 
