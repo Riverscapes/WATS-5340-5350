@@ -9,7 +9,7 @@ weight: 2
 [<img class="float-right" src="{{ site.baseurl }}/assets/images/eg/F1.png">](https://science.sciencemag.org/content/348/6235/638/tab-pdf)
 As part of our first and second classes (as well as your first homework), we will cover a variety of perspectives on restoration principles. A principle is a fundamental truth or proposition that serves as the foundation for a system of belief or behavior. The underlying principles to restoration provide guidance and sideboards for how we pursue restoration practice. We will cover both some generic ecological restoration principles as well as some principles more specific to riverscape and aquatic ecosystem restoration as well as process-based restoration. 
 
-Common themes will include: *sustainability, resilience, efficency, effectiveness and engagement*.
+Common themes will include: *sustainability, resilience, efficiency, effectiveness and engagement*.
 
 ### Why we're covering it
 Without some guiding principles explicitly spelt out, it can be easy to get lost in the weeds of restoration practice. Returning to some 
@@ -34,7 +34,7 @@ We started out with an introduction to restoration principles.
 
 #### Week 2
 [<img class="float-right" src="{{ site.baseurl }}/assets/images/lectures/2019_WATS5340_Week02.png">](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5340/2019/2_Restoration_Process%26Principles.pdf)
-In the second week we also reviewd of principles in addition to introducing the restoration [process]({{ site.baseurl }}/Course_Topics/WATS_5340/Restoration_Process) 
+In the second week we also reviewed of principles in addition to introducing the restoration [process]({{ site.baseurl }}/Course_Topics/WATS_5340/Restoration_Process) 
 - <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Restoration Processs & Principles Revisited](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5340/2019/2_Restoration_Process%26Principles.pdf) slides
 
 ### Relevant or Cited Literature
