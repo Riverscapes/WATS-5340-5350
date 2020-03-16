@@ -1,8 +1,9 @@
 ---
-title: 2020 - Birch Creek - 
+title: 2020 - Birch Creek
 weight: 3
 ---
 
+<a class="button" href="https://dps.usu.edu/emergency/COVID-19/"><img src="/assets/images/covid19-icon.png"> USU's COVID-19 Policies </a>
 
 
 
