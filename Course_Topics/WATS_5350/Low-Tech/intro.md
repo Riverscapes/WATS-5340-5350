@@ -18,6 +18,24 @@ We first introduced low-tech process-based restoration (PBR) by defining it and 
 ## 2020 Content
 In Fall, 2019 WATS 5340, we introduced the topic of low-tech PBR in the [Principles topics](http://capstone.restoration.usu.edu/Course_Topics/WATS_5340/Principles.html#slides--handouts).  As such, we didn't cover it again in the Spring (WATS 5350), but we draw your attention to it here. We did not give an introduction to the different types of low-tech treatments, and we provide that lecture here:
 
+### Low-Tech Structures
+
+[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_04.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/04_LowTechApproaches.pdf)
+Having previously covered [principles](http://capstone.restoration.usu.edu/Course_Topics/WATS_5340/Principles.html#slides--handouts), we work through the diversity of low-tech approaches and structure types in this lecture so you have a handle on what you're going to be using in your designs. 
+
+- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Introduction to low-tech approaches - Slides ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/04_LowTechApproaches.pdf)
+
+<div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Kia1dDDt1JE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+This talk is elaborated in [Chapter 1]({{ site.baseurl}}/manual/chap01) & [Chapter 4]({{ site.baseurl}}/manual/chap04) of design manual. 
+
+
+
+
+
+
 
 
 ## 2019 Content
