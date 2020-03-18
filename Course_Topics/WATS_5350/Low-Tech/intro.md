@@ -20,19 +20,19 @@ In Fall, 2019 WATS 5340, we introduced the topic of low-tech PBR in the [Princip
 
 ### Low-Tech Structures
 
-[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_04.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/04_LowTechApproaches.pdf)
+[<img class="float-right" src="{{ site.baseurl }}/assets/images/lectures/2020-WATS5340_Week7.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2020/Week7_LowTechIntro_Structures.pdf)
 Having previously covered [principles](http://capstone.restoration.usu.edu/Course_Topics/WATS_5340/Principles.html#slides--handouts), we work through the diversity of low-tech approaches and structure types in this lecture so you have a handle on what you're going to be using in your designs. 
 
-- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Introduction to low-tech approaches - Slides ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/04_LowTechApproaches.pdf)
+- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Introduction to low-tech approaches - Slides ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2020/Week7_LowTechIntro_Structures.pdf)
 
-<div class="responsive-embed">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Kia1dDDt1JE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+
 
 This talk is elaborated in [Chapter 1]({{ site.baseurl}}/manual/chap01) & [Chapter 4]({{ site.baseurl}}/manual/chap04) of design manual. 
 
-
-
+#### Recorded Lecture
+<div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Kia1dDDt1JE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
 
