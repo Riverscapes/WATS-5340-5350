@@ -2,33 +2,43 @@
 title: 2020 - Birch Creek
 weight: 3
 ---
-
+#### COVID-19 Backdrop
 <a class="hollow button" href="https://dps.usu.edu/emergency/COVID-19/"><img src="/assets/images/covid19-icon.png"> USU's COVID-19 Policies </a>
-The week we were scheduled to begin focusing on the Birch Creek 2020 project as a class, the [University was rapidly responding to prevent the spread of the COVID-19 virus](https://dps.usu.edu/emergency/COVID-19/). As such, the field trips were changed to *optional*, and Utah State University began teaching remotely on Wednesday, March 18. Classes on Friday, March 13 through Tuesday, March 17 were canceled to allow faculty members time to move their classes into the online learning environment. As such, the resources presented here are more thorough than past years (to facilitate remote participation and learning), and you will see references to our policies related to COVID-19 prevention during the optional field trips.    
 
-
-
-<a href="https://earth.app.goo.gl/n9RRA6"><img class="float-right" src="{{ site.baseurl }}/assets/images/projects/Station_GE.png"></a>
-
-The WATS 5350 Spring 2020 class focused on [Birch Creek, Idaho](https://earth.app.goo.gl/n9RRA6) in southeast Idaho. Brich Creek is a left-bank tributary to Mink Creek, which is tributary to the Bear River just downstream of Oneida Narrows.  The project is on landowner and rancher Jay Wilde's deeded ground.  beaver reintroduction on Birch Creek, just over the hill, and wanted to see similar improvements to Station Creek through his property. The project was originally envisioned as a BDA-assisted, beaver translocation project and was going to be funded by Pacificorps.  
-
-
+The week we were scheduled to begin focusing on the Birch Creek 2020 project as a class, the [University was rapidly responding to prevent the spread of the COVID-19 virus](https://dps.usu.edu/emergency/COVID-19/). As such, the official field trips were cancelled and Utah State University began teaching remotely on Wednesday, March 18. Classes on Friday, March 13 through Tuesday, March 17 were canceled to allow faculty members time to move their classes into the online learning environment. As such, the resources presented here are more thorough than past years (to facilitate remote participation and learning). This is not ideal, and can't simulate the experience of design and construction in the field. Students of Spring 2020 WATS 5350 will be welcome to attend [summer workshops](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Venues/ut).    
 
 ----
 
 # Intro to Birch Creek
+<a href="https://earth.app.goo.gl/n9RRA6"><img class="float-right" src="{{ site.baseurl }}/assets/images/projects/Station_GE.png"></a>
+
+The WATS 5350 Spring 2020 class focused on [Birch Creek, Idaho](https://earth.app.goo.gl/n9RRA6) in southeast Idaho. Birch Creek is a left-bank tributary to Mink Creek, which is tributary to the Bear River just downstream of Oneida Narrows.  The project is on landowner and rancher Jay Wilde's deeded ground.  In beaver reintroduction on Birch Creek, just over the hill, and wanted to see similar improvements to Station Creek through his property. The project was originally envisioned as a BDA-assisted, beaver translocation project and was going to be funded by Pacificorps.  
+
+
+
+
 <div class="responsive-embed">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQAjG4OzYOspwMcySZV1piDTWGBgPwj_yGfC_m5YLLGFmt8M6NAazomf6aeVZGBEYSVDD4l6nA-POIL/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
-## A Rancher’s Story: Reintroducing beaver to bring back perennial flow 
-[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/Wilde_BirchCk.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/Wilde+-+Brich+Creek.pdf)
-Idaho rancher Jay Wilde shared his amazing story
+## Jay Wilde's Story: Reintroducing beaver to bring back perennial flow 
+
+<a href="https://earth.app.goo.gl/n9RRA6"><img width="100" class="float-left" src="{{ site.baseurl }}/assets/images/projects/wilde-round_9.png"></a>
+We have had the privilege of working with Idaho Rancher Jay Wilde since 2014.  As a back drop to the project you 
+
+
+
+tells his [story](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/CheapCheerful/2018/NRCS/Idaho/Lectures/2018_IdahoNRCS_Wilde_BirchCreek.pdf) about bringing beaver back to the creek he grew up on to restore flow.  Jay went on the road in the summer of 2018 and helped spread this message to workshop participants in five SGI Low-Tech Process Based Restoration of Mesic & Riparian Workshops. This video below is from the [Logan Workshop](http://beaver.joewheaton.org/logan-workshop-materials.html):
+
+<div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4j6R1JxG8M8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 - <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [A Rancher’s Story: Reintroducing beaver to bring back perennial flow ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/Wilde+-+Brich+Creek.pdf)
 (Wilde et al. (2019))
 If you missed it, see a version Jay gave last year [here]({{ site.baseurl }}/resources/talks).
 
-
+-----
 
 ### Location
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d45802.83867783453!2d-111.79209379514047!3d42.16222247080642!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x875450c38a8057ed%3A0xa5ee2601f3513928!2sUnnamed+Road%2C+Preston%2C+ID+83263!5e0!3m2!1sen!2sus!4v1552275189358" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
@@ -121,89 +131,18 @@ Here is a flight from March 15, 2020:
 <iframe width='500' height='500' src='https://www.dronedeploy.com/app2/data/5e6eb01ca8b7a98011992e20;jwt_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJleHAiOjI1MzQwMjMwMDc5OSwiaWQiOiI1ZTZlYjAxY2E4YjdhOTgwMTE5OTJlMjAiLCJzY29wZSI6WyIzNzNjNzEyN2U2X0Y1MDlBQTI4NDVPUEVOUElQRUxJTkUiXSwidHlwZSI6IlJlYWRPbmx5UGxhbiJ9.tfH--qbaszSn9h8MWom0p8C1UY5eL04N8jtQe7083PpnG6oRjr4jVJH6ysBf6IkU-__yBDqq-S4F8443NxCb3Q'></iframe>
 </div>
 
-### Jay Wilde's Story of Beaver Reintroduction on Birch Creek
-<a href="https://earth.app.goo.gl/n9RRA6"><img width="100" class="float-left" src="{{ site.baseurl }}/assets/images/projects/wilde-round_9.png"></a>
-Idaho Rancher Jay Wilde tells his [story](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/CheapCheerful/2018/NRCS/Idaho/Lectures/2018_IdahoNRCS_Wilde_BirchCreek.pdf) about bringing beaver back to the creek he grew up on to restore flow.  Jay went on the road in the summer of 2018 and helped spread this message to workshop participants in five SGI Low-Tech Process Based Restoration of Mesic & Riparian Workshops. This video below is from the [Logan Workshop](http://beaver.joewheaton.org/logan-workshop-materials.html):
 
-<div class="responsive-embed">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4j6R1JxG8M8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
-Birch Creek was the catalyst for the Station Creek project.
+
 
 ----
-## Student Consulting Team Outputs
+## Student Outputs
+
+At the end of the semester, we'll put your design reports up here.
 
 ### Project Reports
 
-<div class="row small-up-2 medium-up-3">
-  <div class="column">
-    <div class="card">
 
-      <div class="card-section" align="center">
-      <a src="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2019/Station/Station+Creek-Low+Tech+Restoration+Report+(1).pdf"><img src="{{ site.baseurl }}/assets/images/projects/Canyon_Station_Final.png"></a>
-        <p><a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2019/Station/Station+Creek-Low+Tech+Restoration+Report+(1).pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Canyon Aquatic Restoration Specialists - <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2019/Station/Station+Creek-Low+Tech+Restoration+Report+(1).pdf">Station Creek Design Report</a></p>
-      </div>
-    </div>
-  </div>
-
-  <div class="column">
-    <div class="card">
-
-      <div class="card-section" align="center">
-      <a src="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2019/Station/EcoLife+Low-Tech+Plan_Station+Creek+Upper+Lower+Reach.pdf"><img src="{{ site.baseurl }}/assets/images/projects/EcoLife_Station_Final.png"></a>
-        <p><a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2019/Station/EcoLife+Low-Tech+Plan_Station+Creek+Upper+Lower+Reach.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> ECO Life Consulting - <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2019/Station/EcoLife+Low-Tech+Plan_Station+Creek+Upper+Lower+Reach.pdf">Station Creek  Design Report</a></p>
-      </div>
-    </div>
-  </div> 
-
-    <div class="column">
-    <div class="card">
-
-   <div class="card-section" align="center">
-      <a src="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2019/Station/iQ_Low-Tech_Final_Report.pdf"><img src="{{ site.baseurl }}/assets/images/projects/IQ_StationFinal.png"></a>
-        <p><a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2019/Station/iQ_Low-Tech_Final_Report.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Intermountain Quality Ecosystem Restoration - <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2019/Station/iQ_Low-Tech_Final_Report.pdf">Station Creek  Design Report</a></p>
-      </div>
-    </div>
-  </div>
-
-</div>
-
-
-### Project Presentations
-
-<div class="row small-up-2 medium-up-3">
-  <div class="column">
-    <div class="card">
-
-      <div class="card-section" align="center">
-      <a src="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2019/Station/Canyon_Station+Creek+Presentation.pdf"><img src="{{ site.baseurl }}/assets/images/projects/Canyon_Station_PPT.png"></a>
-        <p><a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2019/Station/Canyon_Station+Creek+Presentation.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Canyon Aquatic Restoration Specialists - <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2019/Station/Canyon_Station+Creek+Presentation.pdf">Station Creek Presentation</a></p>
-      </div>
-    </div>
-  </div>
-
-  <div class="column">
-    <div class="card">
-
-      <div class="card-section" align="center">
-      <a src="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2019/Station/EcoLife+Low-Tech+Presentation.pdf"><img src="{{ site.baseurl }}/assets/images/projects/EcoLife_Station_PPT.png"></a>
-        <p><a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2019/Station/EcoLife+Low-Tech+Presentation.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> ECO Life Consulting - <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2019/Station/EcoLife+Low-Tech+Presentation.pdf">Station Creek Presentation</a></p>
-      </div>
-    </div>
-  </div> 
-
-    <div class="column">
-    <div class="card">
-
-   <div class="card-section" align="center">
-      <a src="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2019/Station/IQ+station+creek+low+tech+PBR.pdf"><img src="{{ site.baseurl }}/assets/images/projects/IQ_StationPPT.png"></a>
-        <p><a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2019/Station/IQ+station+creek+low+tech+PBR.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Intermountain Quality Ecosystem Restoration - <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2019/Station/IQ+station+creek+low+tech+PBR.pdf">Station Creek Presentation</a></p>
-      </div>
-    </div>
-  </div>
-
-</div>
 
 
 
