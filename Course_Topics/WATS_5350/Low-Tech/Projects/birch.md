@@ -2,41 +2,55 @@
 title: 2020 - Birch Creek
 weight: 3
 ---
-#### COVID-19 Backdrop
-<a class="hollow button" href="https://dps.usu.edu/emergency/COVID-19/"><img src="/assets/images/covid19-icon.png"> USU's COVID-19 Policies </a>
-
-The week we were scheduled to begin focusing on the Birch Creek 2020 project as a class, the [University was rapidly responding to prevent the spread of the COVID-19 virus](https://dps.usu.edu/emergency/COVID-19/). As such, the official field trips were cancelled and Utah State University began teaching remotely on Wednesday, March 18. Classes on Friday, March 13 through Tuesday, March 17 were canceled to allow faculty members time to move their classes into the online learning environment. As such, the resources presented here are more thorough than past years (to facilitate remote participation and learning). This is not ideal, and can't simulate the experience of design and construction in the field. Students of Spring 2020 WATS 5350 will be welcome to attend [summer workshops](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Venues/ut).    
 
 ----
 
 # Intro to Birch Creek
 <a href="https://earth.app.goo.gl/n9RRA6"><img class="float-right" src="{{ site.baseurl }}/assets/images/projects/Station_GE.png"></a>
 
-The WATS 5350 Spring 2020 class focused on [Birch Creek, Idaho](https://earth.app.goo.gl/n9RRA6) in southeast Idaho. Birch Creek is a left-bank tributary to Mink Creek, which is tributary to the Bear River just downstream of Oneida Narrows.  The project is on landowner and rancher Jay Wilde's deeded ground.  In beaver reintroduction on Birch Creek, just over the hill, and wanted to see similar improvements to Station Creek through his property. The project was originally envisioned as a BDA-assisted, beaver translocation project and was going to be funded by Pacificorps.  
+The WATS 5350 Spring 2020 class focused on [Birch Creek, Idaho](https://earth.app.goo.gl/n9RRA6) in southeast Idaho. Birch Creek is a left-bank tributary to Mink Creek, which is tributary to the Bear River just downstream of Oneida Narrows.  The project is on landowner and rancher Jay Wilde's deeded ground.  In beaver reintroduction on Birch Creek, just over the hill, and wanted to see similar improvements to Station Creek through his property. 
 
+## Part 1 - Why we can even work in Brich Creek
 
-
-
+For WATS 5350, this video sets the stage for Birch Creek, the previous project with Jay Wilde upstream on USFS land, the motivation for that project, the results of that project and why there is trust to move down off the Forest and on to Jay's private, deeded property and continue with the project you will be planning, designing (and should be building if not for COVID-19, but can come and build in the summer if you want). 
 <div class="responsive-embed">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQAjG4OzYOspwMcySZV1piDTWGBgPwj_yGfC_m5YLLGFmt8M6NAazomf6aeVZGBEYSVDD4l6nA-POIL/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/loNfTw7E-2U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-## Jay Wilde's Story: Reintroducing beaver to bring back perennial flow 
+
+
+### Jay Wilde's Story: Reintroducing beaver to bring back perennial flow 
 
 <a href="https://earth.app.goo.gl/n9RRA6"><img width="100" class="float-left" src="{{ site.baseurl }}/assets/images/projects/wilde-round_9.png"></a>
-We have had the privilege of working with Idaho Rancher Jay Wilde since 2014.  As a back drop to the project you 
-
-
-
-tells his [story](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/CheapCheerful/2018/NRCS/Idaho/Lectures/2018_IdahoNRCS_Wilde_BirchCreek.pdf) about bringing beaver back to the creek he grew up on to restore flow.  Jay went on the road in the summer of 2018 and helped spread this message to workshop participants in five SGI Low-Tech Process Based Restoration of Mesic & Riparian Workshops. This video below is from the [Logan Workshop](http://beaver.joewheaton.org/logan-workshop-materials.html):
+We have had the privilege of working with Idaho Rancher Jay Wilde since 2014.  For a more elaborate version of what I explain in the 45 minute above, its best to hear directly from Jay what happened and why he's willing to let you go "mess up" and improve the health of his creek. Jay tells his [story](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/CheapCheerful/2018/NRCS/Idaho/Lectures/2018_IdahoNRCS_Wilde_BirchCreek.pdf) about bringing beaver back to the creek he grew up on to restore flow.  Jay went on the road in the summer of 2018 with us and helped spread this message to workshop participants in five SGI Low-Tech Process Based Restoration of Mesic & Riparian Workshops. This video below is from the [Logan Workshop](http://beaver.joewheaton.org/logan-workshop-materials.html):
 
 <div class="responsive-embed">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4j6R1JxG8M8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 - <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [A Rancher’s Story: Reintroducing beaver to bring back perennial flow ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/Wilde+-+Brich+Creek.pdf)
-(Wilde et al. (2019))
-If you missed it, see a version Jay gave last year [here]({{ site.baseurl }}/resources/talks).
+(Wilde et al. 2019)
+
+#### Story Told by Others
+This story has appeared in multiple media outlets. Here are a few of the recent ones:
+
+##### Beef Magazine: Beaver power provides year-long water to Idaho ranch
+[<img class="float-right" src="{{ site.baseurl }}/assets/images/projects/birch/Beef_Birch.png">](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/birch/BEEF+30-31+april+REVISED.pdf)
+That's right, [Beef Magazine](https://www.beefmagazine.com/sustainability/beaver-power-provides-year-long-water-idaho-ranch)! This article by Briana Randall titled "[Beaver power provides year-long water to Idaho ranch: Beavers? You read that right. Here’s how four-legged engineers helped restore an Idaho ranch.](https://www.beefmagazine.com/sustainability/beaver-power-provides-year-long-water-idaho-ranch)" explains to other cattlemen why Jay wants what many view as a nuisance on his ranch.
+
+##### Eager
+[<img class="float-right" src="{{ site.baseurl }}/assets/images/eager-goldfarb_1.jpg">](https://www.amazon.com/Eager-Surprising-Secret-Beavers-Matter/dp/160358739X/ref=sr_1_6?ie=UTF8&qid=1512586233&sr=8-6&keywords=eager+beaver)
+This talk is elaborated in [Ben Goldfarb's](http://bengoldfarb.com/) new award winning book:  [Eager - The Surprising Secret Life of Beaver and Why they Matter](https://www.amazon.com/Eager-Surprising-Secret-Beavers-Matter/dp/160358739X/ref=sr_1_6?ie=UTF8&qid=1512586233&sr=8-6&keywords=eager+beaver). 
+
+<iframe width="250" height="120" src="https://www.youtube.com/embed/vURn_6s2w1c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+View excerpts for free [here](https://books.google.com/books?id=n_pcDwAAQBAJ&printsec=frontcover&dq=eager&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwi1lZ22zKfoAhUXVs0KHbaqCUQQ6AEwAHoECAAQAg#v=twopage&q=eager&f=true)
+
+##### USU Today - The Aftermath of Us
+[<img class="float-left" src="{{ site.baseurl }}/assets/images/covers/USUTodayFall2019.png">](https://utahstatemagazine.usu.edu/environment/the-aftermath-of-us/)
+The main focus of this article is on research Brendan Murphy and Patrick Belmont are doing on fire in the American west, but Jay's story is featured in the end of the [article](https://utahstatemagazine.usu.edu/environment/the-aftermath-of-us/).
+
+
 
 -----
 
@@ -87,7 +101,7 @@ If you missed it, see a version Jay gave last year [here]({{ site.baseurl }}/res
 
 </div>
 
-
+https://photos.app.goo.gl/WDAvPs8MUyBLen8A6
 
 #### Static Maps from [RCAT](http://rcat.riverscapes.xyz) and [BRAT](http://brat.riverscapes.xyz)
 
