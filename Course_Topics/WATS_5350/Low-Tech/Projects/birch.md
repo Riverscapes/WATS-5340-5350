@@ -6,9 +6,11 @@ weight: 3
 ----
 
 # Intro to Birch Creek
-<a href="https://earth.app.goo.gl/n9RRA6"><img class="float-right" src="{{ site.baseurl }}/assets/images/projects/Station_GE.png"></a>
+<a href="https://photos.app.goo.gl/XA7iTzxAKcE9Pf9MA"><img class="float-right" src="{{ site.baseurl }}/assets/images/projects/birch/BirchFall.JPG"></a>
 
-The WATS 5350 Spring 2020 class focused on [Birch Creek, Idaho](https://earth.app.goo.gl/n9RRA6) in southeast Idaho. Birch Creek is a left-bank tributary to Mink Creek, which is tributary to the Bear River just downstream of Oneida Narrows.  The project is on landowner and rancher Jay Wilde's deeded ground.  In beaver reintroduction on Birch Creek, just over the hill, and wanted to see similar improvements to Station Creek through his property. 
+The WATS 5350 Spring 2020 class focused on [Birch Creek, Idaho](https://earth.app.goo.gl/n9RRA6) in southeast Idaho. Birch Creek is a left-bank tributary to Mink Creek, which is tributary to the Bear River just downstream of Oneida Narrows.  The project is on landowner and rancher Jay Wilde's deeded ground.  
+
+Jay is excited to see if the success of beaver reintroduction facilitated by low-tech BDAs on Birch Creek on USFS land upstream of his ranch can be extended downstream on to his own property. **The goals of this project are to improve riverscape health and restore perrenial flow.**
 
 ## Part 1 - Why we can even work in Brich Creek
 
