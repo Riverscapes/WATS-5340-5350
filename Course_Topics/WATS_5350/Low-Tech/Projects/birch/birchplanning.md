@@ -165,7 +165,7 @@ This is
 | Resource Type | Suggested Resource Link | Notes or Alternative Resource |
 |------------------------|-------------------------|-------------------------------|
 | Flow Regime Assessment |  [StreamStats](https://streamstats.usgs.gov/ss/) | Typical peak-flow statistics (e.g. Q2 and Q100) are easy to estimate using StreamSTats. You can download flow gague data and do your own regional curves, but this is a reasonable approximation in under 10 minutes. |
-| Stream Power Assessment | [BRAT Estimates](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/birch/BRAT.zip) | For a given segment of reach, you could also take any flow estimate, measurement, or flow statistic (e.g. from StreamStats) and multiply it by reach slope, gravity and density of water and do what BRAT attempts to do for you.|
+| Stream Power Assessment | BRAT Estimates (see below) | For a given segment of reach, you could also take any flow estimate, measurement, or flow statistic (e.g. from StreamStats) and multiply it by reach slope, gravity and density of water and do what BRAT attempts to do for you.|
 
 In this video, I review how you can use [StreamStats](https://streamstats.usgs.gov/ss/) to address the flow regime's ability to "do the work" by simply getting you some discharge estimates. 
 
@@ -197,6 +197,7 @@ We can ask:
 As with geomorphic condition, these questions can often be answered simply by walking a   site and assessing wood resources and  recruitment  potential.  You can count jams off the imagery and report them as quantities or linear densities (i.e. jams per mile) for more consistent intercomparison across sites. Below we show what can be gleaned from RCAT as a line of evidence:
 
 <div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GTmVEuMhpX8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
