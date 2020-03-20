@@ -49,7 +49,6 @@ That's right, [Beef Magazine](https://www.beefmagazine.com/sustainability/beaver
 This talk is elaborated in [Ben Goldfarb's](http://bengoldfarb.com/) new award winning book:  [Eager - The Surprising Secret Life of Beaver and Why they Matter](https://www.amazon.com/Eager-Surprising-Secret-Beavers-Matter/dp/160358739X/ref=sr_1_6?ie=UTF8&qid=1512586233&sr=8-6&keywords=eager+beaver). 
 
 <iframe width="250" height="120" src="https://www.youtube.com/embed/vURn_6s2w1c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 View excerpts for free [here](https://books.google.com/books?id=n_pcDwAAQBAJ&printsec=frontcover&dq=eager&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwi1lZ22zKfoAhUXVs0KHbaqCUQQ6AEwAHoECAAQAg#v=twopage&q=eager&f=true)
 
 ##### USU Today - The Aftermath of Us
@@ -75,92 +74,10 @@ The video is about 35 minutes. Please post any questions you have to the [planni
 
 ## Resources for 2020 Students
 
-<div class="row small-up-2 medium-up-4">
-  <div class="column">
-    <div class="card">
-
-      <div class="card-section" align="center">
-      <a src="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/station/BRAT/Anabranch+Solutions+ECC+Project+Application+10-4-18.pdf"><img src="{{ site.baseurl }}/assets/images/projects/ECC_Pacificorp_Station_200.png"></a>
-        <p><a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/station/BRAT/Anabranch+Solutions+ECC+Project+Application+10-4-18.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Pacificorps Funding Application for Station Creek Adaptive Beaver Management Plan</p>
-        
-      </div>
-    </div>
-  </div>
-  <div class="column">
-    <div class="card">
-       <div class="card-section" align="center">
-       <a src="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/station/BRAT/Streambed_alteration_permit/IDWR/Permit+S13-20079.pdf"><img src="{{ site.baseurl }}/assets/images/projects/IDWR_Station_JointPermit_200.png"></a>
-        <p><a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/station/BRAT/Streambed_alteration_permit/IDWR/Permit+S13-20079.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Joint Application for Permit No. S13-20079 for Statin Creek Beaver Dam Analogs - Issued from IDWR</p>
-      </div>
-    </div>
-  </div>
-
-  <div class="column">
-    <div class="card">
-       <div class="card-section" align="center">
-       <a src="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/station/BRAT/BirchCreek_StationCreek_RCAT.lpk"><img src="{{ site.baseurl }}/assets/images/projects/Station_RCAT_RVD_200.png"></a>
-       <a src="http://rcat.riverscapes.xyz"><img src="{{ site.baseurl }}/assets/images/projects/RCAT_Logo-200.png"></a>
-        <p><a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/station/BRAT/BirchCreek_StationCreek_RCAT.lpk"><i class="fa fa-map" aria-hidden="true"></i></a> <a href="http://rcat.riverscapes.xyz">RCAT</a> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/station/BRAT/Middle_Bear_RCAT.lpk">Layer Package for Station Creek & Birch Creek</a></p>
-      </div>
-    </div>
-    </div>
-    <div class="column">
-    <div class="card">
-       <div class="card-section" align="center">
-       <a src="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/station/BRAT/BirchCreek_StationCreek_BRAT.lpk"><img src="{{ site.baseurl }}/assets/images/projects/Station_BRAT_RVD_200.png"></a>
-       <a src="http://brat.riverscapes.xyz"><img src="{{ site.baseurl }}/assets/images/projects/BRAT_Logo-200.png"></a>
-        <p><a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/station/BRAT/BirchCreek_StationCreek_BRAT.lpk"><i class="fa fa-map" aria-hidden="true"></i></a> <a href="http://brat.riverscapes.xyz">BRAT</a> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/station/BRAT/BirchCreek_StationCreek_BRAT.lpk">Layer Package for Station Creek & Birch Creek</a></p>
-      </div>
-    </div>
-
-  </div>
-
-
+<div align="center">
+<a class="button" href="{{ site.baserurl }}/Course_Topics/WATS_5350/Low-Tech/Projects/birch/birchplanning.html"><i class="fa fa-leaf" aria-hidden="true"></i> Conservation Planning Resources for Birch Creek</a> 
 </div>
 
-https://photos.app.goo.gl/WDAvPs8MUyBLen8A6
-
-#### Static Maps from [RCAT](http://rcat.riverscapes.xyz) and [BRAT](http://brat.riverscapes.xyz)
-
-<div class="responsive-embed">
-<script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
-<div class="pa-carousel-widget" style="width:640px; height:480px; display:none;"
-  data-link="https://photos.app.goo.gl/iHB3goMo55inQu5z7"
-  data-title="Station Creek &amp; Birch Creek Maps"
-  data-description="12 new photos added to shared album">
-  <img data-src="https://lh3.googleusercontent.com/nvFWhuw4eptnF7mqY4uQvNeXr-xYCvVyshulw7-ldGvmX5gj1rwHeRgVShCKiygC_JpAz60jJNMhtMAWoqCpU4Z8VFOJ4_eCda0W5u8CD3tvWGrMDPRhXODzFP39RofvSRS4mLyu2Ts=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/WYYs7MsxaKgRezfFVW4FiGGzQY56cYyez4P5cc8VoCfHFxm3VccGBCJg3o05QZnqWrdZ_UdyYPVI2Z2jImpLg0lk5OIDAFFYgjRWEibjZcaAudUtydlg-8hIwuY2CnSe2vi_wVLQcfw=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/bgQpf7ewbeFSnI7M5iPaTNAQfOaCM_70WeOGaVBEj30CzfSYCnfZnK9o6juzdsxCogAEosCpgbtvgRtlsAp9aPLKkAxojw24PhGqrQtCU7Xxt690U7AmhUCXQKHVOzmcCRDFhjiTNkU=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/SmXqqCsYiiKT58vC7aRMMhpCMSuw0QWaIAS5RserVaXtbW-T-BKSAfxfvH_3bM7Zom3Qw5qep4Fa-XfFLQI-cLXII0g-ODLa6LjVJ-nssgIfUdLl8n9M5AucZSCbIpLAKwr6Zt18Qxo=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/iNWEtwq7pUSG1pK3ik5gfHLYD3dATQ9Jsi6qR97uQD5OZBSTm78BFCskFMq-pC-0jLdmcGOWyAGzxOw5qMQjpHq1ZF4kMuvQuJEKyvO90wywAgG_iK3FAZdzPBiKJO2QV8s7BQ0zSVk=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/Y4m_uXQ_f1uCmivVmNHdq33XyItHUHfYK_ohgFjxIXHC9k1rd_wa1O-RLQ7ZOzRytzwREWAykYkqA7dFmNr7x2Slvlw8_qHni2AnkZF0Uj3d79FMS19XDf15iRiwTKVEULiNi8DgwVs=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/pBDUWy_rS1uXp-TspSYpRmgFNCZSowf9_pmFIQYO3U5IQtXwX8gJSSBFG-F2xNcdJmT0HvlZiGRIfk2amab7n4vNKfAhj0ryMNARHWPMnk1zdKonwhlvEZHDTf7GubfNTL-YQg_SzuY=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/wrW75XDU6RSJwQbrgwzTMJL3cdCVTEWCZjtK3xDPpXt8KCPzCpo-AkyPySTXVomntu0g9pnl3SrOBKqaNUtluQ2XzyljFHiud0PHYwcfJWHnvhQvbHAkyztaZxVErPrZcLz0Y2mmWdw=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/D99XBp61kNf-2yEBLWy9KBYkFnHRfleIFxvqEGe5q4vazarBx163i2bEjfQfG6rtrdQsrnMH8SnMBgx3UQV60RoupdTeCh2p8YJpmgNCfKN6Mv_Twgn3roJtb1ARYxBlcm3jJA-DnZ8=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/UNH_8mPdx9X7HE05Mnd34z1Xa1t0sI29AtE2bGkPMDUn59u4ZkLc6NS8EiPqxLAgaoNtswpmbIdFQZid6SAsJ_l4QVqLXptlw6uNixQyfxqTEsSoVZ12hs2reibBoCyqZoNmEm-u8eA=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/GO1aDctOxp0scN771mCa21oCpiS88tow2-8UOnK2iGkQ7LGe0xb_h5uTRxI684nOYUe-ouI3pemVdbEj4rijGrbgWbakFxS3fUT8OZbhSJVwdEXRJxdEXz1n7ND49HXuxuvNfX1cuGM=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/UgxkUQP0i0D2UiFhP5VkCjOWmKbpL_qAW9u59UIQzk7ysHFtJwpkrdQ3YEQLGpKa2PfaJlidBlD6uxYrQil7PEA-tF9qmPwWLOuc3ciF4XidifYvWmOY-15zM83UN28ncK6dQzsbNBA=w1920-h1080" src="" alt="" />
-</div>
-</div>
-See [here](https://photos.app.goo.gl/iHB3goMo55inQu5z7) for album to download map images.
-
-
-
-### USGS [StreamStats](https://streamstats.usgs.gov/ss/)
-- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Station Creek USGS StreamStats Report](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/station/StationCreekStreamStats.pdf)
-- <i class="fa fa-map" aria-hidden="true"></i> [Station Creek USGS StreamStats Shapefile](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/station/StationCk_USGS_SS_Shapefile.zip)
-
-### Photos
-
-[Google Photo Album](https://photos.app.goo.gl/o4E9ru8tKSsbHBni9) from design field trip.
-
-### UAV Imagery
-
-#### Pre Project
-Here is a flight from March 15, 2020:
-<div class="responsive-embed">
-<iframe width='500' height='500' src='https://www.dronedeploy.com/app2/data/5e6eb01ca8b7a98011992e20;jwt_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJleHAiOjI1MzQwMjMwMDc5OSwiaWQiOiI1ZTZlYjAxY2E4YjdhOTgwMTE5OTJlMjAiLCJzY29wZSI6WyIzNzNjNzEyN2U2X0Y1MDlBQTI4NDVPUEVOUElQRUxJTkUiXSwidHlwZSI6IlJlYWRPbmx5UGxhbiJ9.tfH--qbaszSn9h8MWom0p8C1UY5eL04N8jtQe7083PpnG6oRjr4jVJH6ysBf6IkU-__yBDqq-S4F8443NxCb3Q'></iframe>
-</div>
 
 
 
