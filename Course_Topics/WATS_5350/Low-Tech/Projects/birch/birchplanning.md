@@ -26,6 +26,20 @@ Project Site Description & Scope (i.e. synthesis of LECTURE: Watch Birch Creek P
 | High Resolution Digital Surface Elevation Model | 2 cm resolution Orthophoto from March 15, 2020 [Drone Deploy <i class="fa fa-location-arrow" aria-hidden="true"></i>](https://www.dronedeploy.com/app2/data/5e6eb01ca8b7a98011992e20;jwt_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJleHAiOjI1MzQwMjMwMDc5OSwiaWQiOiI1ZTZlYjAxY2E4YjdhOTgwMTE5OTJlMjAiLCJzY29wZSI6WyIzNzNjNzEyN2U2X0Y1MDlBQTI4NDVPUEVOUElQRUxJTkUiXSwidHlwZSI6IlJlYWRPbmx5UGxhbiJ9.tfH--qbaszSn9h8MWom0p8C1UY5eL04N8jtQe7083PpnG6oRjr4jVJH6ysBf6IkU-__yBDqq-S4F8443NxCb3Q) Flight: [<i class="fa fa-file-archive-o" aria-hidden="true"></i> ElevationToolbox.zip](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/birch/DroneDeploy/BirchCreekWildeProperty_ElevationToolbox_MonMar16035203.044315.zip) - 43 MB | This is from structure-from-motion photogrammetric analysis of a UAV flight. This is a visual (RGB) representatoin of the DSM, and the values are a color ramp and hillshade representaton, NOT actual elevations. This is good for interpretive mapping, but not analysis.|
 | High Resolution Vegetation Model | NDVI (normalied difference vegetation index) estimate of vegetation from March 15, 2020 [Drone Deploy <i class="fa fa-location-arrow" aria-hidden="true"></i>](https://www.dronedeploy.com/app2/data/5e6eb01ca8b7a98011992e20;jwt_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJleHAiOjI1MzQwMjMwMDc5OSwiaWQiOiI1ZTZlYjAxY2E4YjdhOTgwMTE5OTJlMjAiLCJzY29wZSI6WyIzNzNjNzEyN2U2X0Y1MDlBQTI4NDVPUEVOUElQRUxJTkUiXSwidHlwZSI6IlJlYWRPbmx5UGxhbiJ9.tfH--qbaszSn9h8MWom0p8C1UY5eL04N8jtQe7083PpnG6oRjr4jVJH6ysBf6IkU-__yBDqq-S4F8443NxCb3Q) Flight: [<i class="fa fa-file-archive-o" aria-hidden="true"></i> NDVIToolbox.zip](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/birch/DroneDeploy/BirchCreekWildeProperty_NDVIToolbox_MonMar16035352.045059.zip) - 350.8 MB | This is from structure-from-motion photogrammetric analysis of a UAV flight. This is a rough NDVI estimate of vegetation, which can discriminate spectral signals, but is not reliable for mapping vegetation types.|
 
+### UAV Imagery
+
+#### Pre Project
+Here is a flight from March 15, 2020:
+<div class="responsive-embed">
+<iframe width='500' height='500' src='https://www.dronedeploy.com/app2/data/5e6eb01ca8b7a98011992e20;jwt_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJleHAiOjI1MzQwMjMwMDc5OSwiaWQiOiI1ZTZlYjAxY2E4YjdhOTgwMTE5OTJlMjAiLCJzY29wZSI6WyIzNzNjNzEyN2U2X0Y1MDlBQTI4NDVPUEVOUElQRUxJTkUiXSwidHlwZSI6IlJlYWRPbmx5UGxhbiJ9.tfH--qbaszSn9h8MWom0p8C1UY5eL04N8jtQe7083PpnG6oRjr4jVJH6ysBf6IkU-__yBDqq-S4F8443NxCb3Q'></iframe>
+</div>
+
+### Photos
+
+[Google Photo Album](https://photos.app.goo.gl/WDAvPs8MUyBLen8A6) from October 2019 field trip.
+
+
+
 --------
 ## CPP - Planning
 
@@ -97,6 +111,7 @@ In this video, I review how you can use [StreamStats](https://streamstats.usgs.g
 
 ##### Riparian Condition to support Process of Wood Accumulation 
 (maps of existing and potential woody resources (riparian and upland) for processes of wood recruitment, wood transport and wood accumulation)
+<a src="http://rcat.riverscapes.xyz"><img src="{{ site.baseurl }}/assets/images/projects/RCAT_Logo-200.png"></a>
 
 **Birch Creek Riparian Resources**
 
@@ -108,8 +123,10 @@ In this video, I review how you can use [StreamStats](https://streamstats.usgs.g
 ##### Riparian Condition Capacity to support Process of Beaver Dam Activity 
 (maps of existing and potential beaver dam activity)
 
+<a src="http://brat.riverscapes.xyz"><img src="{{ site.baseurl }}/assets/images/projects/BRAT_Logo-200.png"></a>
 
 **Birch Creek Beaver Resources**
+
 
 | Resource Type | Suggested Resource Link | Notes or Alternative Resource |
 |------------------------|-------------------------|-------------------------------|
