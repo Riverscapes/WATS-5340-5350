@@ -14,7 +14,11 @@ Jay is excited to see if the success of beaver reintroduction facilitated by low
 
 ## Part 1 - Why we can even work in Brich Creek
 
+<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2020/Week8_BirchCreekIntro_1.pdf"><img class="float-right" src="{{ site.baseurl }}/assets/images/lectures/2020-WATS5340_Week8_Part1.png"></a>
 For WATS 5350, this video sets the stage for Birch Creek, the previous project with Jay Wilde upstream on USFS land, the motivation for that project, the results of that project and why there is trust to move down off the Forest and on to Jay's private, deeded property and continue with the project you will be planning, designing (and should be building if not for COVID-19, but can come and build in the summer if you want). 
+
+[<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Lecture Slides](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2020/Week8_BirchCreekIntro_1.pdf)
+
 <div class="responsive-embed">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/loNfTw7E-2U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
