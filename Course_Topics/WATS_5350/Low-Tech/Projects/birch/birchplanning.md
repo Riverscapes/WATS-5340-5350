@@ -97,11 +97,18 @@ Once you have a valley bottom mapped (even if over-estimted), you have a reasona
 
 | Resource Type | Suggested Resource Link | Notes or Alternative Resource |
 |------------------------|-------------------------|-------------------------------|
-|Item | Desc [<i class="fa fa-file-archive-o" aria-hidden="true"></i> file.zip]()- 479 MB! | This is a. |
-|Item | Desc [<i class="fa fa-file-archive-o" aria-hidden="true"></i> file.zip]()- 479 MB! | This is a. |
+|Beaver Restoration Assessment Tool | This is the entire BRAT Project [<i class="fa fa-file-archive-o" aria-hidden="true"></i> BRAT.zip](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/birch/BRAT.zip)- 1700 MB! | [BRAT](https://brat.riverscapes.xyz) includes a bunch of layers that give insights into land use and infrastructure resources |
+
+Scroll down to the [BRAT]({{ site.baseurl }}/Course_Topics/WATS_5350/Low-Tech/Projects/birch/birchplanning.html#resource-analysis) download and video, to get the BRAT dataset. Once you have it, this video focuses in on how to use that information that BRAT harvest from freely available national datasets (like NHD, Census Tiger Data for Roads, Land Use Layers, Land Ownership, etc.) to map and make an informed assessment of risk to infrastructure resources and landuse within the riverscape. You job is to take a look at this free data, and decide if it captures what you know to be going on out on site, and if it captures concerns from the land owner (Jay) and/or stakeholders (e.g. USFS, road users and irrigators downstream).
+
+<div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OLEtfCK1ru4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 #### Risk vs. Opportunity Assessment 
 (Identify and map locations where opportunities are possible and where and if risks can be reasonably mitigated. In other words, what valley bottom space is available for low-tech PBR?)
+
+
 
 ### Resource Analysis
 
@@ -153,5 +160,10 @@ In this video, I review how you can use [StreamStats](https://streamstats.usgs.g
 
 | Resource Type | Suggested Resource Link | Notes or Alternative Resource |
 |------------------------|-------------------------|-------------------------------|
-|Item | Desc [<i class="fa fa-file-archive-o" aria-hidden="true"></i> file.zip]()- 479 MB! | This is a. |
-|Item | Desc [<i class="fa fa-file-archive-o" aria-hidden="true"></i> file.zip]()- 479 MB! | This is a. |
+|Beaver Restoration Assessment Tool | This is the entire BRAT Project [<i class="fa fa-file-archive-o" aria-hidden="true"></i> BRAT.zip](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/birch/BRAT.zip)- 1700 MB! | You can make this assessment by asking the questions that BRAT does in the field or at the desktop with the [BRAT cIS](http://brat.riverscapes.xyz/Workshops/2018/johnday.html#brat-capacity-modelling) |
+
+
+This video shows how to download and use the primary outputs of BRAT:
+<div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wKWCY47Z8G0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
