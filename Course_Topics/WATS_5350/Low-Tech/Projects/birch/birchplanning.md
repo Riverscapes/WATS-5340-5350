@@ -65,9 +65,32 @@ Here is a flight from March 15, 2020:
 | Resource Type | Suggested Resource Link | Notes or Alternative Resource |
 |------------------------|-------------------------|-------------------------------|
 |Valley Bottom | Middle Bear River Valley Bottom [<i class="fa fa-file-archive-o" aria-hidden="true"></i> VBET.zip](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/birch/VBET.zip)- 479 MB! | This is an automated output of the [Valley Bottom Extraction Tool](http://rcat.riverscapes.xyz/Documentation/Version_1.0/VBET.html), that has not been validated or hande edited produced with the [Idaho BRAT project](http://brat.riverscapes.xyz/BRATData/USA/IDFG_Idaho/). It is dervied from a 10 m DEM and you should refine (i.e. copy and edit) it with the UAV flight data locally or field evidence. |
-|Item | Desc [<i class="fa fa-file-archive-o" aria-hidden="true"></i> file.zip]()- 479 MB! | This is a. |
+|Valley Bottom Clipped to Project Area | Unedited Still, but clipped to 1 mile project reach [<i class="fa fa-file-archive-o" aria-hidden="true"></i> WildeVBET.zip](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/birch/Birch_Wilde_2020.zip)- 7.6 KB | This is what you can copy and edit! |
 
+##### Intial Valley Bottom
+This video shows how to work with a [VBET](http://rcat.riverscapes.xyz/Documentation/Version_1.0/VBET.html) output using [RAVE](https://rave.riverscapes.xyz) to get a first-cut preliminary valley bottom (i.e. riverscapes) for your project area:
+
+<div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/getTYkolo1U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+##### Manually Edit & Refine Valley Bottom
+This next video shows you how to refine your valley bottom mapping using some of the UAV imagery as a line of evidence and the VBET output as a starting point:
+
+<div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MNLAU_6Z29Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+##### Intial Valley Bottom
+This next video shows you  why and how to map out your valley bottom in to areas of active channel and active floodplain and inaccessed floodplain. The goal of a stage zero restoration is to have active channels and floodplains cover your entire valley bottom. In the planning phase your job is to map conditions and recovery potential in the context of constraints and risk. This helps you do that.
+
+<div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PIjQftoUhRc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+---------
 #### Identified Risks within & Adjacent to Riverscape 
+Once you have a valley bottom mapped (even if over-estimted), you have a reasonable zone within which and adjacent to which you can assess potential risks associated with flooding and your proposed low-tech restoration.  
 (map all infrastructure and land use within and adjacent to riverscape, as well as immediately downstream; use risk matrix to evaluate)
 
 **Birch Creek Landuse & Infrastructure Resources**
