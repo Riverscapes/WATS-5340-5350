@@ -1,5 +1,5 @@
 ---
-title: Planning Process & Resource
+title: Planning Process & Data Resources
 weight: 4
 ---
 This page walks you through the steps and questions in the Planning Phase of the low-tech [Conservation Planning Process]({{ site.baseurl }}/Course_Topics/WATS_5350/Low-Tech/planning.html). I use the example of [Birch Creek, Idaho]({{ site.baseurl }}Course_Topics/WATS_5350/Low-Tech/Projects/birch/), but the process is generic to application to any riverscape.
@@ -29,7 +29,8 @@ The project site description & scope is really a synthesis of what I laid out fo
 ### UAV Imagery
 
 #### Pre Project
-Here is a flight from March 15, 2020:
+Here is a link to a  [Drone Deploy Flight <i class="fa fa-location-arrow" aria-hidden="true"></i>](https://www.dronedeploy.com/app2/data/5e6eb01ca8b7a98011992e20;jwt_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJleHAiOjI1MzQwMjMwMDc5OSwiaWQiOiI1ZTZlYjAxY2E4YjdhOTgwMTE5OTJlMjAiLCJzY29wZSI6WyIzNzNjNzEyN2U2X0Y1MDlBQTI4NDVPUEVOUElQRUxJTkUiXSwidHlwZSI6IlJlYWRPbmx5UGxhbiJ9.tfH--qbaszSn9h8MWom0p8C1UY5eL04N8jtQe7083PpnG6oRjr4jVJH6ysBf6IkU-__yBDqq-S4F8443NxCb3Q) from March 15, 2020, an an interactive map below:
+
 <div class="responsive-embed">
 <iframe width='500' height='500' src='https://www.dronedeploy.com/app2/data/5e6eb01ca8b7a98011992e20;jwt_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJleHAiOjI1MzQwMjMwMDc5OSwiaWQiOiI1ZTZlYjAxY2E4YjdhOTgwMTE5OTJlMjAiLCJzY29wZSI6WyIzNzNjNzEyN2U2X0Y1MDlBQTI4NDVPUEVOUElQRUxJTkUiXSwidHlwZSI6IlJlYWRPbmx5UGxhbiJ9.tfH--qbaszSn9h8MWom0p8C1UY5eL04N8jtQe7083PpnG6oRjr4jVJH6ysBf6IkU-__yBDqq-S4F8443NxCb3Q'></iframe>
 </div>
@@ -55,28 +56,32 @@ Here is a flight from March 15, 2020:
       </div>
     </div>
   </div>
- 
+
 
 </div>
 
 
 
-
 --------
-## CPP - Planning
+## CPP - Planning Resources
 
+We follow an adaptation of the NRCS's Conservation Planning Process, for Phase 1 (i.e. planning) as illustrated below:
+![CPP_LTPBR_P1-LT]({{ site.baseurl }}\assets\images\CPP_LTPBR_P1-LT.png)
+*Figure 3 from Bennett et al. (2019).*
 
-### Problems & Opportunities 
-(see page 5-7 of Chapter 3 (Links to an external site.))
+- <a href="http://dx.doi.org/10.13140/RG.2.2.15815.75680" ><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Bennett, S., Wheaton, J., Bouwes, N., Shahverdian, S., Macfarlane, W.W. and Portugal, E. 2019. **[Chapter 3 - Planning for Low-Tech Process-Based Restoration](http://dx.doi.org/10.13140/RG.2.2.15815.75680)**.  In: [Low-Tech Process-Based Restoration of Riverscapes: Design Manual - Version 1.0]({{ site.baseurl }}/). Wheaton JM, Bennett S, Shahverdian S, and Maestas JD, (Editors). [Utah State University](http://restoration.usu.edu/) [Wheaton Ecogeomorphology & Topographic Analysis Lab](http://etal.joewheaton.org). Logan, UT.  57 pp. DOI: [10.13140/RG.2.2.15815.75680](http://dx.doi.org/10.13140/RG.2.2.15815.75680).
+
+### 1. Problems & Opportunities 
+This is a broad brush description of problems and opportunities as described in page 5-7 of [Chapter 3 of the LTPBR Design Manual](http://lowtechpbr.restoration.usu.edu/manual/chap03/). You will get most of the context for this from the [Intro Birch Creek Lectures and Materials](http://capstone.restoration.usu.edu/Course_Topics/WATS_5350/Low-Tech/Projects/birch/).
 
 #### Broad Management Goals
 
 #### Assessment of Structural Starvation and Appropriateness of Low-Tech
 
-### Project Objectives 
+### 2. Project Objectives 
 (revisit problem and purpose and confirm or clarify and then recast management goals as SMART objectives (see page 8-9 of Chapter 3 (Links to an external site.)) and in terms of measurable objectives and indicators that tie to riverscape health) 
 
-### Inventory of Resources
+### 3. Inventory of Resources
 (see page 9-13 of Chapter 3 (Links to an external site.))
 
 #### Valley Bottom Mapping 
@@ -112,8 +117,7 @@ This next video shows you  why and how to map out your valley bottom in to areas
 
 ---------
 #### Identified Risks within & Adjacent to Riverscape 
-Once you have a valley bottom mapped (even if over-estimted), you have a reasonable zone within which and adjacent to which you can assess potential risks associated with flooding and your proposed low-tech restoration.  
-(map all infrastructure and land use within and adjacent to riverscape, as well as immediately downstream; use risk matrix to evaluate)
+Once you have a valley bottom mapped (even if over-estimted), you have a reasonable zone within which and adjacent to which you can assess potential risks associated with flooding and your proposed low-tech restoration.  You should map all known infrastructure and land use within and adjacent to riverscape, as well as immediately downstream; use the NRCS risk matrix to evaluate (see Appendix 3D, pages 36-37 of [Chapter 3 of LTPBR Design Manual](https://lowtechpbr.restoration.usu.edu)). 
 
 **Birch Creek Landuse & Infrastructure Resources**
 
@@ -132,8 +136,9 @@ Scroll down to the [BRAT]({{ site.baseurl }}/Course_Topics/WATS_5350/Low-Tech/Pr
 
 
 
-### Resource Analysis
 
+### 4. Resource Analysis
+This is 
 #### Assessment of Current Conditions and Recovery Potential 
 
 ##### Geomorphic Condition 
@@ -162,27 +167,28 @@ In this video, I review how you can use [StreamStats](https://streamstats.usgs.g
 - <i class="fa fa-map" aria-hidden="true"></i> [Birch Creek USGS StreamStats Shapefile](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/birch/StreamStatReport.zip)
 
 ##### Riparian Condition to support Process of Wood Accumulation 
-(maps of existing and potential woody resources (riparian and upland) for processes of wood recruitment, wood transport and wood accumulation)
-<a src="http://rcat.riverscapes.xyz"><img src="{{ site.baseurl }}/assets/images/projects/RCAT_Logo-200.png"></a>
+
+<a src="http://rcat.riverscapes.xyz"><img  class="float-left" src="{{ site.baseurl }}/assets/images/projects/RCAT_Logo-200.png"></a> (maps of existing and potential woody resources (riparian and upland) for processes of wood recruitment, wood transport and wood accumulation)
 
 **Birch Creek Riparian Resources**
 
 | Resource Type | Suggested Resource Link | Notes or Alternative Resource |
 |------------------------|-------------------------|-------------------------------|
-|Item | Desc [<i class="fa fa-file-archive-o" aria-hidden="true"></i> file.zip]()- 479 MB! | This is a. |
+|[Riparian Condition Assessment Tool](https://rcat.riverscapes.xyz) | Desc [<i class="fa fa-file-archive-o" aria-hidden="true"></i> Middle_Bear_RCAT.lpk](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/station/BRAT/Middle_Bear_RCAT.lpk)- 479 MB! | This is a. |
 |Item | Desc [<i class="fa fa-file-archive-o" aria-hidden="true"></i> file.zip]()- 479 MB! | This is a. |
 
 ##### Riparian Condition Capacity to support Process of Beaver Dam Activity 
-(maps of existing and potential beaver dam activity)
 
-<a src="http://brat.riverscapes.xyz"><img src="{{ site.baseurl }}/assets/images/projects/BRAT_Logo-200.png"></a>
+
+<a src="http://brat.riverscapes.xyz"><img class="float-left" src="{{ site.baseurl }}/assets/images/projects/BRAT_Logo-200.png"></a> 
+The questions to ask (maps of existing and potential beaver dam activity)
 
 **Birch Creek Beaver Resources**
 
 
 | Resource Type | Suggested Resource Link | Notes or Alternative Resource |
 |------------------------|-------------------------|-------------------------------|
-|Beaver Restoration Assessment Tool | This is the entire BRAT Project [<i class="fa fa-file-archive-o" aria-hidden="true"></i> BRAT.zip](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/birch/BRAT.zip)- 1700 MB! | You can make this assessment by asking the questions that BRAT does in the field or at the desktop with the [BRAT cIS](http://brat.riverscapes.xyz/Workshops/2018/johnday.html#brat-capacity-modelling) |
+|[Beaver Restoration Assessment Tool](http://brat.riverscapes.xyz) | This is the entire BRAT Project [<i class="fa fa-file-archive-o" aria-hidden="true"></i> BRAT.zip](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/birch/BRAT.zip)- 1700 MB! | You can make this assessment by asking the questions that BRAT does in the field or at the desktop with the [BRAT cIS](http://brat.riverscapes.xyz/Workshops/2018/johnday.html#brat-capacity-modelling) |
 
 
 This video shows how to download and use the primary outputs of BRAT:
