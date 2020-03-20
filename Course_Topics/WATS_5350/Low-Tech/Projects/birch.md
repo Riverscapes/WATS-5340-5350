@@ -60,18 +60,19 @@ The main focus of this article is on research Brendan Murphy and Patrick Belmont
 ## Part 2 - Birch Creek Project Objectives & Conservation Planning Process
 
 <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2020/Week8_BirchCreekIntro_2.pdf"><img class="float-right" src="{{ site.baseurl }}/assets/images/lectures/2020-WATS5350_Week8_Part2.png"></a>
-This outlines the project reach, walks you through a fly through of the reach, lays out the restoration goals and objectives, and reminds you of the low-tech PBR [conservation planning process]({{ site.baseurl }}/Course_Topics/WATS_5350/Low-Tech/planning.html) you will follow to get the project done.
+This outlines the project reach, walks you through a fly through of the reach, lays out the restoration goals and objectives, and reminds you of the low-tech PBR [conservation planning process]({{ site.baseurl }}/Course_Topics/WATS_5350/Low-Tech/planning.html) you will follow to get the project done. 
+
+The video is about 35 minutes. Please post any questions you have to the [planning discussion board](https://usu.instructure.com/courses/567581/discussion_topics/1982817) in Canvas.
 
 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Lecture Slides](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2020/Week8_BirchCreekIntro_2.pdf)
 
-<div class="responsive-embed">
 
+<div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/krLJtipbt_8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 -----
 
-### Location
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d45802.83867783453!2d-111.79209379514047!3d42.16222247080642!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x875450c38a8057ed%3A0xa5ee2601f3513928!2sUnnamed+Road%2C+Preston%2C+ID+83263!5e0!3m2!1sen!2sus!4v1552275189358" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
 ## Resources for 2020 Students
 
 <div class="row small-up-2 medium-up-4">
