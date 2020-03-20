@@ -15,13 +15,13 @@ On Canvas, you were set a [Low-Tech Planning Assignment](https://usu.instructure
 
 ## Project Site Description & Scope
 
-Project Site Description & Scope (i.e. synthesis of LECTURE: Watch Birch Creek Project - Part 2, but ideally with your own maps)
+The project site description & scope is really a synthesis of what I laid out for you in [LECTURE: Watch Birch Creek Project - Part 2](http://capstone.restoration.usu.edu/Course_Topics/WATS_5350/Low-Tech/Projects/birch/#part-2---birch-creek-project-objectives--conservation-planning-process).
 
 **Birch Creek Base Mapping Resources**
 
 | Resource Type | Suggested Resource Link | Notes or Alternative Resource |
 |------------------------|-------------------------|-------------------------------|
-| Diamondback Wilde Ranch Property Boundary |  [<i class="fa fa-file-archive-o" aria-hidden="true"></i> .zip]() | This is the property boundary for Jay's land. |
+| Diamondback Wilde Ranch Property Boundary |  [<i class="fa fa-file-archive-o" aria-hidden="true"></i> DiamondbackW.zip](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/birch/DiamondBackW_Ranch.zip) - 0.07 MB | This is the property boundary for Jay's land. |
 | High Resolution Ortho-Photo | 2 cm resolution Orthophoto from March 15, 2020 [Drone Deploy <i class="fa fa-location-arrow" aria-hidden="true"></i>](https://www.dronedeploy.com/app2/data/5e6eb01ca8b7a98011992e20;jwt_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJleHAiOjI1MzQwMjMwMDc5OSwiaWQiOiI1ZTZlYjAxY2E4YjdhOTgwMTE5OTJlMjAiLCJzY29wZSI6WyIzNzNjNzEyN2U2X0Y1MDlBQTI4NDVPUEVOUElQRUxJTkUiXSwidHlwZSI6IlJlYWRPbmx5UGxhbiJ9.tfH--qbaszSn9h8MWom0p8C1UY5eL04N8jtQe7083PpnG6oRjr4jVJH6ysBf6IkU-__yBDqq-S4F8443NxCb3Q) Flight: [<i class="fa fa-file-archive-o" aria-hidden="true"></i> Orthomosaic.zip](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/birch/DroneDeploy/BirchCreekWildeProperty_Orthomosaic_MonMar16035131.333880.zip) - 311 MB | This is from structure-from-motion photogrammetric analysis of a UAV flight. While precise and high resolution, it is not necessarily positionally very accurate (+/- 2 to 5 m), but has high relative accuracy and will more than suffice for basemapping efforts.|
 | High Resolution Digital Surface Elevation Model | 2 cm resolution Orthophoto from March 15, 2020 [Drone Deploy <i class="fa fa-location-arrow" aria-hidden="true"></i>](https://www.dronedeploy.com/app2/data/5e6eb01ca8b7a98011992e20;jwt_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJleHAiOjI1MzQwMjMwMDc5OSwiaWQiOiI1ZTZlYjAxY2E4YjdhOTgwMTE5OTJlMjAiLCJzY29wZSI6WyIzNzNjNzEyN2U2X0Y1MDlBQTI4NDVPUEVOUElQRUxJTkUiXSwidHlwZSI6IlJlYWRPbmx5UGxhbiJ9.tfH--qbaszSn9h8MWom0p8C1UY5eL04N8jtQe7083PpnG6oRjr4jVJH6ysBf6IkU-__yBDqq-S4F8443NxCb3Q) Flight: [<i class="fa fa-file-archive-o" aria-hidden="true"></i> ElevationToolbox.zip](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/birch/DroneDeploy/BirchCreekWildeProperty_ElevationToolbox_MonMar16035203.044315.zip) - 43 MB | This is from structure-from-motion photogrammetric analysis of a UAV flight. This is a visual (RGB) representatoin of the DSM, and the values are a color ramp and hillshade representaton, NOT actual elevations. This is good for interpretive mapping, but not analysis.|
 | High Resolution Vegetation Model | NDVI (normalied difference vegetation index) estimate of vegetation from March 15, 2020 [Drone Deploy <i class="fa fa-location-arrow" aria-hidden="true"></i>](https://www.dronedeploy.com/app2/data/5e6eb01ca8b7a98011992e20;jwt_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJleHAiOjI1MzQwMjMwMDc5OSwiaWQiOiI1ZTZlYjAxY2E4YjdhOTgwMTE5OTJlMjAiLCJzY29wZSI6WyIzNzNjNzEyN2U2X0Y1MDlBQTI4NDVPUEVOUElQRUxJTkUiXSwidHlwZSI6IlJlYWRPbmx5UGxhbiJ9.tfH--qbaszSn9h8MWom0p8C1UY5eL04N8jtQe7083PpnG6oRjr4jVJH6ysBf6IkU-__yBDqq-S4F8443NxCb3Q) Flight: [<i class="fa fa-file-archive-o" aria-hidden="true"></i> NDVIToolbox.zip](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/birch/DroneDeploy/BirchCreekWildeProperty_NDVIToolbox_MonMar16035352.045059.zip) - 350.8 MB | This is from structure-from-motion photogrammetric analysis of a UAV flight. This is a rough NDVI estimate of vegetation, which can discriminate spectral signals, but is not reliable for mapping vegetation types.|
@@ -36,7 +36,29 @@ Here is a flight from March 15, 2020:
 
 ### Photos
 
-[Google Photo Album](https://photos.app.goo.gl/WDAvPs8MUyBLen8A6) from October 2019 field trip.
+<div class="row small-up-2 medium-up-3">
+  <div class="column">
+    <div class="card">
+
+      <div class="card-section" align="center">
+      <a src="https://photos.app.goo.gl/WDAvPs8MUyBLen8A6"><img src="{{ site.baseurl }}/assets/images/projects/birch/BirchDronePreAlbum.png"></a>
+        <p><a href="https://photos.app.goo.gl/WDAvPs8MUyBLen8A6"> <i class="fa fa-google-plus" aria-hidden="true"></i> Pre Project March 2020 UAV Flight</a> </p>
+      </div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+
+      <div class="card-section" align="center">
+      <a src="https://photos.app.goo.gl/aQaFZYwoUZcBM31z6 "><img src="{{ site.baseurl }}/assets/images/projects/birch/BirchFallPre.png"></a>
+        <p><a href="https://photos.app.goo.gl/aQaFZYwoUZcBM31z6 "> <i class="fa fa-google-plus" aria-hidden="true"></i> Pre Project - October 2019 Field Trip.</a> </p>
+      </div>
+    </div>
+  </div>
+ 
+
+</div>
+
 
 
 
