@@ -1,0 +1,117 @@
+---
+title: Planning Process & Resource
+weight: 4
+---
+This page walks you through the steps and questions in the Planning Phase of the low-tech [Conservation Planning Process]({{ site.baseurl }}/Course_Topics/WATS_5350/Low-Tech/planning.html). I use the example of [Birch Creek, Idaho]({{ site.baseurl }}Course_Topics/WATS_5350/Low-Tech/Projects/birch/), but the process is generic to application to any riverscape.
+
+# Your Assignment
+On Canvas, you were set a [Low-Tech Planning Assignment](https://usu.instructure.com/courses/567581/assignments/2921686?module_item_id=3783031), which asks you to start preparing your low-tech project report for Birch Creek. Below I review that in this 5 minute video:
+<div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/buOS09oI_4U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+------
+# Resources
+
+## Project Site Description & Scope
+
+Project Site Description & Scope (i.e. synthesis of LECTURE: Watch Birch Creek Project - Part 2, but ideally with your own maps)
+
+**Birch Creek Base Mapping Resources**
+
+| Resource Type | Suggested Resource Link | Notes or Alternative Resource |
+|------------------------|-------------------------|-------------------------------|
+| Diamondback Wilde Ranch Property Boundary |  [<i class="fa fa-file-archive-o" aria-hidden="true"></i> .zip]() | This is the property boundary for Jay's land. |
+| High Resolution Ortho-Photo | 2 cm resolution Orthophoto from March 15, 2020 [Drone Deploy <i class="fa fa-location-arrow" aria-hidden="true"></i>](https://www.dronedeploy.com/app2/data/5e6eb01ca8b7a98011992e20;jwt_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJleHAiOjI1MzQwMjMwMDc5OSwiaWQiOiI1ZTZlYjAxY2E4YjdhOTgwMTE5OTJlMjAiLCJzY29wZSI6WyIzNzNjNzEyN2U2X0Y1MDlBQTI4NDVPUEVOUElQRUxJTkUiXSwidHlwZSI6IlJlYWRPbmx5UGxhbiJ9.tfH--qbaszSn9h8MWom0p8C1UY5eL04N8jtQe7083PpnG6oRjr4jVJH6ysBf6IkU-__yBDqq-S4F8443NxCb3Q) Flight: [<i class="fa fa-file-archive-o" aria-hidden="true"></i> Orthomosaic.zip](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/birch/DroneDeploy/BirchCreekWildeProperty_Orthomosaic_MonMar16035131.333880.zip) - 311 MB | This is from structure-from-motion photogrammetric analysis of a UAV flight. While precise and high resolution, it is not necessarily positionally very accurate (+/- 2 to 5 m), but has high relative accuracy and will more than suffice for basemapping efforts.|
+| High Resolution Digital Surface Elevation Model | 2 cm resolution Orthophoto from March 15, 2020 [Drone Deploy <i class="fa fa-location-arrow" aria-hidden="true"></i>](https://www.dronedeploy.com/app2/data/5e6eb01ca8b7a98011992e20;jwt_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJleHAiOjI1MzQwMjMwMDc5OSwiaWQiOiI1ZTZlYjAxY2E4YjdhOTgwMTE5OTJlMjAiLCJzY29wZSI6WyIzNzNjNzEyN2U2X0Y1MDlBQTI4NDVPUEVOUElQRUxJTkUiXSwidHlwZSI6IlJlYWRPbmx5UGxhbiJ9.tfH--qbaszSn9h8MWom0p8C1UY5eL04N8jtQe7083PpnG6oRjr4jVJH6ysBf6IkU-__yBDqq-S4F8443NxCb3Q) Flight: [<i class="fa fa-file-archive-o" aria-hidden="true"></i> ElevationToolbox.zip](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/birch/DroneDeploy/BirchCreekWildeProperty_ElevationToolbox_MonMar16035203.044315.zip) - 43 MB | This is from structure-from-motion photogrammetric analysis of a UAV flight. This is a visual (RGB) representatoin of the DSM, and the values are a color ramp and hillshade representaton, NOT actual elevations. This is good for interpretive mapping, but not analysis.|
+| High Resolution Vegetation Model | NDVI (normalied difference vegetation index) estimate of vegetation from March 15, 2020 [Drone Deploy <i class="fa fa-location-arrow" aria-hidden="true"></i>](https://www.dronedeploy.com/app2/data/5e6eb01ca8b7a98011992e20;jwt_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJleHAiOjI1MzQwMjMwMDc5OSwiaWQiOiI1ZTZlYjAxY2E4YjdhOTgwMTE5OTJlMjAiLCJzY29wZSI6WyIzNzNjNzEyN2U2X0Y1MDlBQTI4NDVPUEVOUElQRUxJTkUiXSwidHlwZSI6IlJlYWRPbmx5UGxhbiJ9.tfH--qbaszSn9h8MWom0p8C1UY5eL04N8jtQe7083PpnG6oRjr4jVJH6ysBf6IkU-__yBDqq-S4F8443NxCb3Q) Flight: [<i class="fa fa-file-archive-o" aria-hidden="true"></i> NDVIToolbox.zip](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/birch/DroneDeploy/BirchCreekWildeProperty_NDVIToolbox_MonMar16035352.045059.zip) - 350.8 MB | This is from structure-from-motion photogrammetric analysis of a UAV flight. This is a rough NDVI estimate of vegetation, which can discriminate spectral signals, but is not reliable for mapping vegetation types.|
+
+--------
+## CPP - Planning
+
+
+### Problems & Opportunities 
+(see page 5-7 of Chapter 3 (Links to an external site.))
+
+#### Broad Management Goals
+
+#### Assessment of Structural Starvation and Appropriateness of Low-Tech
+
+### Project Objectives 
+(revisit problem and purpose and confirm or clarify and then recast management goals as SMART objectives (see page 8-9 of Chapter 3 (Links to an external site.)) and in terms of measurable objectives and indicators that tie to riverscape health) 
+
+### Inventory of Resources
+(see page 9-13 of Chapter 3 (Links to an external site.))
+
+#### Valley Bottom Mapping 
+(refine provided VBET valley bottom and classify into active channel, active floodplain and in-accessed floodplain components)
+
+**Birch Creek VBET Resources**
+
+| Resource Type | Suggested Resource Link | Notes or Alternative Resource |
+|------------------------|-------------------------|-------------------------------|
+|Valley Bottom | Middle Bear River Valley Bottom [<i class="fa fa-file-archive-o" aria-hidden="true"></i> VBET.zip](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/birch/VBET.zip)- 479 MB! | This is an automated output of the [Valley Bottom Extraction Tool](http://rcat.riverscapes.xyz/Documentation/Version_1.0/VBET.html), that has not been validated or hande edited produced with the [Idaho BRAT project](http://brat.riverscapes.xyz/BRATData/USA/IDFG_Idaho/). It is dervied from a 10 m DEM and you should refine (i.e. copy and edit) it with the UAV flight data locally or field evidence. |
+|Item | Desc [<i class="fa fa-file-archive-o" aria-hidden="true"></i> file.zip]()- 479 MB! | This is a. |
+
+#### Identified Risks within & Adjacent to Riverscape 
+(map all infrastructure and land use within and adjacent to riverscape, as well as immediately downstream; use risk matrix to evaluate)
+
+**Birch Creek Landuse & Infrastructure Resources**
+
+| Resource Type | Suggested Resource Link | Notes or Alternative Resource |
+|------------------------|-------------------------|-------------------------------|
+|Item | Desc [<i class="fa fa-file-archive-o" aria-hidden="true"></i> file.zip]()- 479 MB! | This is a. |
+|Item | Desc [<i class="fa fa-file-archive-o" aria-hidden="true"></i> file.zip]()- 479 MB! | This is a. |
+
+#### Risk vs. Opportunity Assessment 
+(Identify and map locations where opportunities are possible and where and if risks can be reasonably mitigated. In other words, what valley bottom space is available for low-tech PBR?)
+
+### Resource Analysis
+
+#### Assessment of Current Conditions and Recovery Potential 
+
+##### Geomorphic Condition 
+(maps (polygons) of active channel plus floodplain area of valley bottom as  current vs. potential by Cluer & Throne Riverscape Stage)
+
+###### Identification of pathways of recovery 
+(using riverscape evolution model, identify current stage(s) and target stage(s) and articulate what trajectory and geomorphic processes will be necessary to get to recovery potential).
+
+###### Flow Regimes ability to "Do the Work" of Restoration 
+(Assessment of Flow Regime to do "geomorphic work" necessary to follow desired recovery trajectory)
+
+**Birch Creek Flow Resources**
+
+| Resource Type | Suggested Resource Link | Notes or Alternative Resource |
+|------------------------|-------------------------|-------------------------------|
+| Flow Regime Assessment |  [StreamStats](https://streamstats.usgs.gov/ss/) | Typical peak-flow statistics (e.g. Q2 and Q100) are easy to estimate using StreamSTats. You can download flow gague data and do your own regional curves, but this is a reasonable approximation in under 10 minutes. |
+| Stream Power Assessment | [BRAT Estimates]() | For a given segment of reach, you could also take any flow estimate, measurement, or flow statistic (e.g. from StreamStats) and multiply it by reach slope, gravity and density of water and do what BRAT attempts to do for you.|
+
+In this video, I review how you can use [StreamStats](https://streamstats.usgs.gov/ss/) to address the flow regime's ability to "do the work" by simply getting you some discharge estimates. 
+
+<div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b2TL8fbKiBc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Birch Creek USGS StreamStats Report](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/birch/StreamStats.pdf)
+- <i class="fa fa-map" aria-hidden="true"></i> [Birch Creek USGS StreamStats Shapefile](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/birch/StreamStatReport.zip)
+
+##### Riparian Condition to support Process of Wood Accumulation 
+(maps of existing and potential woody resources (riparian and upland) for processes of wood recruitment, wood transport and wood accumulation)
+
+**Birch Creek Riparian Resources**
+
+| Resource Type | Suggested Resource Link | Notes or Alternative Resource |
+|------------------------|-------------------------|-------------------------------|
+|Item | Desc [<i class="fa fa-file-archive-o" aria-hidden="true"></i> file.zip]()- 479 MB! | This is a. |
+|Item | Desc [<i class="fa fa-file-archive-o" aria-hidden="true"></i> file.zip]()- 479 MB! | This is a. |
+
+##### Riparian Condition Capacity to support Process of Beaver Dam Activity 
+(maps of existing and potential beaver dam activity)
+
+
+**Birch Creek Beaver Resources**
+
+| Resource Type | Suggested Resource Link | Notes or Alternative Resource |
+|------------------------|-------------------------|-------------------------------|
+|Item | Desc [<i class="fa fa-file-archive-o" aria-hidden="true"></i> file.zip]()- 479 MB! | This is a. |
+|Item | Desc [<i class="fa fa-file-archive-o" aria-hidden="true"></i> file.zip]()- 479 MB! | This is a. |
