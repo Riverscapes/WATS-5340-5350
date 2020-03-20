@@ -56,7 +56,17 @@ View excerpts for free [here](https://books.google.com/books?id=n_pcDwAAQBAJ&pri
 [<img class="float-left" src="{{ site.baseurl }}/assets/images/covers/USUTodayFall2019.png">](https://utahstatemagazine.usu.edu/environment/the-aftermath-of-us/)
 The main focus of this article is on research Brendan Murphy and Patrick Belmont are doing on fire in the American west, but Jay's story is featured in the end of the [article](https://utahstatemagazine.usu.edu/environment/the-aftermath-of-us/).
 
+-------
+## Part 2 - Birch Creek Project Objectives & Conservation Planning Process
 
+<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2020/Week8_BirchCreekIntro_2.pdf"><img class="float-right" src="{{ site.baseurl }}/assets/images/lectures/2020-WATS5350_Week8_Part2.png"></a>
+This outlines the project reach, walks you through a fly through of the reach, lays out the restoration goals and objectives, and reminds you of the low-tech PBR [conservation planning process]({{ site.baseurl }}/Course_Topics/WATS_5350/Low-Tech/planning.html) you will follow to get the project done.
+
+[<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Lecture Slides](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2020/Week8_BirchCreekIntro_2.pdf)
+
+<div class="responsive-embed">
+
+</div>
 
 -----
 
