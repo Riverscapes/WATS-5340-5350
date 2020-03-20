@@ -60,7 +60,11 @@ Here is a link to a  [Drone Deploy Flight <i class="fa fa-location-arrow" aria-h
 
 </div>
 
+Flythrough Video (pre - project; narrated version available in [lecture](http://capstone.restoration.usu.edu/Course_Topics/WATS_5350/Low-Tech/Projects/birch/#part-2---birch-creek-project-objectives--conservation-planning-process)):
 
+<div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NpR0hWSkAwQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 --------
 ## CPP - Planning Resources
@@ -71,16 +75,22 @@ We follow an adaptation of the NRCS's Conservation Planning Process, for Phase 1
 
 - <a href="http://dx.doi.org/10.13140/RG.2.2.15815.75680" ><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Bennett, S., Wheaton, J., Bouwes, N., Shahverdian, S., Macfarlane, W.W. and Portugal, E. 2019. **[Chapter 3 - Planning for Low-Tech Process-Based Restoration](http://dx.doi.org/10.13140/RG.2.2.15815.75680)**.  In: [Low-Tech Process-Based Restoration of Riverscapes: Design Manual - Version 1.0]({{ site.baseurl }}/). Wheaton JM, Bennett S, Shahverdian S, and Maestas JD, (Editors). [Utah State University](http://restoration.usu.edu/) [Wheaton Ecogeomorphology & Topographic Analysis Lab](http://etal.joewheaton.org). Logan, UT.  57 pp. DOI: [10.13140/RG.2.2.15815.75680](http://dx.doi.org/10.13140/RG.2.2.15815.75680).
 
+--------
 ### 1. Problems & Opportunities 
-This is a broad brush description of problems and opportunities as described in page 5-7 of [Chapter 3 of the LTPBR Design Manual](http://lowtechpbr.restoration.usu.edu/manual/chap03/). You will get most of the context for this from the [Intro Birch Creek Lectures and Materials](http://capstone.restoration.usu.edu/Course_Topics/WATS_5350/Low-Tech/Projects/birch/).
+Perform an initial, broad-brush, description of problems and opportunities as suggested in page 5-7 of [Chapter 3 of the LTPBR Design Manual](http://lowtechpbr.restoration.usu.edu/manual/chap03/). You will get most of the context for this from the [Intro Birch Creek Lectures and Materials](http://capstone.restoration.usu.edu/Course_Topics/WATS_5350/Low-Tech/Projects/birch/). 
+- Make sure to articulate the broad management goals as best you can.  
+- Include a cursory assessment of *whether or not the project reach is structurally starved to consider the appropriateness of Low-Tech PBR.* Note, that in the resource analysis this is more explicilty considered by comparing existing conditions and expected or historic. 
 
-#### Broad Management Goals
-
-#### Assessment of Structural Starvation and Appropriateness of Low-Tech
-
+--------
 ### 2. Project Objectives 
-(revisit problem and purpose and confirm or clarify and then recast management goals as SMART objectives (see page 8-9 of Chapter 3 (Links to an external site.)) and in terms of measurable objectives and indicators that tie to riverscape health) 
+It is important to restate the broad managment goals in terms of specific project objectives. Revisit the problem (from 1 above) and purpose and confirm or clarify and then recast management goals as SMART (Skidimore 2011) objectives (see page 8-9 of [Chapter 3](https://www.researchgate.net/publication/332304801_Chapter_3_-_Planning_for_Low-Tech_Process-Based_Restoration?channel=doi&linkId=5cad2a7e458515cd2b0d2fe1&showFulltext=true) and in terms of measurable objectives and indicators that tie to riverscape health.
 
+
+
+- Skidmore, P.B., Thorne, C.R., Cluer, B.L., Pess, G.R., Castro, J.M., Beechie, T.J. and Shea, C.C., 2011. [Science base and  tools  for  evaluating  stream  engineering,  management,  and  restoration  proposals](https://repository.library.noaa.gov/view/noaa/4020),  U.S.  Department  of  Commerce, Seatle, WA. 
+
+
+--------
 ### 3. Inventory of Resources
 (see page 9-13 of Chapter 3 (Links to an external site.))
 
@@ -108,14 +118,14 @@ This next video shows you how to refine your valley bottom mapping using some of
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MNLAU_6Z29Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-##### Intial Valley Bottom
+##### Differentiate Active and Inaccessed Valley Bottom
 This next video shows you  why and how to map out your valley bottom in to areas of active channel and active floodplain and inaccessed floodplain. The goal of a stage zero restoration is to have active channels and floodplains cover your entire valley bottom. In the planning phase your job is to map conditions and recovery potential in the context of constraints and risk. This helps you do that.
 
 <div class="responsive-embed">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PIjQftoUhRc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
----------
+
 #### Identified Risks within & Adjacent to Riverscape 
 Once you have a valley bottom mapped (even if over-estimted), you have a reasonable zone within which and adjacent to which you can assess potential risks associated with flooding and your proposed low-tech restoration.  You should map all known infrastructure and land use within and adjacent to riverscape, as well as immediately downstream; use the NRCS risk matrix to evaluate (see Appendix 3D, pages 36-37 of [Chapter 3 of LTPBR Design Manual](https://lowtechpbr.restoration.usu.edu)). 
 
@@ -136,7 +146,7 @@ Scroll down to the [BRAT]({{ site.baseurl }}/Course_Topics/WATS_5350/Low-Tech/Pr
 
 
 
-
+--------
 ### 4. Resource Analysis
 This is 
 #### Assessment of Current Conditions and Recovery Potential 
@@ -155,7 +165,7 @@ This is
 | Resource Type | Suggested Resource Link | Notes or Alternative Resource |
 |------------------------|-------------------------|-------------------------------|
 | Flow Regime Assessment |  [StreamStats](https://streamstats.usgs.gov/ss/) | Typical peak-flow statistics (e.g. Q2 and Q100) are easy to estimate using StreamSTats. You can download flow gague data and do your own regional curves, but this is a reasonable approximation in under 10 minutes. |
-| Stream Power Assessment | [BRAT Estimates]() | For a given segment of reach, you could also take any flow estimate, measurement, or flow statistic (e.g. from StreamStats) and multiply it by reach slope, gravity and density of water and do what BRAT attempts to do for you.|
+| Stream Power Assessment | [BRAT Estimates](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/birch/BRAT.zip) | For a given segment of reach, you could also take any flow estimate, measurement, or flow statistic (e.g. from StreamStats) and multiply it by reach slope, gravity and density of water and do what BRAT attempts to do for you.|
 
 In this video, I review how you can use [StreamStats](https://streamstats.usgs.gov/ss/) to address the flow regime's ability to "do the work" by simply getting you some discharge estimates. 
 
@@ -166,22 +176,51 @@ In this video, I review how you can use [StreamStats](https://streamstats.usgs.g
 - <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Birch Creek USGS StreamStats Report](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/birch/StreamStats.pdf)
 - <i class="fa fa-map" aria-hidden="true"></i> [Birch Creek USGS StreamStats Shapefile](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/birch/StreamStatReport.zip)
 
+BRAT also has estimates of flow and stream power (using same regressions as USGS):
+
+<div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d8Kz78Yp438" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ##### Riparian Condition to support Process of Wood Accumulation 
 
-<a src="http://rcat.riverscapes.xyz"><img  class="float-left" src="{{ site.baseurl }}/assets/images/projects/RCAT_Logo-200.png"></a> (maps of existing and potential woody resources (riparian and upland) for processes of wood recruitment, wood transport and wood accumulation)
+<a src="http://rcat.riverscapes.xyz"><img  class="float-left" src="{{ site.baseurl }}/assets/images/projects/RCAT_Logo-200.png"></a> 
+Think about what you can do map  existing and potential woody resources (riparian and upland) for processes of wood recruitment, wood transport and wood accumulation). The [Ripairan Condition Assessment Tool](http://rcat.riverscapes.xyz) gets at some of these lines of evidence, others you will need to make an interpretation and your own assessment of. From page 19 of [Chapter 3 of the LTPBR Manual](https://www.researchgate.net/publication/332304801_Chapter_3_-_Planning_for_Low-Tech_Process-Based_Restoration?channel=doi&linkId=5cad2a7e458515cd2b0d2fe1&showFulltext=true), we look at riparian conditions to address the key question of “**is it likely that a self-sustaining source of woody structure can be restored**?” 
+
+We can ask:
+- What is existing riparian vegetation in the valley bottom relative to historic conditions? *with RCAT*
+-  Can the riverscape and adjacent uplands support provide a source of woody debris and is natural wood recruitment possible? 
+- How accessible is the floodplain for flooding and riparian vegetation recruitment (infrastructure / like levees; this is the *active channel plus active floodplain* you did [above]({{ site.baseurl }}/Course_Topics/WATS_5350/Low-Tech/Projects/birch/birchplanning.html#3-inventory-of-resources)?
+- What land uses are taking place in the valley bottom and are they compatible with maintaining a self-sustaining source of structure? 
+- How many woody debris jams are currently present? How many could be given the current wood supply? How many could be given the potential wood supply?
+
+As with geomorphic condition, these questions can often be answered simply by walking a   site and assessing wood resources and  recruitment  potential.  You can count jams off the imagery and report them as quantities or linear densities (i.e. jams per mile) for more consistent intercomparison across sites. Below we show what can be gleaned from RCAT as a line of evidence:
+
+<div class="responsive-embed">
+</div>
+
 
 **Birch Creek Riparian Resources**
 
 | Resource Type | Suggested Resource Link | Notes or Alternative Resource |
 |------------------------|-------------------------|-------------------------------|
-|[Riparian Condition Assessment Tool](https://rcat.riverscapes.xyz) | Desc [<i class="fa fa-file-archive-o" aria-hidden="true"></i> Middle_Bear_RCAT.lpk](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/station/BRAT/Middle_Bear_RCAT.lpk)- 479 MB! | This is a. |
-|Item | Desc [<i class="fa fa-file-archive-o" aria-hidden="true"></i> file.zip]()- 479 MB! | This is a. |
+|[Riparian Condition Assessment Tool](https://rcat.riverscapes.xyz) | Desc [<i class="fa fa-file-archive-o" aria-hidden="true"></i> Middle_Bear_RCAT.lpk](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/station/BRAT/Middle_Bear_RCAT.lpk)- 432 MB! | This is just a layer package . |
+
+
 
 ##### Riparian Condition Capacity to support Process of Beaver Dam Activity 
 
 
 <a src="http://brat.riverscapes.xyz"><img class="float-left" src="{{ site.baseurl }}/assets/images/projects/BRAT_Logo-200.png"></a> 
-The questions to ask (maps of existing and potential beaver dam activity)
+Allowing beaver dispersing from upstream to move down in and maintain water in this reach could be adventagoues. Where beaver dam activity is an immediate, or long-term goal, the question to ask is whther or not beaver dam actiivty could be sustained and if so to what level? From BRAT, you can at least get:
+- Nubmer of Dams in a reach that can be supported currently (e.g. count of capacity)
+- Comparison to what might have been supported their historically (i.e. count of upper plausible extent of capacity)
+
+With that information you can compare what sort of recovery potential is possible in terms of a capacity bump. Note that the recovery potential may be less than historic capacity if the area within 100 m of the channel is not likely to increase is favorable production of vegetation to support dam building activity.  Finally, you can:
+- Count existing beaver dams
+- Compare existing dams to current and potential capacity (uplift potential)
+- Consider if there are any areas where beaver could cause unintended harm that may need to be mitigated and/or identified in adaptive management plan.
+
 
 **Birch Creek Beaver Resources**
 
@@ -195,3 +234,4 @@ This video shows how to download and use the primary outputs of BRAT:
 <div class="responsive-embed">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wKWCY47Z8G0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
