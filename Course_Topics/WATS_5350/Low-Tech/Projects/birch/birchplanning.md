@@ -142,23 +142,22 @@ Scroll down to the [BRAT]({{ site.baseurl }}/Course_Topics/WATS_5350/Low-Tech/Pr
 </div>
 
 #### Risk vs. Opportunity Assessment 
-(Identify and map locations where opportunities are possible and where and if risks can be reasonably mitigated. In other words, what valley bottom space is available for low-tech PBR?)
-
+Identify and map locations where opportunities are possible and where and if risks can be reasonably mitigated. In other words, what valley bottom space is available for low-tech PBR?
 
 
 --------
 ### 4. Resource Analysis
-This is 
+
 #### Assessment of Current Conditions and Recovery Potential 
 
 ##### Geomorphic Condition 
-(maps (polygons) of active channel plus floodplain area of valley bottom as  current vs. potential by Cluer & Throne Riverscape Stage)
+*Pending* (maps (polygons) of active channel plus floodplain area of valley bottom as  current vs. potential by Cluer & Throne Riverscape Stage)
 
 ###### Identification of pathways of recovery 
-(using riverscape evolution model, identify current stage(s) and target stage(s) and articulate what trajectory and geomorphic processes will be necessary to get to recovery potential).
+*Pending*(using riverscape evolution model, identify current stage(s) and target stage(s) and articulate what trajectory and geomorphic processes will be necessary to get to recovery potential).
 
 ###### Flow Regimes ability to "Do the Work" of Restoration 
-(Assessment of Flow Regime to do "geomorphic work" necessary to follow desired recovery trajectory)
+Assessment of Flow Regime to do "geomorphic work" necessary to follow desired recovery trajectory.
 
 **Birch Creek Flow Resources**
 
