@@ -91,11 +91,28 @@ It is important to restate the broad managment goals in terms of specific projec
 
 **Indicator Template Resources**
 
-An example template based on Table 3.1 on page 8 of [Chapter 3](https://www.researchgate.net/publication/332304801_Chapter_3_-_Planning_for_Low-Tech_Process-Based_Restoration?channel=doi&linkId=5cad2a7e458515cd2b0d2fe1&showFulltext=true) of the LTPBR Design Manual.
+An example template based on Table 3.1 on page 8 of [Chapter 3](https://www.researchgate.net/publication/332304801_Chapter_3_-_Planning_for_Low-Tech_Process-Based_Restoration?channel=doi&linkId=5cad2a7e458515cd2b0d2fe1&showFulltext=true) of the LTPBR Design Manual. is provided below.
 
 | Resource Type | Suggested Resource Link | Notes or Alternative Resource |
 |------------------------|-------------------------|-------------------------------|
 | Project Indicator Template |  [<i class="fa fa-file-excel-o" aria-hidden="true"></i> Condition Worksheet.xlsx](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/birch/Condition+Worksheet.xlsx) | This is a template worksheet for populating active channel, active floodplain, vs. inaccessed floodplain mapping of your valley bottom as a means of cataloging condition and estimating recovery potential and constraining design. |
+
+#### Overview of Project Indicator Template
+This 7 minute video gives an over of the condition worksheet.
+
+<div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DJ0GgLbUpGw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+#### Populating Proportion of Active Valley Bottom Indicator
+<div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BRIDPsWNYLU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+#### Populating Beaver Dam Structure Indicators
+
+<div class="responsive-embed">
+</div>
 
 --------
 ### 3. Inventory of Resources
