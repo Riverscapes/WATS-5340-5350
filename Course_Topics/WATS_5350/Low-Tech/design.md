@@ -11,6 +11,25 @@ You will design and build your own low-tech PBR project this semester!
 
 # Resources
 ## Slides from Class
+
+### Slides and lecture from 2020
+<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2020/Week9_LowTech_Design.pdf"><img class="float-right" src="{{ site.baseurl }}/assets/images/lectures/2020-WATS5350_Week9_Design.png"></a> This 55 minute lecture is based on the same [lecture](http://lowtechpbr.restoration.usu.edu/workshops/Materials/Intro/materials.html#11-design) we give in the [3-day Low-Tech PBR of Riverscapes introduction class](http://lowtechpbr.restoration.usu.edu/workshops/).  In it, we cover: 
+- Context for design
+- What does a design need to do
+- What are key elements of a restoration design
+- How do you formulate a design?
+- Show some examples of how its done.
+
+<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2020/Week9_LowTech_Design.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> Slides</a>
+
+<div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ltuC3llFSjg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+
+
+### Slides from 2019
 <div class="responsive-embed">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQXcKPqQh9vm0BrlVM0esUn3i7KvDXwABsHST5DWAOC9YQAHI_IAD0JSSj0eaOzY1YOU5y6u0Ojbt9y/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
