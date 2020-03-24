@@ -173,6 +173,11 @@ Applying this to Birch Creek requires a visit in the field and broader training 
 | Resource Type | Suggested Resource Link | Notes or Alternative Resource |
 |------------------------|-------------------------|-------------------------------|
 | Active Valley Bottom Assessment |  [<i class="fa fa-file-excel-o" aria-hidden="true"></i> Active Valley Bottom Worksheet.xlsx](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/birch/Active+Valley+Bottom+Worksheet.xlsx) | This is a template worksheet for populating active channel, active floodplain, vs. inaccessed floodplain mapping of your valley bottom as a means of cataloging condition and estimating recovery potential and constraining design. |
+|Geomorphic Condition Layers (done for you) | Desc [<i class="fa fa-map" aria-hidden="true"></i> Geomorphology.lpk](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/birch/Geomorphology.lpk) - 54 KB | This is just a layer package for the geomorph files. |
+|Geomorphology Shape Files | Desc [<i class="fa fa-file-archive-o" aria-hidden="true"></i> Birch_Wilde_2020_Geomorph.zip](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/birch/Birch_Wilde_2020_Geomorph.zip)- 53 KB | This is all the shape files in above layer package (but without symbology; use layer package for that) |
+
+
+
 
 - <a href="https://pdfs.semanticscholar.org/97b5/7edce62571b00897b0ba5c182076772cf92a.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
  Cluer B, Thorne C. 2013. [A Stream Evolution Model Integrating Habitat and Ecosystem Benefits](https://pdfs.semanticscholar.org/97b5/7edce62571b00897b0ba5c182076772cf92a.pdf). River Research & Applications. DOI [10.1002/rra.2631](https://dx.doi.org/10.1002/rra.2631).
@@ -274,7 +279,7 @@ With that information you can compare what sort of recovery potential is possibl
 |------------------------|-------------------------|-------------------------------|
 |[Beaver Restoration Assessment Tool](http://brat.riverscapes.xyz) MiddleBear_16010202 Full Project | This is the entire BRAT Project [<i class="fa fa-file-archive-o" aria-hidden="true"></i> BRAT.zip](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/birch/BRAT.zip)- 1700 MB! | You can make this assessment by asking the questions that BRAT does in the field or at the desktop with the [BRAT cIS](http://brat.riverscapes.xyz/Workshops/2018/johnday.html#brat-capacity-modelling) |
 |[Beaver Restoration Assessment Tool](http://brat.riverscapes.xyz) MiddleBear_16010202 Just `BatchRun01`  | This is just the BRAT Project you need [<i class="fa fa-file-archive-o" aria-hidden="true"></i> BatchRun_01.zip](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/birch/BatchRun_01.zip) - 1100 MB! | Above file includes a preliminary run you do not need |
-|[Beaver Restoration Assessment Tool](http://brat.riverscapes.xyz) MiddleBear_16010202 Just `*.lpk` for `BatchRun01`  | This is just the layer package output of the BRAT you need [<i class="fa fa-file-archive-o" aria-hidden="true"></i> BRAT_MiddleBear_16010202_Perrenial.lpk](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/birch/BRAT_MiddleBear_16010202_Perennial.lpk)- 450 MB! | This is what's used in video below and smaller if you're having problems downloading |
+|[Beaver Restoration Assessment Tool](http://brat.riverscapes.xyz) MiddleBear_16010202 Just `*.lpk` for `BatchRun01`  | This is just the layer package output of the BRAT you need [<i class="fa fa-map" aria-hidden="true"></i> BRAT_MiddleBear_16010202_Perrenial.lpk](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/birch/BRAT_MiddleBear_16010202_Perennial.lpk)- 450 MB! | This is what's used in video below and smaller if you're having problems downloading |
 
 This video shows how to download and use the primary outputs of BRAT:
 <div class="responsive-embed">
