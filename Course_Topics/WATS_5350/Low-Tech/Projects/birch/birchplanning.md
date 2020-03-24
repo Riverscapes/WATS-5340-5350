@@ -158,17 +158,48 @@ Identify and map locations where opportunities are possible and where and if ris
 #### Assessment of Current Conditions and Recovery Potential 
 
 ##### Geomorphic Condition 
-*Pending* (maps (polygons) of active channel plus floodplain area of valley bottom as  current vs. potential by Cluer & Throne Riverscape Stage)
+
+
+This video below goes through some generic background on assessing geomorphic condition, primarily by using the Cluer & Thorne ([2013](https://pdfs.semanticscholar.org/97b5/7edce62571b00897b0ba5c182076772cf92a.pdf)) riverscape evolution model. 
+
+<div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UIgoCEuE0Oc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+Applying this to Birch Creek requires a visit in the field and broader training than we have provided you in fluvial geomorphology then this class. As such, I provide the GIS files below in the geomorphic resources that I have done for you and explain to you in the video below how I obtained them. 
 
 
 
 | Resource Type | Suggested Resource Link | Notes or Alternative Resource |
 |------------------------|-------------------------|-------------------------------|
-| Active Valley Bottom Assessment |  [<i class="fa fa-file-excel-o" aria-hidden="true"></i> Active Valley Bottom Worksheet.xlsx](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/birch/Active+Valley+Bottom+Worksheet.xlsx)) | This is a template worksheet for populating active channel, active floodplain, vs. inaccessed floodplain mapping of your valley bottom as a means of cataloging condition and estimating recovery potential and constraining design. |
+| Active Valley Bottom Assessment |  [<i class="fa fa-file-excel-o" aria-hidden="true"></i> Active Valley Bottom Worksheet.xlsx](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/birch/Active+Valley+Bottom+Worksheet.xlsx) | This is a template worksheet for populating active channel, active floodplain, vs. inaccessed floodplain mapping of your valley bottom as a means of cataloging condition and estimating recovery potential and constraining design. |
+
+- <a href="https://pdfs.semanticscholar.org/97b5/7edce62571b00897b0ba5c182076772cf92a.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
+ Cluer B, Thorne C. 2013. [A Stream Evolution Model Integrating Habitat and Ecosystem Benefits](https://pdfs.semanticscholar.org/97b5/7edce62571b00897b0ba5c182076772cf92a.pdf). River Research & Applications. DOI [10.1002/rra.2631](https://dx.doi.org/10.1002/rra.2631).
+
+###### Geomorphic Condition of Birch Creek
+
+In this 50 minute (sorry) video, I give you the answer to geomorphic condition (instead of asking you to do it).  I give you the answer because we have not spent enuough time (other than 25 minute background above on Cluer & Thorne (2013)) to help you do this assessment yourself. Moreover, it is difficult to do without walking this carefully in the field. However, I only give you the answer of current geomorphic conditons. **What I ask you to do is**:
+- Fill out [<i class="fa fa-file-excel-o" aria-hidden="true"></i> Active Valley Bottom Worksheet.xlsx](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/birch/Active+Valley+Bottom+Worksheet.xlsx) for the five reaches I delineate for you and get that % Active Valley Bottom indicator.
+- Estimate for each of the five reaches what you think the recovery potential is (i.e. how much of the currently *inaccessed* valley bottom could be converte to *active channel* and/or *active floodplain* with restoration )
+
+<div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Qbo7mtLAH6o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+###### Mapping Valley Setting & Confinment on Birch Creek
+This is not necessary, but if you like the geomorphology stuff, this is just a little bit of context based on the Fryirs et al. (2015) and O'Brien et al. (2019) about how you can map confinement in Birch Creek:
+
+<div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gaGobjVPuIo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+- O'Brien, G.R., Wheaton, J.M., Fryirs, K., Macfarlane, W.W., Brierley, G., Whitehead, K., Gilbert, J. and Volk, C., 2019. Mapping valley bottom confinement at the network scale. Earth Surface Processes and Landforms, 44(9): 1828-1845. DOI: [10.1002/esp.4615](https://dx.doi.org/10.1002/esp.4615)
+- Fryirs K, Wheaton JM, and Brierley G. 2015.  An approach for measuring confinement and assessing the influence of valley setting on river forms and processes. Earth Surface Processes & Landforms. DOI: [10.1002/esp.3893](https://dx.doi.org/10.1002/esp.3893)
 
 
-###### Identification of pathways of recovery 
-*Pending*(using riverscape evolution model, identify current stage(s) and target stage(s) and articulate what trajectory and geomorphic processes will be necessary to get to recovery potential).
+
+-------
 
 ###### Flow Regimes ability to "Do the Work" of Restoration 
 Assessment of Flow Regime to do "geomorphic work" necessary to follow desired recovery trajectory.
