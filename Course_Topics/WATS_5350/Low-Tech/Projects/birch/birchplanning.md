@@ -89,6 +89,13 @@ It is important to restate the broad managment goals in terms of specific projec
 
 - Skidmore, P.B., Thorne, C.R., Cluer, B.L., Pess, G.R., Castro, J.M., Beechie, T.J. and Shea, C.C., 2011. [Science base and  tools  for  evaluating  stream  engineering,  management,  and  restoration  proposals](https://repository.library.noaa.gov/view/noaa/4020),  U.S.  Department  of  Commerce, Seatle, WA. 
 
+**Indicator Template Resources**
+
+An example template based on Table 3.1 on page 8 of [Chapter 3](https://www.researchgate.net/publication/332304801_Chapter_3_-_Planning_for_Low-Tech_Process-Based_Restoration?channel=doi&linkId=5cad2a7e458515cd2b0d2fe1&showFulltext=true) of the LTPBR Design Manual.
+
+| Resource Type | Suggested Resource Link | Notes or Alternative Resource |
+|------------------------|-------------------------|-------------------------------|
+| Project Indicator Template |  [<i class="fa fa-file-excel-o" aria-hidden="true"></i> Condition Worksheet.xlsx](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/birch/Condition+Worksheet.xlsx) | This is a template worksheet for populating active channel, active floodplain, vs. inaccessed floodplain mapping of your valley bottom as a means of cataloging condition and estimating recovery potential and constraining design. |
 
 --------
 ### 3. Inventory of Resources
@@ -152,6 +159,13 @@ Identify and map locations where opportunities are possible and where and if ris
 
 ##### Geomorphic Condition 
 *Pending* (maps (polygons) of active channel plus floodplain area of valley bottom as  current vs. potential by Cluer & Throne Riverscape Stage)
+
+
+
+| Resource Type | Suggested Resource Link | Notes or Alternative Resource |
+|------------------------|-------------------------|-------------------------------|
+| Active Valley Bottom Assessment |  [<i class="fa fa-file-excel-o" aria-hidden="true"></i> Active Valley Bottom Worksheet.xlsx](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/birch/Active+Valley+Bottom+Worksheet.xlsx)) | This is a template worksheet for populating active channel, active floodplain, vs. inaccessed floodplain mapping of your valley bottom as a means of cataloging condition and estimating recovery potential and constraining design. |
+
 
 ###### Identification of pathways of recovery 
 *Pending*(using riverscape evolution model, identify current stage(s) and target stage(s) and articulate what trajectory and geomorphic processes will be necessary to get to recovery potential).
@@ -227,8 +241,9 @@ With that information you can compare what sort of recovery potential is possibl
 
 | Resource Type | Suggested Resource Link | Notes or Alternative Resource |
 |------------------------|-------------------------|-------------------------------|
-|[Beaver Restoration Assessment Tool](http://brat.riverscapes.xyz) | This is the entire BRAT Project [<i class="fa fa-file-archive-o" aria-hidden="true"></i> BRAT.zip](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/birch/BRAT.zip)- 1700 MB! | You can make this assessment by asking the questions that BRAT does in the field or at the desktop with the [BRAT cIS](http://brat.riverscapes.xyz/Workshops/2018/johnday.html#brat-capacity-modelling) |
-
+|[Beaver Restoration Assessment Tool](http://brat.riverscapes.xyz) MiddleBear_16010202 Full Project | This is the entire BRAT Project [<i class="fa fa-file-archive-o" aria-hidden="true"></i> BRAT.zip](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/birch/BRAT.zip)- 1700 MB! | You can make this assessment by asking the questions that BRAT does in the field or at the desktop with the [BRAT cIS](http://brat.riverscapes.xyz/Workshops/2018/johnday.html#brat-capacity-modelling) |
+|[Beaver Restoration Assessment Tool](http://brat.riverscapes.xyz) MiddleBear_16010202 Just `BatchRun01`  | This is just the BRAT Project you need [<i class="fa fa-file-archive-o" aria-hidden="true"></i> BatchRun_01.zip](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/birch/BatchRun_01.zip) - 1100 MB! | Above file includes a preliminary run you do not need |
+|[Beaver Restoration Assessment Tool](http://brat.riverscapes.xyz) MiddleBear_16010202 Just `*.lpk` for `BatchRun01`  | This is just the layer package output of the BRAT you need [<i class="fa fa-file-archive-o" aria-hidden="true"></i> BRAT_MiddleBear_16010202_Perrenial.lpk](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/birch/BRAT_MiddleBear_16010202_Perennial.lpk)- 450 MB! | This is what's used in video below and smaller if you're having problems downloading |
 
 This video shows how to download and use the primary outputs of BRAT:
 <div class="responsive-embed">
