@@ -9,7 +9,10 @@ url: http://capstone.restoration.usu.edu
 baseurl: ""
 # When serving locally what port should we use:
 port: 4001
-google_analytics: UA-60121403-8
+
+# Google Analytics
+google_analytics: UA-146434571-1
+
 # Markdown style
 markdown: kramdown
 # Syntax highlighter.
