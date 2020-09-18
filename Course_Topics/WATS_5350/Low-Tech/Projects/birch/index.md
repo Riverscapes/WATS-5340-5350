@@ -49,6 +49,9 @@ This story has appeared in multiple media outlets. Here are a few of the recent 
 [<img class="float-right" src="{{ site.baseurl }}/assets/images/projects/birch/Beef_Birch.png">](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/birch/BEEF+30-31+april+REVISED.pdf)
 That's right, [Beef Magazine](https://www.beefmagazine.com/sustainability/beaver-power-provides-year-long-water-idaho-ranch)! This article by Briana Randall titled "[Beaver power provides year-long water to Idaho ranch: Beavers? You read that right. Here’s how four-legged engineers helped restore an Idaho ranch.](https://www.beefmagazine.com/sustainability/beaver-power-provides-year-long-water-idaho-ranch)" explains to other cattlemen why Jay wants what many view as a nuisance on his ranch.
 
+##### National Wildlife Federation Magazine
+In this article titled ""[Nature's Ecosystem Engineers Beaver dams create climate-smart wetlands that benefit wildlife and people](https://www.nwf.org/Magazines/National-Wildlife/2020/August-September/Conservation/Beavers)", Catherine Arnold highlights Jay's story on Birch Creek.
+
 ##### Eager
 [<img class="float-right" src="{{ site.baseurl }}/assets/images/eager-goldfarb_1.jpg">](https://www.amazon.com/Eager-Surprising-Secret-Beavers-Matter/dp/160358739X/ref=sr_1_6?ie=UTF8&qid=1512586233&sr=8-6&keywords=eager+beaver)
 This talk is elaborated in [Ben Goldfarb's](http://bengoldfarb.com/) new award winning book:  [Eager - The Surprising Secret Life of Beaver and Why they Matter](https://www.amazon.com/Eager-Surprising-Secret-Beavers-Matter/dp/160358739X/ref=sr_1_6?ie=UTF8&qid=1512586233&sr=8-6&keywords=eager+beaver). 
