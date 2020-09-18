@@ -10,9 +10,9 @@ weight: 3
 
 The WATS 5350 Spring 2020 class focused on [Birch Creek, Idaho](https://earth.app.goo.gl/n9RRA6) in southeast Idaho. Birch Creek is a left-bank tributary to Mink Creek, which is tributary to the Bear River just downstream of Oneida Narrows.  The project is on landowner and rancher Jay Wilde's deeded ground.  
 
-Jay is excited to see if the success of beaver reintroduction facilitated by low-tech BDAs on Birch Creek on USFS land upstream of his ranch can be extended downstream on to his own property. **The goals of this project are to improve riverscape health and restore perrenial flow.**
+Jay is excited to see if the success of beaver reintroduction facilitated by low-tech BDAs on Birch Creek on USFS land upstream of his ranch can be extended downstream on to his own property. **The goals of this project are to improve riverscape health and restore perennial flow.**
 
-## Part 1 - Why we can even work in Brich Creek
+## Part 1 - Why we can even work in Birch Creek
 
 <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2020/Week8_BirchCreekIntro_1.pdf"><img class="float-right" src="{{ site.baseurl }}/assets/images/lectures/2020-WATS5340_Week8_Part1.png"></a>
 For WATS 5350, this video sets the stage for Birch Creek, the previous project with Jay Wilde upstream on USFS land, the motivation for that project, the results of that project and why there is trust to move down off the Forest and on to Jay's private, deeded property and continue with the project you will be planning, designing (and should be building if not for COVID-19, but can come and build in the summer if you want). 
@@ -36,6 +36,11 @@ We have had the privilege of working with Idaho Rancher Jay Wilde since 2014.  F
 
 - <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [A Rancher’s Story: Reintroducing beaver to bring back perennial flow ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/Wilde+-+Brich+Creek.pdf)
 (Wilde et al. 2019)
+
+If you'd like to hear part of the story on the ground (in a virtual field trip), check out [this virtual field trip with Jay Wilde](http://lowtechpbr.restoration.usu.edu/resources/Topics/03_Planning/birchcreek.html).
+
+<a class="hollow button" href="http://lowtechpbr.restoration.usu.edu/resources/Topics/03_Planning/birchcreek.html"><i class="fa fa-blind" aria-hidden="true"></i>  Go on the Virtual <br><b>LTPBR Birch Creek Field Trip</b> </a> 
+
 
 #### Story Told by Others
 This story has appeared in multiple media outlets. Here are a few of the recent ones:
