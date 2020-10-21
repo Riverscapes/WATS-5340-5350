@@ -12,6 +12,17 @@ The WATS 5350 Spring 2020 class focused on [Birch Creek, Idaho](https://earth.ap
 
 Jay is excited to see if the success of beaver reintroduction facilitated by low-tech BDAs on Birch Creek on USFS land upstream of his ranch can be extended downstream on to his own property. **The goals of this project are to improve riverscape health and restore perennial flow.**
 
+## For more information on Birch Creek
+<div class="row small-up-2 medium-up-2 large-up-4" align="center">
+
+     
+
+ <div class="column column-block">
+    <a class="hollow button" href="http://lowtechpbr.restoration.usu.edu/resources/casestudies/birch.html" target="_blank"><img src="{{ site.baseurl }}/assets/images/projects/birch/wilde.png"> <br> LTPBR <b>Birch Creek, Utah</b><br>Case Study Information </a>
+  </div>
+
+</div> 
+
 ## Part 1 - Why we can even work in Birch Creek
 
 <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2020/Week8_BirchCreekIntro_1.pdf"><img class="float-right" src="{{ site.baseurl }}/assets/images/lectures/2020-WATS5340_Week8_Part1.png"></a>
