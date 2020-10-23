@@ -23,16 +23,15 @@ A total of four credits (2 in fall, Capstone I, and 2 in spring, Capstone II) wi
 For students enrolled, all course materials can be found on this site, whereas you will submit assignments, track your grades and engage in collaborations on our Canvas Course Pages:
 
 <div align="center">
-	<a class="hollow button" href="https://usu.instructure.com/courses/547592"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  Fall 2019 Canvas WATS 5340 Course</a>  
-	<a class="hollow button" href="https://usu.instructure.com/courses/567581"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  Spring 2020 Canvas WATS 5350 Course</a> 
+	<a class="hollow button" href="https://usu.instructure.com/courses/595866"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  Fall 2020 Canvas WATS 5340 Course</a>  
+	<a class="hollow button" href=""><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  Spring 2021 Canvas WATS 5350 Course (PENDING)</a> 
 </div>
 
-#### COVID-19 Spring 2020 WATS 5350 Backdrop
-<a class="hollow button" href="https://dps.usu.edu/emergency/COVID-19/"><img src="/assets/images/covid19-icon.png"> USU's COVID-19 Policies </a>
 
-The week we were scheduled to begin focusing on the Birch Creek 2020 project as a class, the [University was rapidly responding to prevent the spread of the COVID-19 virus](https://dps.usu.edu/emergency/COVID-19/). As such, the official field trips were cancelled and Utah State University began teaching remotely on Wednesday, March 18. Classes on Friday, March 13 through Tuesday, March 17 were canceled to allow faculty members time to move their classes into the online learning environment. As such, the resources presented here are more thorough than past years (to facilitate remote participation and learning). This is not ideal, and can't simulate the experience of design and construction in the field. Students of Spring 2020 WATS 5350 will be welcome to attend [summer workshops](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Venues/ut).  
 
 ### Past Versions of Canvas
+- [WATS 5340 - Fall 2019](https://usu.instructure.com/courses/493648)
+- [WATS 5350 - Spring 2020](https://usu.instructure.com/courses/531745)
 - [WATS 5340 - Fall 2018](https://usu.instructure.com/courses/493648)
 - [WATS 5350 - Spring 2019](https://usu.instructure.com/courses/531745)
 - [WATS 5340 - Fall 2017](https://usu.instructure.com/courses/468472)
