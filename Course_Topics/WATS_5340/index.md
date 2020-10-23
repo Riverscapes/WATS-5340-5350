@@ -5,7 +5,10 @@ weight: 0
 
 ## WATS 5340 Topics
 
-Students learn the application of the principles, theory, and skills of Watershed Science to aquatic ecosystem management and restoration projects. Assignments and group projects include:
+Students learn the application of the principles, theory, and skills of Watershed Science to aquatic ecosystem management and restoration projects.
+
+From Fall 2017 trhough Fall 2019 the Fall WATS 5340 course was organized and covered the following topics (kept here for reference: 
+
 - [Course Overview]({{ site.baseurl }}/Course_Topics/WATS_5340/Overview.html)
 - [Restoration Process]({{ site.baseurl }}/Course_Topics/WATS_5340/Restoration_Process.html)
 - [Condition & Impairment Assessment]({{ site.baseurl }}/Course_Topics/WATS_5340/Condition.html), 
@@ -15,7 +18,7 @@ Students learn the application of the principles, theory, and skills of Watershe
 -  [Visioning Restoration Alternative]({{ site.baseurl }}/Course_Topics/WATS_5340/Visioning.html)
 -  [Conceptual Design Alternatives Project]({{ site.baseurl }}/Course_Topics/WATS_5340/Project). 
 
-
+In Fall 2020, WATS 
 
 -----
 <div align="center">
