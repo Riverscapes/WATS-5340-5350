@@ -5,7 +5,7 @@ title: Management & Restoration of Aquatic Ecosystems Capstone Course
 
 ## Course Overview
 
-Welcome to the MRAE Capstone Course Website! The primary audience for this site are the students enrolled in [WATS 5340](http://catalog.usu.edu/preview_course_nopop.php?catoid=12&coid=137186) & [WATS 5350](http://catalog.usu.edu/preview_course_nopop.php?catoid=12&coid=137187) at Utah State University. However, the resources found here may be of general interest to a broader ecosystem management and restoration community, including practitioners, managers, stakeholders and researchers. In thesecapstone courses, we will spend a full year focusing on the restoration process. 
+Welcome to the MRAE Capstone Course Website! The primary audience for this site are the students enrolled in [WATS 5340](http://catalog.usu.edu/preview_course_nopop.php?catoid=12&coid=137186) & [WATS 5350](http://catalog.usu.edu/preview_course_nopop.php?catoid=12&coid=137187) at Utah State University. However, the resources found here may be of general interest to a broader ecosystem management and restoration community, including practitioners, managers, stakeholders and researchers. In these capstone courses, we will spend a full year focusing on the restoration process. 
 
 <div align="center">
 	<a class="hollow button" href="{{ site.baseurl }}/Course_Topics/WATS_5340"><img src="{{ site.baseurl }}/assets/images/favicons/android-icon-48x48.png">  WATS 5340</a>  

@@ -7,7 +7,7 @@ weight: 0
 
 Students learn the application of the principles, theory, and skills of Watershed Science to aquatic ecosystem management and restoration projects.
 
-From Fall 2017 trhough Fall 2019 the Fall WATS 5340 course was organized and covered the following topics (kept here for reference: 
+From Fall 2017 trhough Fall 2019 the Fall WATS 5340 course ran the entire semester and was co-taught by Peter Wilcock & Joe Wheaton. We covered the following topics (kept here for reference for past students and as an alternative reference for existing): 
 
 - [Course Overview]({{ site.baseurl }}/Course_Topics/WATS_5340/Overview.html)
 - [Restoration Process]({{ site.baseurl }}/Course_Topics/WATS_5340/Restoration_Process.html)
@@ -18,7 +18,17 @@ From Fall 2017 trhough Fall 2019 the Fall WATS 5340 course was organized and cov
 -  [Visioning Restoration Alternative]({{ site.baseurl }}/Course_Topics/WATS_5340/Visioning.html)
 -  [Conceptual Design Alternatives Project]({{ site.baseurl }}/Course_Topics/WATS_5340/Project). 
 
-In Fall 2020, WATS 
+In **Fall 2020**, we changed things up as follows:
+- Added  [Principles of Aquatic Ecosystem Restoration](https://usu.instructure.com/courses/595865), 2 credit prerequisite  (WATS 4950 ) for first 5 weeks of semester
+- Course taught over last 10 weeks of semester, with first field field trips combined with Restoraton 
+- Peter Wilcock - Lead Instructor and Joe Wheaton - Supporting Instructor
+
+All Fall 2020 WATS 5340 Resources can be accessed from the [Canvas Site](https://usu.instructure.com/courses/595866) with occasoinal links back to here.
+
+
+<div align="center">
+	<a class="hollow button" href="https://usu.instructure.com/courses/595866"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  Fall 2020 Canvas WATS 5340 Course</a>   
+	</div>
 
 -----
 <div align="center">
