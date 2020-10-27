@@ -3,39 +3,83 @@ title: Visioning Restoration Alternatives
 weight: 9
 ---
 
-## Background
+# Background
 
-### Synopsis of Topic
+## Synopsis of Topic
 It is often critical to communicate the aspirations of what you're trying to achieve as a vision to a target audience. There are many ways to convey this message and vision, including vision statements, graphics, maps, videos, presentations, posters, glossy fact sheets, etc.  Visioning is not always done for restoration projects, but can be a critical and important step in helping a project go from just an idea or notion and build the support to help make it a reality. 
 
-### Why we're covering it
+## Why we're covering it
 Depending on the audience you are targeting, a vision is sometimes essential to securing funding for restoration projects or proposals, building necessary stakeholder support and buy-in, or successfully navigating regulatory and permitting hurdles. You need to have the skills necessary to communicate and illustrate such visions to be a successful practitioner. 
 
-### Learning Outcomes
+## Learning Outcomes
 *Develop* a **vision for a restoration project** and *propose* that solution formally.
 
 ------
-## Resources
+# Resources
 
-<div align="center">
-	<a class="hollow button" href="{{ site.baseurl }}/Course_Topics/WATS_5340/Project/2018#examples-of-design-alternatives-from-2017"><i class="fa fa-question-circle" aria-hidden="true"></i> What did last year's class do for visualizing their design alternatives?</a>
-	
 
+## Lectures, Slides & Handouts
+
+### Lecture
+* [Joe's 2020 Slides on Visioning for Restoration](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5340/2020/2020_Visioning_WATS5340.pdf)
+#### Playlist of Entire Lecture
+<div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL0ZiZg4rilzJOoNAuttcWeowdDArsk1Ci" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+#### Broken out by section
+##### §1 Vision Intro
+<div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TadcDmhU3tU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+##### §2 Logan River Task Force Vision
+<div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VcQ3ME1xkxw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+##### §3 Other Examples - Urban Focused
+<div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0gp712EKwk8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+Examples included in [slides](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5340/2020/2020_Visioning_WATS5340.pdf):
+* [Los Angeles River](https://youtu.be/hIZL2R5BDi8), CA
+* - [Portneuf River Vision Study](http://river.pocatello.us/), 2016  - [PDF](http://river.pocatello.us/vision-study/)
+
+
+##### §4 Assorted Visioning Examples
+<div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PGQ5Iwwz6Ts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-### Slides & Handouts
-* [Joe's 2017 Slides on Visioning for Restoration](http://etalweb.joewheaton.org/Courses/WATS5340/2017/Restoration_Visioning.pdf)
+Examples included in [slides](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5340/2020/2020_Visioning_WATS5340.pdf):
 
-#### Joe's 2018 Slides on Visioning
+* [Anacostia River](http://www.anacostiaws.org/userfiles/file/A%20Waterway%20to%202025%20brochure-WEB.pdf), MD
+* [South Platte River](http://www.thegreenwayfoundation.org/south-platte-master-plan-rvip.html)
+* [Anchorage Trail](http://greenwayteam.com/?p=64), AK by Greenway Team, Inc.
+* [Ruston Park](http://www.denverpost.com/2014/01/14/federal-heights-park-master-plan-approved-next-step-is-funding/) , CO by DHM Design
+* [Alpowa Creek](http://asotinpud.org/alpowa-creek-riparian-protection-and-restoration-benefits-video/), WA by Public Utility District of Asotin County
+* Napa River Living River, CA by USACE ([Video](https://www.youtube.com/embed/IfopSvtIMLU?rel=0))
+* [A Creek Once More](https://youtu.be/HCELMTzTicQ) - Upper Klamath, OR
+* [Fraser Flats River Restoration](https://youtu.be/uvgfr1O8Ssw), CO
+
+
+##### §5 The River Restoration Center Examples
+<div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wBa4_tFO7Bc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+- The [River Restoration Centre](https://www.therrc.co.uk/) [Manual of River Restoration Techniques](https://www.therrc.co.uk/manual-river-restoration-techniques), includes a number of great examples linked off of [this table](https://www.therrc.co.uk/MOT/MOT_Tabular_view.pdf) of illustrative visions of specific restoration projects.
+- 
+-------------
+### Joe's 2018 Slides on Visioning
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTJYVAt3rB-0vtQWdrKa-XIwFsNib37AljRB_WVkkMlxvaBLWUGsdJLdI78-2Ii4QkFXrR2nLzuQSZk/embed?start=false&loop=false&delayms=3000" frameborder="0" width="550" height="450" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+-------------
+### Joe's 2017 Slides
+* [Joe's 2017 Slides on Visioning for Restoration](http://etalweb.joewheaton.org/Courses/WATS5340/2017/Restoration_Visioning.pdf)
 
+-------------
 
-
-#### Social Connectivity in Urban Rivers
+### Social Connectivity in Urban Rivers
 An excerpt of [Matt Kondolf's](https://ced.berkeley.edu/ced/faculty-staff/g-mathias-kondolf) Slides from his 2016 keynote Binghamton Talk:
-
 
 
 <div class="row small-up-2 medium-up-2 large-up-2" align="center">
@@ -53,18 +97,24 @@ An excerpt of [Matt Kondolf's](https://ced.berkeley.edu/ced/faculty-staff/g-math
 
 ------
 
-### Visions we Looked at in Class
+## Student Examples of Visioning for Logan River
+<div align="center">
+	<a class="hollow button" href="{{ site.baseurl }}/Course_Topics/WATS_5340/Project/2018#examples-of-design-alternatives-from-2017"><i class="fa fa-question-circle" aria-hidden="true"></i> What did a previsous year's class (2017) do for visualizing their design alternatives?</a>
+	</div>
 
-#### RRC UK
+------------
+## Example Visions
+
+### RRC UK
 - The [River Restoration Centre](https://www.therrc.co.uk/) [Manual of River Restoration Techniques](https://www.therrc.co.uk/manual-river-restoration-techniques), includes a number of great examples linked off of [this table](https://www.therrc.co.uk/MOT/MOT_Tabular_view.pdf) of illustrative visions of specific restoration projects.
 
-#### Portneuf River Vision Study, ID
+### Portneuf River Vision Study, ID
 
 - [Portneuf River Vision Study](http://river.pocatello.us/), 2016  - [PDF](http://river.pocatello.us/vision-study/)
 
 ------
 
-#### Other Vision Examples
+## Lecture Vision Examples
 
 * [Los Angeles River](https://youtu.be/hIZL2R5BDi8), CA
 
@@ -87,7 +137,7 @@ An excerpt of [Matt Kondolf's](https://ced.berkeley.edu/ced/faculty-staff/g-math
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uvgfr1O8Ssw?rel=0" frameborder="0" allowfullscreen></iframe>
 
-#### Examples You Presented:
+### Examples From Students:
 
 ##### Kallan River Park, Singapore![img](https://i.pinimg.com/originals/db/ac/0d/dbac0d097a8c279c9fa956eb808c7115.jpg)
 
@@ -98,7 +148,7 @@ An excerpt of [Matt Kondolf's](https://ced.berkeley.edu/ced/faculty-staff/g-math
 * [Restoring an urban river bed to its natural Eco-system; A Singapore experiment](https://chandrashekharasandprints.wordpress.com/2012/05/11/restoring-an-urban-river-bed-to-its-natural-eco-system-a-singapore-experiment/)
 * [Restoring an urban river bed to its natural Eco-system; A Singapore expe...Kallang river is one of the small rivers of Singapore. This 10 KM long river originates from Lower Pierce reserv...](https://chandrashekharasandprints.wordpress.com/2012/05/11/restoring-an-urban-river-bed-to-its-natural-eco-system-a-singapore-experiment/)
 
-##### Upper Susquehanna Coalition
+#### Upper Susquehanna Coalition
 
 * [USC Stream Team Emergency Stream Intervention](http://www.u-s-c.org/html/Streamteam.htm)
 
@@ -108,7 +158,7 @@ An excerpt of [Matt Kondolf's](https://ced.berkeley.edu/ced/faculty-staff/g-math
 
 
 
-##### Flint River Corridor Alliance, MI
+#### Flint River Corridor Alliance, MI
 
 * [Flint River Restoration Plan](http://www.frcalliance.org/flint-riverfront-restoration-plan/)
 
@@ -121,7 +171,7 @@ The River Restoration Project is a $37 million effort to replace Michigan’s mo
 >
 >We knew we were taking a risk to grant dollars to a project like this, but knew the outcome was worth the risk,” said Phil Hagerman, president of The Hagerman Foundation. “We looked at other river restoration projects nationally and saw the economic development that resulted when communities embraced their rivers and natural resources. Supporting these types of projects is vital to the future of Flint and its residents.”
 >
->The project now has support from other nonprofit and government funding sources, including $7.6 million from the Michigan Natural Resources Trust Fund; ​$5 million from the Flint-based C.S. Mott Foundation; $5 million from the U.S. Department of Transportation; ​$4.3 million from Michigan Department of Natural Resources; $3.5 million from the state’s Department of Environment Quality; ​$3 million from the Department of Natural Resources’ Grant Management Program, (approving the removal of the Hamilton Dam); and $1.4 million from the U.S. Environmental Protection Agency.
+>The project now has support from other nonprofit and government funding sources, including $7.6 million from the Michigan Natural Resources Trust Fund; $5 million from the Flint-based C.S. Mott Foundation; $5 million from the U.S. Department of Transportation; $4.3 million from Michigan Department of Natural Resources; $3.5 million from the state’s Department of Environment Quality; $3 million from the Department of Natural Resources’ Grant Management Program, (approving the removal of the Hamilton Dam); and $1.4 million from the U.S. Environmental Protection Agency.
 
 
 
