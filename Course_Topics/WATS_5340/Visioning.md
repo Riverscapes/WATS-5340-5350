@@ -175,6 +175,17 @@ The River Restoration Project is a $37 million effort to replace Michigan’s mo
 
 
 
+### A secret hidden in centuries-old mud reveals a new way to save polluted rivers
+This Science magazine article from Voosen (2020) covers Doroth Merits & Bob Walters work on New England riverscapes:
+* Voosen (2020) [A secret hidden in centuries-old mud reveals a new way to save polluted rivers](sciencemag.org/news/2020/08/secret-hidden-centuries-old-mud-revealed-new-way-save-polluted-rivers). Science. 370 (6516). Posted in: Earth
+DOI: [10.1126/science.abe3864](http://dx.doi.org/10.1126/science.abe3864)
+
+<div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J7NtPkZmy-U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+This [Dolan (2020) Blog Post](https://blogs.sciencemag.org/vis/2020/08/28/how-we-made-mud-look-good/) from Science's communicatinos team details how they "made mud look good" and the specifics of how they laid out a vision for the above science and restoration work.
+
 ----
 ## Relevant or Cited Literature
 
