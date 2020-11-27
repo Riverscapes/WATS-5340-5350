@@ -6,6 +6,16 @@ title: Course Registration & Prerequisites
 
 USU students may register for WATS 5340 and 5350 on USU Banner. 
 
+
+
+### Spring 2021 §:
+
+[Management and Restoration of Aquatic Ecosystems Capstone II - 13188 - WATS 5350 - 001](https://ssb.banner.usu.edu/zprod/bwckschd.p_disp_detail_sched?term_in=202120&crn_in=13188)
+
+| Type  | Time              | Days | Where             | Date Range                  | Schedule Type            |    Instructors |
+| ----- | ----------------- | ---- | ----------------- | --------------------------- | ------------------------ | -------------: |
+| Class | 1:30 pm - 5:00 pm | F    | Huntsman Hall 260 | Jan 19, 2021 - May 05, 2021 | Hybrid F2F + Field Trips | [Joseph Wheaton](http://joewheaton.org) |
+
 ## Prerequisites
 
 ### WATS 5340
