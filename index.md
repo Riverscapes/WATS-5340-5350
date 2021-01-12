@@ -24,7 +24,7 @@ For students enrolled, all course materials can be found on this site, whereas y
 
 <div align="center">
 	<a class="hollow button" href="https://usu.instructure.com/courses/595866"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  Fall 2020 Canvas WATS 5340 Course</a>  
-	<a class="hollow button" href="https://usu.instructure.com/courses/619156"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  Spring 2021 Canvas WATS 5350 Course (PENDING)</a> 
+	<a class="hollow button" href="https://usu.instructure.com/courses/619156"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  Spring 2021 Canvas WATS 5350 Course </a> 
 </div>
 
 
