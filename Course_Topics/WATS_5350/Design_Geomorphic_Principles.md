@@ -74,7 +74,6 @@ If you want to print out just the [exercises](https://s3-us-west-2.amazonaws.com
 <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2021/WATS5350_Module_01_GeomorphicPrinciples_ExercisesOnly.pdf" class="button">Exercise Handout for Print</a>
 </div>
 
-#### Part 2 A- Primer Overview
 <div class="row small-up-2 medium-up-2">
 
 
@@ -83,15 +82,15 @@ If you want to print out just the [exercises](https://s3-us-west-2.amazonaws.com
 
 
       <div class="card-section">
-        <h4>Video</h4>
+        <h4>Entire Lecture Playlist</h4>
         <div class="responsive-embed"> 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4CcOTZ9lrK8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL0ZiZg4rilzKkbTQXTaTdaoe8eaZbHUGO" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <br>
 
 
 </div>
-<i class="fa fa-clock-o" aria-hidden="true"></i>  4 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i>
+<i class="fa fa-clock-o" aria-hidden="true"></i> 1 hour  20 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i>
       </div>
     </div>
   </div>
@@ -106,7 +105,7 @@ If you want to print out just the [exercises](https://s3-us-west-2.amazonaws.com
         	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2021/WATS5350_Module_01_GeomorphicPrinciples.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/lectures/2021-WATS5350_Week1_Geo_A.png"></a>
         	</div>
         
-        <br><br> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2021/WATS5350_Module_01_GeomorphicPrinciples.pdf" target="_blank">Module 1  - Primer  Slides</a>
+        <br><br> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2021/WATS5350_Module_01_GeomorphicPrinciples.pd" target="_blank">Module 1  - Part 2  Slides</a>
         
       </div>
     </div>
@@ -114,209 +113,11 @@ If you want to print out just the [exercises](https://s3-us-west-2.amazonaws.com
   </div>
 </div>
 
-For those of you enrolled in [Fluvial Geomorphology (WATS 5150)](https://riverscapes.github.io/Fluvial-Geomorphology/), there will be some overlap between what we quickly review here and what is covered there. 
 
-#### Part 2 -I - Reach Types
-<div class="row small-up-2 medium-up-2">
-
-
-  <div class="column">
-    <div class="card">
-
-
-      <div class="card-section">
-        <h4>Video</h4>
-        <div class="responsive-embed"> 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ooSTlegR2hE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br>
-
-
-</div>
-<i class="fa fa-clock-o" aria-hidden="true"></i>  12 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i>
-      </div>
-    </div>
-  </div>
-
-  <div class="column">
-    <div class="card">
-
-
-      <div class="card-section">
-        <h4>Slides</h4>
-    <div align="center">
-        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2021/WATS5350_Module_01_GeomorphicPrinciples.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/lectures/2021-WATS5350_Week1_Geo_B.png"></a>
-        	</div>
-        
-        <br><br> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2021/WATS5350_Module_01_GeomorphicPrinciples.pdf" target="_blank">Module 1  - Primer  Slides</a>
-        
-      </div>
-    </div>
-
-  </div>
-</div>
-
-#### Part 2 -II - Valley Setting
-<div class="row small-up-2 medium-up-2">
-
-
-  <div class="column">
-    <div class="card">
-
-
-      <div class="card-section">
-        <h4>Video</h4>
-        <div class="responsive-embed"> 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/17xGK_7rr_I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br>
-
-
-</div>
-<i class="fa fa-clock-o" aria-hidden="true"></i>  11 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i>
-      </div>
-    </div>
-  </div>
-
-  <div class="column">
-    <div class="card">
-
-
-      <div class="card-section">
-        <h4>Slides</h4>
-    <div align="center">
-        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2021/WATS5350_Module_01_GeomorphicPrinciples.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/lectures/2021-WATS5350_Week1_Geo_C.png"></a>
-        	</div>
-        
-        <br><br> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2021/WATS5350_Module_01_GeomorphicPrinciples.pdf" target="_blank">Module 1  - Primer  Slides</a>
-        
-      </div>
-    </div>
-
-  </div>
-</div>
-
-#### Part 2 -III - Margins
-<div class="row small-up-2 medium-up-2">
-
-
-  <div class="column">
-    <div class="card">
-
-
-      <div class="card-section">
-        <h4>Video</h4>
-        <div class="responsive-embed"> 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TLbkR5r_je4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br>
-
-
-</div>
-<i class="fa fa-clock-o" aria-hidden="true"></i>  10 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i>
-      </div>
-    </div>
-  </div>
-
-  <div class="column">
-    <div class="card">
-
-
-      <div class="card-section">
-        <h4>Slides</h4>
-    <div align="center">
-        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2021/WATS5350_Module_01_GeomorphicPrinciples.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/lectures/2021-WATS5350_Week1_Geo_D.png"></a>
-        	</div>
-        
-        <br><br> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2021/WATS5350_Module_01_GeomorphicPrinciples.pdf" target="_blank">Module 1  - Primer  Slides</a>
-        
-      </div>
-    </div>
-
-  </div>
-</div>
-
-#### Part 2 - IV - Geomorphic Units
-<div class="row small-up-2 medium-up-2">
-
-
-  <div class="column">
-    <div class="card">
-
-
-      <div class="card-section">
-        <h4>Video</h4>
-        <div class="responsive-embed"> 
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lwRkMwD799s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br>
-
-
-</div>
-<i class="fa fa-clock-o" aria-hidden="true"></i>  34 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i>
-      </div>
-    </div>
-  </div>
-
-  <div class="column">
-    <div class="card">
-
-
-      <div class="card-section">
-        <h4>Slides</h4>
-    <div align="center">
-        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2021/WATS5350_Module_01_GeomorphicPrinciples.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/lectures/2021-WATS5350_Week1_Geo_E.png"></a>
-        	</div>
-        
-        <br><br> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2021/WATS5350_Module_01_GeomorphicPrinciples.pdf" target="_blank">Module 1  - Primer  Slides</a>
-        
-      </div>
-    </div>
-
-  </div>
-</div>
-
-#### Part 2 -V - Structural Elements
-<div class="row small-up-2 medium-up-2">
-
-
-  <div class="column">
-    <div class="card">
-
-
-      <div class="card-section">
-        <h4>Video</h4>
-        <div class="responsive-embed"> 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aZD7j5LFT9I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br>
-
-
-</div>
-<i class="fa fa-clock-o" aria-hidden="true"></i>  11 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i>
-      </div>
-    </div>
-  </div>
-
-  <div class="column">
-    <div class="card">
-
-
-      <div class="card-section">
-        <h4>Slides</h4>
-    <div align="center">
-        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2021/WATS5350_Module_01_GeomorphicPrinciples.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/lectures/2021-WATS5350_Week1_Geo_F.png"></a>
-        	</div>
-        
-        <br><br> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2021/WATS5350_Module_01_GeomorphicPrinciples.pdf" target="_blank">Module 1  - Primer  Slides</a>
-        
-      </div>
-    </div>
-
-  </div>
-</div>
 -----------
+
+
+
 ## Relevant or Cited Literature
 
 *If you want more information no [GUT](http://gut.riverscapes.xyz)*:
