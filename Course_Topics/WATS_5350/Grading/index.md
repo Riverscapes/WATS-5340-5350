@@ -11,7 +11,7 @@ weight: 2
 
 ### Why we're covering it
 
-To give you first hand experience in converting conceptual designs into actual grading and contstruction documents that can be put out to bid and an engineering contractor can read, interpret and build from for a real restoration project.
+To give you first hand experience in converting conceptual designs into actual grading and construction documents that can be put out to bid and an engineering contractor can read, interpret and build from for a real restoration project.
 
 ### Learning Outcomes
 
@@ -29,11 +29,14 @@ To give you first hand experience in converting conceptual designs into actual g
 
 ## Resources
 
-### In-Class Excercises
+### In-Class Exercises
 
 <div class="row small-up-2 medium-up-2 large-up-3" align="center">
   <div class="column column-block">
-	<a class="button hollow" href="{{ site.baseurl }}/Course_Topics/WATS_5350/Grading/Manual-Grading"><i class="fa fa-hand-rock-o" aria-hidden="true"></i>  Manual Grading Excercies</a>
+	<a class="button hollow" href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2021/WATS5350_Module_02_Grading.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>  Manual Grading Excercies -2021</a>
+  </div>
+<div class="column column-block">
+	<a class="button hollow" href="{{ site.baseurl }}/Course_Topics/WATS_5350/Grading/Manual-Grading"><i class="fa fa-hand-rock-o" aria-hidden="true"></i>  Manual Grading Excercies  2020</a>
   </div>
   <div class="column column-block">
 	<a class="button hollow" href="{{ site.baseurl }}/Course_Topics/WATS_5350/Grading/GIS-Grading"><i class="fa fa-globe" aria-hidden="true"></i>  GIS Grading Excercise</a>
@@ -43,6 +46,46 @@ To give you first hand experience in converting conceptual designs into actual g
 </div>
 
 ### Slides
+
+<div class="row small-up-2 medium-up-2">
+
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Video</h4>
+        <div class="responsive-embed"> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL0ZiZg4rilzLt4RA_pO-esa0I3c3TE9qV" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+</div>
+<i class="fa fa-clock-o" aria-hidden="true"></i> 1 hour 35  minutes <i class="fa fa-youtube-play" aria-hidden="true"></i>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Slides</h4>
+    <div align="center">
+        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2021/WATS5350_Module_02_Grading.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/lectures/2021-WATS5350_Week2.png"></a>
+        	</div>
+        
+        <br><br> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2021/WATS5350_Module_02_Grading.pdf" target="_blank">Module 2  - Slides</a>
+        
+      </div>
+    </div>
+
+  </div>
+</div>
+
+#### OLD - 2018-2020
 
 <div class="responsive-embed">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTX329Zg0Pl9p9ceaaCkeQlWTwKC1F13Rg4D0aW6i7mm9wlZO6YRElO1kUFl3H1pItj1p5u8n7FL_DJ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
