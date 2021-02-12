@@ -5,8 +5,6 @@ weight: 3
 
 # Background
 
-## Why we're covering it
-
 Despite tens of billions of dollars being spent annually on restoring riverscapes, we are nowhere near scratching the scope of the problem. There is way more work that needs to be done, than we are getting done.  Restoration tends to be primarily be implemented with funding from grants and program-specific contracts. The vast majority of restoration funding comes from revenue from tax-payers and/or rate-payers (e.g. utilities and ) and a variety of mechanisms are used to make awards and get projects implemented. However, these standard methods of procurement are typically subject to local, state and/or federal contracting guidelines and limitations, and are difficult to organize for larger projects or plan for phased implementation.  The current pace of spending and action is far too little.
 
 Similar problems exist in restoring forests.  Some innovative thinkers from [Blue Forest Conservation](https://www.blueforestconservation.com/) developed a Forest Resilience Bond as a mechanism to tackle some similar challenges faced in forest restoration.  See how it works in this short video:
@@ -15,7 +13,7 @@ Similar problems exist in restoring forests.  Some innovative thinkers from [Blu
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_qKRaKJEpiY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-We are working with Blue Forest Conservation to expand the concept to other forms of restoration (riverscape, watershed and rangelands), and are working on getting projects going right here in the Bear River Watershed. You are going to be working on one of them. Blue Forest co-founder and COO [Nick Wobbrock](https://www.blueforest.org/meet-the-team) and Senior Project Associate  [Peter Wyrsch](https://www.blueforest.org/meet-the-team) have generously oferred to come meet with you and share with you these innovative conservation financing mechanisms that could be come critical tools in scaling up restoration efforts in your future. 
+We are working with Blue Forest Conservation to expand the concept to other forms of restoration (riverscape, watershed and rangelands), and are working on getting projects going right here in the Bear River Watershed. You are going to be working on one LTPBR project at the heart of this effort.  Blue Forest co-founder and COO [Nick Wobbrock](https://www.blueforest.org/meet-the-team) and Senior Project Associate  [Peter Wyrsch](https://www.blueforest.org/meet-the-team) have generously oferred to come meet with you and share these innovative conservation financing mechanisms that could be come critical tools in scaling up restoration efforts in your future. 
 
 
 # Lecture
@@ -91,7 +89,7 @@ In order to be prepared for our discussion with Nick and Peter, please watch the
 - [Stanford Social Innovation Review Article](https://ssir.org/articles/entry/investing_in_forest_health#) on "Investing in Forest Health"
 - CNBC [Article and Video](https://www.cnbc.com/2019/10/31/new-bond-lets-investors-help-prevent-california-wildfires-and-turn-a-profit.html)  on "There’s a new way for investors to turn a profit while helping California prevent fires" : October 2019
 - Discussion about the health impacts from wildfire smoke from Stanford [here](https://woods.stanford.edu/events/webinar-new-evidence-health-impacts-wildfire-smoke)
- 
+
 #### Finance Basics
 - [Conservation Finance 101](https://www.conservationfinancenetwork.org/conservation-finance-101)
 - [Pay For Performance Overview](https://www.enviroaccounting.com/payforperformance/Program/Display/overview)
