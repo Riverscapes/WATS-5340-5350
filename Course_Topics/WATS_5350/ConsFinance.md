@@ -7,21 +7,71 @@ weight: 3
 
 Despite tens of billions of dollars being spent annually on restoring riverscapes, we are nowhere near scratching the scope of the problem. There is way more work that needs to be done, than we are getting done.  Restoration tends to be primarily be implemented with funding from grants and program-specific contracts. The vast majority of restoration funding comes from revenue from tax-payers and/or rate-payers (e.g. utilities and ) and a variety of mechanisms are used to make awards and get projects implemented. However, these standard methods of procurement are typically subject to local, state and/or federal contracting guidelines and limitations, and are difficult to organize for larger projects or plan for phased implementation.  The current pace of spending and action is far too little.
 
-Similar problems exist in restoring forests.  Some innovative thinkers from [Blue Forest Conservation](https://www.blueforestconservation.com/) developed a Forest Resilience Bond as a mechanism to tackle some similar challenges faced in forest restoration.  See how it works in this short video:
+<a href="https://www.blueforest.org/forest-resilience-bond"><img class="float-right" src="{{ site.baseurl }}/assets/images/specific/RB.png"></a> Similar problems exist in restoring forests.  Some innovative thinkers from [Blue Forest Conservation](https://www.blueforestconservation.com/) developed a Forest Resilience Bond as a mechanism to tackle some similar challenges faced in forest restoration.  
 
-<div class="responsive-embed">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_qKRaKJEpiY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-We are working with Blue Forest Conservation to expand the concept to other forms of restoration (riverscape, watershed and rangelands), and are working on getting projects going right here in the Bear River Watershed. You are going to be working on one LTPBR project at the heart of this effort.  Blue Forest co-founder and COO [Nick Wobbrock](https://www.blueforest.org/meet-the-team) and Senior Project Associate  [Peter Wyrsch](https://www.blueforest.org/meet-the-team) have generously oferred to come meet with you and share these innovative conservation financing mechanisms that could be come critical tools in scaling up restoration efforts in your future. 
+We are working with Blue Forest Conservation to expand the concept to other forms of restoration (riverscape, watershed and rangelands), and are working on getting projects going right here in the Bear River Watershed. You are going to be working on one LTPBR project at the heart of this effort.  Blue Forest co-founder and COO [Nick Wobbrock](https://www.blueforest.org/meet-the-team) and Senior Project Associate  [Peter Wyrsch](https://www.blueforest.org/meet-the-team) have generously offered to come meet with you and share these innovative conservation financing mechanisms that could be come critical tools in scaling up restoration efforts in your future. 
 
 # Preparation for Discussion
 
-## Read
+Prior to class on Friday, please prepare by watching and reading the following:
+
+## 1. Watch Era of Mega Fires
+
+Please watch this TedX Talk  to appreciate the scope of the wildfire and forest health problem. 
+<div  class="row small-up-2 medium-up-2">
+
+
+   <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>TedX Talk - Living (Dangerously) in Era of Megafires</h4>
+        <div class="responsive-embed"> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/edDZNkm8Mas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+
+
+</div>
+<i class="fa fa-clock-o" aria-hidden="true"></i> 15 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i> by Paul Hessburg
+      </div>
+    </div>
+  </div>
+</div>
+## 2. Watch - What is a resilience bond?
+
+Next, watch this short video from Blue Forest to understand what a resilience bond is.
+
+<div class="row small-up-2 medium-up-2">
+
+
+
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>How Forest Resilency Bond Works</h4>
+        <div class="responsive-embed"> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rwbXzTNwiww" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+
+
+</div>
+<i class="fa fa-clock-o" aria-hidden="true"></i> 3 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i>
+      </div>
+    </div>
+  </div>
+</div>
+
+## 3. Read "More than Finance"
 
 Please read Wobbrock (2019) on ["More than Finance: The Non-Monetary Benefits of the Forest Resilience Bond"](https://www.blueforest.org/journal/more-than-finance-the-non-monetary-benefits-of-the-forest-resilience-bond).
 
-## Watch Lecture
+
+
+## 4. Watch Lectures
 In order to be prepared for our discussion with Nick and Peter, please watch their lectures below before class and come with questions.
 
 <div class="row small-up-2 medium-up-2">
@@ -62,9 +112,30 @@ In order to be prepared for our discussion with Nick and Peter, please watch the
   </div>
 </div>
 
+## 5. Watch Ted Talk (Optional)
+If this excites you, you may also want to watch Leigh Maderia's talk.
+<div  class="row small-up-2 medium-up-2">
+<div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>TEDx Talk - Fighting Fire with Finance</h4>
+        <div class="responsive-embed"> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s1d-Yh-tOic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+
+
+</div>
+<i class="fa fa-clock-o" aria-hidden="true"></i> 12 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i> TedX Talk
+      </div>
+    </div>
+  </div>
+</div>
+
 ------
 
-# Resources and Further Information
+# Additional Resources and Further Information
 
 
 
@@ -105,7 +176,7 @@ Impact Alpha [Podcast - On Agent of Impact](https://anchor.fm/impact-alpha/episo
 
 <iframe src="https://anchor.fm/impact-alpha/embed/episodes/Agent-of-Impact-Zach-Knight-entcqt/a-a45772l" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
-##### Videos
+##### Additional Videos
 
 <div class="row small-up-2 medium-up-2">
 
@@ -127,60 +198,5 @@ Impact Alpha [Podcast - On Agent of Impact](https://anchor.fm/impact-alpha/episo
     </div>
   </div>
 
-  <div class="column">
-    <div class="card">
-
-
-      <div class="card-section">
-        <h4>TEDx Talk - Fighting Fire with Finance</h4>
-        <div class="responsive-embed"> 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/s1d-Yh-tOic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-
 
 </div>
-<i class="fa fa-clock-o" aria-hidden="true"></i> 12 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i> TedX Talk
-      </div>
-    </div>
-  </div>
-</div>
-<div class="row small-up-2 medium-up-2">
-
-
-  <div class="column">
-    <div class="card">
-
-
-      <div class="card-section">
-        <h4>TedX Talk - Living (Dangerously) in Era of Megafires</h4>
-        <div class="responsive-embed"> 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/edDZNkm8Mas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-
-
-</div>
-<i class="fa fa-clock-o" aria-hidden="true"></i> 15 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i> by Paul Hessburg
-      </div>
-    </div>
-  </div>
-
-  <div class="column">
-    <div class="card">
-
-
-      <div class="card-section">
-        <h4>How Forest Resilency Bond Works</h4>
-        <div class="responsive-embed"> 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rwbXzTNwiww" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-
-
-</div>
-<i class="fa fa-clock-o" aria-hidden="true"></i> 3 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i>
-      </div>
-    </div>
-  </div>
-</div>
-
-
-
