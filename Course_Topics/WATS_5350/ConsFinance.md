@@ -15,8 +15,13 @@ Similar problems exist in restoring forests.  Some innovative thinkers from [Blu
 
 We are working with Blue Forest Conservation to expand the concept to other forms of restoration (riverscape, watershed and rangelands), and are working on getting projects going right here in the Bear River Watershed. You are going to be working on one LTPBR project at the heart of this effort.  Blue Forest co-founder and COO [Nick Wobbrock](https://www.blueforest.org/meet-the-team) and Senior Project Associate  [Peter Wyrsch](https://www.blueforest.org/meet-the-team) have generously oferred to come meet with you and share these innovative conservation financing mechanisms that could be come critical tools in scaling up restoration efforts in your future. 
 
+# Preparation for Discussion
 
-# Lecture
+## Read
+
+Please read Wobbrock (2019) on ["More than Finance: The Non-Monetary Benefits of the Forest Resilience Bond"](https://www.blueforest.org/journal/more-than-finance-the-non-monetary-benefits-of-the-forest-resilience-bond).
+
+## Watch Lecture
 In order to be prepared for our discussion with Nick and Peter, please watch their lectures below before class and come with questions.
 
 <div class="row small-up-2 medium-up-2">
