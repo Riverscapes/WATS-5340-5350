@@ -85,11 +85,11 @@ In order to be prepared for our discussion with Nick and Peter, please watch the
         <h4>Video</h4>
         <div class="responsive-embed"> 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BTvwWGsw2nc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL0ZiZg4rilzImj5xdmu7oadfe8SVdChGA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
 
 </div>
-<i class="fa fa-clock-o" aria-hidden="true"></i> xx minutes PLACEHOLDER <i class="fa fa-youtube-play" aria-hidden="true"></i>
+<i class="fa fa-clock-o" aria-hidden="true"></i> 46 minutes  <i class="fa fa-youtube-play" aria-hidden="true"></i>
       </div>
     </div>
   </div>
@@ -101,10 +101,10 @@ In order to be prepared for our discussion with Nick and Peter, please watch the
       <div class="card-section">
         <h4>Slides</h4>
     <div align="center">
-        	<a href="" target="_blank"><img src="{{ site.baseurl }}/assets/images/lectures/2021-WATS5350_Week1_Design.png"></a>
+        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2021/WATS5350_Module_03_ConservationFinance.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/lectures/2021-WATS5350_Module3.png"></a>
         	</div>
         
-        <br><br> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="" target="_blank"> Slides (PLACEHOLDER)</a>
+        <br><br> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2021/WATS5350_Module_03_ConservationFinance.pdf" target="_blank"> Slides </a>
         
       </div>
     </div>
