@@ -73,7 +73,6 @@ Please read Wobbrock (2019) on ["More than Finance: The Non-Monetary Benefits of
 
 ## 4. Watch Lectures
 In order to be prepared for our discussion with Nick and Peter, please watch their lectures below before class and come with questions.
-
 <div class="row small-up-2 medium-up-2">
 
 
@@ -82,7 +81,7 @@ In order to be prepared for our discussion with Nick and Peter, please watch the
 
 
       <div class="card-section">
-        <h4>Video</h4>
+        <h4>Nick's Lecture</h4>
         <div class="responsive-embed"> 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL0ZiZg4rilzImj5xdmu7oadfe8SVdChGA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
@@ -111,6 +110,45 @@ In order to be prepared for our discussion with Nick and Peter, please watch the
 
   </div>
 </div>
+<div class="row small-up-2 medium-up-2">
+
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Peter's Lecture</h4>
+        <div class="responsive-embed"> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W2utamQJP8I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+
+
+</div>
+<i class="fa fa-clock-o" aria-hidden="true"></i> 14 minutes  <i class="fa fa-youtube-play" aria-hidden="true"></i>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Slides</h4>
+    <div align="center">
+        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2021/WATS5350_Module_03_ConservationFinance_Peter.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/lectures/2021-WATS5350_Module3-Peter.png"></a>
+        	</div>
+        
+        <br><br> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2021/WATS5350_Module_03_ConservationFinance_Peter.pdf" target="_blank"> Slides </a>
+        
+      </div>
+    </div>
+
+  </div>
+</div>
+
+
 
 ## 5. Watch Ted Talk (Optional)
 If this excites you, you may also want to watch Leigh Maderia's talk.
