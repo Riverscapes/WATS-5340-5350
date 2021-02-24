@@ -1,5 +1,5 @@
 ---
-title: 2020 - Birch Creek
+title: 2020 & 2021 - Birch Creek
 weight: 3
 ---
 
@@ -8,14 +8,14 @@ weight: 3
 # Intro to Birch Creek
 <a href="https://photos.app.goo.gl/XA7iTzxAKcE9Pf9MA"><img class="float-right" src="{{ site.baseurl }}/assets/images/projects/birch/BirchFall.JPG"></a>
 
-The WATS 5350 Spring 2020 class focused on [Birch Creek, Idaho](https://earth.app.goo.gl/n9RRA6) in southeast Idaho. Birch Creek is a left-bank tributary to Mink Creek, which is tributary to the Bear River just downstream of Oneida Narrows.  The project is on landowner and rancher Jay Wilde's deeded ground.  
+The WATS 5350 Spring 2020 and 2021 classes focused on [Birch Creek, Idaho](https://earth.app.goo.gl/n9RRA6) in southeast Idaho. Birch Creek is a left-bank tributary to Mink Creek, which is tributary to the Bear River just downstream of Oneida Narrows.  The project is on landowner and rancher Jay Wilde's deeded ground.  
 
 Jay is excited to see if the success of beaver reintroduction facilitated by low-tech BDAs on Birch Creek on USFS land upstream of his ranch can be extended downstream on to his own property. **The goals of this project are to improve riverscape health and restore perennial flow.**
 
 ## For more information on Birch Creek
 <div class="row small-up-2 medium-up-2 large-up-4" align="center">
 
-     
+​     
 
  <div class="column column-block">
     <a class="hollow button" href="http://lowtechpbr.restoration.usu.edu/resources/casestudies/birch.html" target="_blank"><img src="{{ site.baseurl }}/assets/images/projects/birch/wilde.png"> <br> LTPBR <b>Birch Creek, Utah</b><br>Case Study Information </a>
