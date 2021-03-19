@@ -9,9 +9,38 @@ weight: 3
 <a href="https://www.nrcs.usda.gov/wps/portal/nrcs/main/national/technical/cp/"><img class="float-right" src="{{ site.baseurl }}/assets/images/nrcseprd.png"></a> 
 We returned to the basic planning steps from the typical [restoration process]({{ site.baseurl }}/Course_Topics/WATS_5340/Restoration_Process.html) we introduced [last semester]({{ site.baseurl }}/Course_Topics/WATS_5340/).  Here we use the USDA's Natural Resource Conservation Service's [Conservation Planning Process](https://www.nrcs.usda.gov/wps/portal/nrcs/main/national/technical/cp/) (NRCS, 2007), as an example of the restoration planning process and then elaborate on what aspects of that process are distinctive for low-tech restoration. 
 
-### Slides
+## Lectures
 
-<div class="responsive-embed">
+See [Moudle 3](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module3) and [Resources](http://lowtechpbr.restoration.usu.edu/resources/Topics/03_Planning/)
+
+Module 3 Playlist (see [here](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module3) for slides and other info)
+
+<div class="row small-up-2 medium-up-2">
+
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Moudle 3 - Workshop Playlist</h4>
+        <div class="responsive-embed"> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLjhZYBVnXmga114fdPTOzh60t8lDUm_Mi" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<br>
+
+
+</div>
+<i class="fa fa-clock-o" aria-hidden="true"></i> Half-Day Virtual Workshop <i class="fa fa-youtube-play" aria-hidden="true"></i>
+      </div>
+    </div>
+  </div>
+
+  
+</div>
+### Old 2020 Slides
+
+<div class="responsive-embed" >
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT_Nsb4nGv3zbu2zKt0S8Q1UfWuR-3ea3lVlvsUNS_8Ce6oOyGIv5BWrgbs9ntnddXYj47EIzzIxxYd/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
