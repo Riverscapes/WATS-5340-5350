@@ -10,6 +10,17 @@ On Canvas, you were set a [Low-Tech Planning Assignment](https://usu.instructure
 <iframe width="560" height="315" src="https://www.youtube.com/embed/buOS09oI_4U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+## Report Template
+
+Please use [this Google Docs template](https://docs.google.com/document/d/1Su6NV2mZ4Z8f3hJI7gtVs-DWKYRSYGbIcKJLadyrGL8/edit?usp=sharing) <i class="fa fa-file-text" aria-hidden="true"></i> for the report. Please share it with your instructor(s),  so they can give you suggestions when you submit your project. We show you how to use it in this video:
+<div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NyxCr0p9XHU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+### Using Zotero Cite While You Write Add-ON
+[Zotero](https://www.zotero.org) is a powerful and free citation and bibliography manager (alternative to EndNote), which you can use to keep track of your citations. [This help reference](https://www.zotero.org/support/google_docs) explains how to use Zotero with Google Docs. You will need [Zotero Connector Extension](https://chrome.google.com/webstore/detail/zotero-connector/ekhagklcjbdpajgpjgmbionohlpdbjgc?hl=en) installed in your browser for it tow work with Google Docs.
+
+
+
 ------
 # Resources
 
@@ -22,15 +33,25 @@ The project site description & scope is really a synthesis of what I laid out fo
 | Resource Type | Suggested Resource Link | Notes or Alternative Resource |
 |------------------------|-------------------------|-------------------------------|
 | Diamondback Wilde Ranch Property Boundary |  [<i class="fa fa-file-archive-o" aria-hidden="true"></i> DiamondbackW.zip](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/birch/DiamondBackW_Ranch.zip) - 0.07 MB | This is the property boundary for Jay's land. |
+| Middle Bear Riverscapes Context |  [<i class="fa fa-file-archive-o" aria-hidden="true"></i> Riverscapes_Context_HUC8_16010202.zip](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/birch/Riverscapes_Context_HUC8-16010202.zip) - 1.1 GB | This is a Riverscapes Context Project from the [Warehouse](https://data.riverscapes.xyz/#/PUBLIC_DATA/22c83b87-0815-4ea3-9809-547567c7654d). |
 | High Resolution Ortho-Photo | 2 cm resolution Orthophoto from March 15, 2020 [Drone Deploy <i class="fa fa-location-arrow" aria-hidden="true"></i>](https://www.dronedeploy.com/app2/data/5e6eb01ca8b7a98011992e20;jwt_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJleHAiOjI1MzQwMjMwMDc5OSwiaWQiOiI1ZTZlYjAxY2E4YjdhOTgwMTE5OTJlMjAiLCJzY29wZSI6WyIzNzNjNzEyN2U2X0Y1MDlBQTI4NDVPUEVOUElQRUxJTkUiXSwidHlwZSI6IlJlYWRPbmx5UGxhbiJ9.tfH--qbaszSn9h8MWom0p8C1UY5eL04N8jtQe7083PpnG6oRjr4jVJH6ysBf6IkU-__yBDqq-S4F8443NxCb3Q) Flight: [<i class="fa fa-file-archive-o" aria-hidden="true"></i> Orthomosaic.zip](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/birch/DroneDeploy/BirchCreekWildeProperty_Orthomosaic_MonMar16035131.333880.zip) - 311 MB | This is from structure-from-motion photogrammetric analysis of a UAV flight. While precise and high resolution, it is not necessarily positionally very accurate (+/- 2 to 5 m), but has high relative accuracy and will more than suffice for basemapping efforts.|
 | High Resolution Digital Surface Elevation Model | 2 cm resolution Orthophoto from March 15, 2020 [Drone Deploy <i class="fa fa-location-arrow" aria-hidden="true"></i>](https://www.dronedeploy.com/app2/data/5e6eb01ca8b7a98011992e20;jwt_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJleHAiOjI1MzQwMjMwMDc5OSwiaWQiOiI1ZTZlYjAxY2E4YjdhOTgwMTE5OTJlMjAiLCJzY29wZSI6WyIzNzNjNzEyN2U2X0Y1MDlBQTI4NDVPUEVOUElQRUxJTkUiXSwidHlwZSI6IlJlYWRPbmx5UGxhbiJ9.tfH--qbaszSn9h8MWom0p8C1UY5eL04N8jtQe7083PpnG6oRjr4jVJH6ysBf6IkU-__yBDqq-S4F8443NxCb3Q) Flight: [<i class="fa fa-file-archive-o" aria-hidden="true"></i> ElevationToolbox.zip](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/birch/DroneDeploy/BirchCreekWildeProperty_ElevationToolbox_MonMar16035203.044315.zip) - 43 MB | This is from structure-from-motion photogrammetric analysis of a UAV flight. This is a visual (RGB) representatoin of the DSM, and the values are a color ramp and hillshade representaton, NOT actual elevations. This is good for interpretive mapping, but not analysis.|
 | High Resolution Vegetation Model | NDVI (normalied difference vegetation index) estimate of vegetation from March 15, 2020 [Drone Deploy <i class="fa fa-location-arrow" aria-hidden="true"></i>](https://www.dronedeploy.com/app2/data/5e6eb01ca8b7a98011992e20;jwt_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJleHAiOjI1MzQwMjMwMDc5OSwiaWQiOiI1ZTZlYjAxY2E4YjdhOTgwMTE5OTJlMjAiLCJzY29wZSI6WyIzNzNjNzEyN2U2X0Y1MDlBQTI4NDVPUEVOUElQRUxJTkUiXSwidHlwZSI6IlJlYWRPbmx5UGxhbiJ9.tfH--qbaszSn9h8MWom0p8C1UY5eL04N8jtQe7083PpnG6oRjr4jVJH6ysBf6IkU-__yBDqq-S4F8443NxCb3Q) Flight: [<i class="fa fa-file-archive-o" aria-hidden="true"></i> NDVIToolbox.zip](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/birch/DroneDeploy/BirchCreekWildeProperty_NDVIToolbox_MonMar16035352.045059.zip) - 350.8 MB | This is from structure-from-motion photogrammetric analysis of a UAV flight. This is a rough NDVI estimate of vegetation, which can discriminate spectral signals, but is not reliable for mapping vegetation types.|
 
+### Working with Riverscapes Context
+Perhaps the most useful broader context from the basemaps above. You will need to have the latest version of RAVE installed in ArcGIS to use these layers (though you can work with them manually without RAVE in both ArcGIS and QGIS). This video shows you what is available in that  [<i class="fa fa-file-archive-o" aria-hidden="true"></i> Riverscapes_Context_HUC8_16010202.zip](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/birch/Riverscapes_Context_HUC8-16010202.zip)  project:
+
+<div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KMNnVL4x6-w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ### UAV Imagery
+For more site-specific and detailed context, we have provided above a bunch of basemap resources from a March 15, 2020 drone flight.
 
 #### Pre Project
 Here is a link to a  [Drone Deploy Flight <i class="fa fa-location-arrow" aria-hidden="true"></i>](https://www.dronedeploy.com/app2/data/5e6eb01ca8b7a98011992e20;jwt_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJleHAiOjI1MzQwMjMwMDc5OSwiaWQiOiI1ZTZlYjAxY2E4YjdhOTgwMTE5OTJlMjAiLCJzY29wZSI6WyIzNzNjNzEyN2U2X0Y1MDlBQTI4NDVPUEVOUElQRUxJTkUiXSwidHlwZSI6IlJlYWRPbmx5UGxhbiJ9.tfH--qbaszSn9h8MWom0p8C1UY5eL04N8jtQe7083PpnG6oRjr4jVJH6ysBf6IkU-__yBDqq-S4F8443NxCb3Q) from March 15, 2020, an an interactive map below:
 
+Not currently displaying (use links above to download datasets derived from this flight)
 <div class="responsive-embed">
 <iframe width='500' height='500' src='https://www.dronedeploy.com/app2/data/5e6eb01ca8b7a98011992e20;jwt_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJleHAiOjI1MzQwMjMwMDc5OSwiaWQiOiI1ZTZlYjAxY2E4YjdhOTgwMTE5OTJlMjAiLCJzY29wZSI6WyIzNzNjNzEyN2U2X0Y1MDlBQTI4NDVPUEVOUElQRUxJTkUiXSwidHlwZSI6IlJlYWRPbmx5UGxhbiJ9.tfH--qbaszSn9h8MWom0p8C1UY5eL04N8jtQe7083PpnG6oRjr4jVJH6ysBf6IkU-__yBDqq-S4F8443NxCb3Q'></iframe>
 </div>
@@ -111,8 +132,7 @@ This 7 minute video gives an over of the condition worksheet.
 
 #### Populating Beaver Dam Structure Indicators
 
-<div class="responsive-embed">
-</div>
+
 
 --------
 ### 3. Inventory of Resources
@@ -125,15 +145,17 @@ This 7 minute video gives an over of the condition worksheet.
 
 | Resource Type | Suggested Resource Link | Notes or Alternative Resource |
 |------------------------|-------------------------|-------------------------------|
-|Valley Bottom | Middle Bear River Valley Bottom [<i class="fa fa-file-archive-o" aria-hidden="true"></i> VBET.zip](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/birch/VBET.zip)- 479 MB! | This is an automated output of the [Valley Bottom Extraction Tool](http://rcat.riverscapes.xyz/Documentation/Version_1.0/VBET.html), that has not been validated or hande edited produced with the [Idaho BRAT project](http://brat.riverscapes.xyz/BRATData/USA/IDFG_Idaho/). It is dervied from a 10 m DEM and you should refine (i.e. copy and edit) it with the UAV flight data locally or field evidence. |
+|Valley Bottom 0.3.2 | Middle Bear River Valley Bottom Riverscapes Project [<i class="fa fa-file-archive-o" aria-hidden="true"></i> VBET.zip](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/birch/Valley_Bottom_Extraction_Tool_VBET-16010202.zip)- 1.1 GB! | This is an automated output of the production grade [Valley Bottom Extraction Tool](https://tools.riverscapes.xyz/vbet/), that has not been validated or hand edited produced with the [Riverscapes Consoritum](https://data.riverscapes.xyz/#/Anabranch/ded1754a-cb6f-4f70-81a9-bb21bf10e50d). It is dervied from a 10 m DEM and you should refine (i.e. copy and edit) it with the UAV flight data locally or field evidence. |
 |Valley Bottom Clipped to Project Area | Unedited Still, but clipped to 1 mile project reach [<i class="fa fa-file-archive-o" aria-hidden="true"></i> WildeVBET.zip](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/birch/Birch_Wilde_2020.zip)- 7.6 KB | This is what you can copy and edit! |
 
 ##### Intial Valley Bottom
-This video shows how to work with a [VBET](http://rcat.riverscapes.xyz/Documentation/Version_1.0/VBET.html) output using [RAVE](https://rave.riverscapes.xyz) to get a first-cut preliminary valley bottom (i.e. riverscapes) for your project area:
+This video shows how to work with the older  [VBET](https://tools.riverscapes.xyz/vbet/) output using [RAVE](https://rave.riverscapes.xyz) to get a first-cut preliminary valley bottom (i.e. riverscapes) for your project area:
 
 <div class="responsive-embed">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/getTYkolo1U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KQlxsTvb8g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+For 2020 class, [this](https://www.youtube.com/embed/getTYkolo1U) is the older video from the older [VBET 1.0](http://rcat.riverscapes.xyz/Documentation/Version_1.0/VBET.html)  dataset.
 
 ##### Manually Edit & Refine Valley Bottom
 This next video shows you how to refine your valley bottom mapping using some of the UAV imagery as a line of evidence and the VBET output as a starting point:
