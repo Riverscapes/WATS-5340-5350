@@ -54,47 +54,15 @@ settings:
   # IF you don't need this just comment out everything below
   # ----------------------------------
   topmenu:
-    - title: "Riverscapes"
-      childern:
-        - title: "Model Home"
-          url: index
-        - title: "Riverscapes Home"
-          url: http://riverscapes.xyz
-        - title: "About Riverscapes"
-          url: http://riverscapes.xyz/about.html
-        - title: "Who We Are"
-          url: http://riverscapes.xyz/who-we-are.html
-        - title: "News"
-          url: http://riverscapes.xyz/news.html
-    - title: "RC Tools"
-      url: http://riverscapes.xyz/rc-tools.html
-    - title: "RC Science"
-      url: http://riverscapes.xyz/rc-science.html
-    - title: "RC Data"
-      url: http://riverscapes.xyz/rc-data.html
-    - title: "RC Help"
-      url: http://riverscapes.xyz/rc-help.html
+    - title: "USU Restoration Consortium"
+      url: http://restoration.usu.edu/
+    - title: "USU Watershed Sciences Department"
+      url: https://qcnr.usu.edu/wats/
+    - title: "LTPBR"
+      url: http://lowtechpbr.restoration.usu.edu/
+    - title: "Riverscapes Consortium"
+      url: https://riverscapes.xyz
 
-# Redirecting from apps can be tricky so we use a key-value system
-# key: must be in the set [A-Za-z0-9_] (no spaces, no dashes)
-# url: must be relative url, no leading slash.
-# 
-# The url you have to call is: http://siteurl.com/baseurl/?APPKEY=KEY1
-# ---------------------------------------------------------------
-AppRedirects:
-  - key: NewProject
-    url: Help/Commands/project-menu/new-project.html
-  - key: KEY2
-    url: Download/release_notes.html
-  - key: OpenProject
-    url: Help/Commands/project-menu/open-project.html
-  - key: CleanRaster
-    url: Help/Commands/data-prep-menu/a-clean-raster-tool.html
-  - key: NewDEM
-    url: Help/Commands/gcd-project-explorer/Inputs/DEM_Surveys/add-dem-survey.html
-  - key: frmLinearExtractionProperties
-    url: Help/Commands/gcd-project-explorer/Inputs/DEM_Surveys/DEMSurvey/CalculateLinearExtraction.html	
-  - key: frmSurfaceProperties
-    url: Help/Commands/gcd-project-explorer/Inputs/DEM_Surveys/DEMSurvey/edit-dem-survey-properties.html
-  - key: frmProfileRouteProperties
-    url: Help/Commands/gcd-project-explorer/Inputs/ProfileRoutes/
+
+
+
