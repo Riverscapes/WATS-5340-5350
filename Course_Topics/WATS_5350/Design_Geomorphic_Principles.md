@@ -105,7 +105,7 @@ If you want to print out just the [exercises](https://s3-us-west-2.amazonaws.com
         	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2021/WATS5350_Module_01_GeomorphicPrinciples.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/lectures/2021-WATS5350_Week1_Geo_A.png"></a>
         	</div>
         
-        <br><br> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2021/WATS5350_Module_01_GeomorphicPrinciples.pd" target="_blank">Module 1  - Part 2  Slides</a>
+        <br><br> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2021/WATS5350_Module_01_GeomorphicPrinciples.pdf" target="_blank">Module 1  - Part 2  Slides</a>
         
       </div>
     </div>
@@ -153,5 +153,4 @@ Download all materials below to easy to find place (e.g. `c:\0_Logan`).
 <iframe width="560" height="315" src="https://www.youtube.com/embed/90wbto5YQRg?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 - Optional [Geomorphic Change Detection](http://gcd.riverscapes.xyz) from April 2016 to August 2016 [GCD 6 Project](https://usu.box.com/v/2016-2017GCD) or [GCD 7 Project](https://usu.box.com/v/LoganRiver2016-GCD-7) - see [this video for GCD 7](https://youtu.be/u4w1pa3IAAY)
-
 
