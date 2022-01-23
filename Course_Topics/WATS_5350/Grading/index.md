@@ -29,17 +29,14 @@ To give you first hand experience in converting conceptual designs into actual g
 
 ## Resources
 
-### In-Class Exercises
+### Homework & Exercises
 
 <div class="row small-up-2 medium-up-2 large-up-3" align="center">
   <div class="column column-block">
-	<a class="button hollow" href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2021/WATS5350_Module_02_Grading.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>  Manual Grading Excercies -2021</a>
-  </div>
-<div class="column column-block">
-	<a class="button hollow" href="{{ site.baseurl }}/Course_Topics/WATS_5350/Grading/Manual-Grading"><i class="fa fa-hand-rock-o" aria-hidden="true"></i>  Manual Grading Excercies  2020</a>
+	<a class="button hollow" href="{{ site.baseurl }}/Course_Topics/WATS_5350/Grading/Manual-Grading.html"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>  Manual Grading Excercies <br> Part 1 - Week 1 of 2</a>
   </div>
   <div class="column column-block">
-	<a class="button hollow" href="{{ site.baseurl }}/Course_Topics/WATS_5350/Grading/GIS-Grading"><i class="fa fa-globe" aria-hidden="true"></i>  GIS Grading Excercise</a>
+	<a class="button hollow" href="{{ site.baseurl }}/Course_Topics/WATS_5350/Grading/GIS-Grading"><i class="fa fa-globe" aria-hidden="true"></i>  GIS Grading Excercise <br> Part 2 - Week 2 of 2</a>
  </div>
 
 
@@ -118,7 +115,6 @@ You may also find Strom & Nathan's (2013) [Site Engineering for Landscape Archit
 
 Also see:
 - Matusik, J & Deible D. (2004) [Chapter 24: Grading & Earthwork](http://my.fit.edu/~locurcio/14-Civil%20&%20Const%20handbooks/Land%20Development/Ch24-Earthwork.pdf) in Land Development Handbook. McGraw-Hill. pp 545-593.
-
 
 
 
