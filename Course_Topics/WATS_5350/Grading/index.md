@@ -99,6 +99,13 @@ To give you first hand experience in converting conceptual designs into actual g
 
 
 </div>
+<i class="fa fa-clock-o" aria-hidden="true"></i> 1 hour 35  minutes <i class="fa fa-youtube-play" aria-hidden="true"></i>
+      </div>
+    </div>
+  </div>
+
+</div>
+
 
 #### OLD - 2018-2020
 
