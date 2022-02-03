@@ -82,6 +82,24 @@ To give you first hand experience in converting conceptual designs into actual g
   </div>
 </div>
 
+### Homework Hint
+
+<div class="row small-up-2 medium-up-2">
+
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Video</h4>
+        <div class="responsive-embed"> 
+
+<iframe width="560" height="315" src="https://youtu.be/pnYWl5nd_sg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+</div>
+
 #### OLD - 2018-2020
 
 <div class="responsive-embed">
