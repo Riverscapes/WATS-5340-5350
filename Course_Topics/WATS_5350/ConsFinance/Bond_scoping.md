@@ -2,12 +2,17 @@
 title: Bond Scoping Exercise
 weight: 2
 ---
+<div  align="center">
+
+
+	<a class="button hollow" href="{{ site.baseurl }}/Course_Topics/WATS_5350/ConsFinance/"><i class="fa fa-arrow-circle-o-left" aria-hidden="true"></i>  Back to Resilience Bonds <br> Parent Module</a>
+ </div>
 
 ## Background
 
-<img src="{{ site.baseurl }}/assets/images/howmuch.png" class="float-right"> If a bond is essentially a loan (or financing) that can support implementation a "project", we need to know what is the scope of the proposed work (e.g. where is it, how big is it, how many acres, how many miles) and fundamentally **how much is it going to cost?** 
+<img src="{{ site.baseurl }}/assets/images/howmuch.png" class="float-right"> If a bond is essentially a loan (or financing) that can support implementation a "project", we need to know _what is the scope of the proposed work_ (e.g. _where is it, how big is it, how many acres, how many miles_) and fundamentally **how much is it going to cost?** 
 
-Later, we will also need to know who is going to pay for it (i.e. beneficiaries), what their ability to pay for it is, and how much the work is worth to those paying for it. In this exercise, we're just trying to land at a defensible estimate of what is the restoration we want to propose is going to cost. You wouldn't ask a bank for a loan for a house (i.e. a mortgage) without knowing how much the property is selling for (i.e. purchase price). The bank will do its due diligence and a) independently confirm with an appraisal that the house is worth more than you are asking for in the loan, and b) make sure that you are able to pay that back (e.g. employment, assets, income, credit score etc.). We're not dealing with those pieces yet for this exercise. We are just looking on Zillow and seeing how much the type of home we want to buy in this town is going to cost us and whether that buys us a 1 bedroom studio apartment, a 3 bedroom townhome, or a 5 bedroom house. 
+Later, we will also need to know  _who is going to pay for it_(i.e. beneficiaries), _what is their ability to pay for_, and _how much the work is worth to those paying for it_. In this exercise, we're just trying to land at a defensible estimate of _what is the restoration we want to propose_ and _how much is going to cost_. You wouldn't ask a bank for a loan for a house (i.e. a mortgage) without knowing how much the property is selling for (i.e. purchase price). The bank will do its due diligence to a) independently confirm with an appraisal that the house is worth more than you are asking for in the loan, and b) make sure that you are able to pay that back (e.g. employment, assets, income, credit score etc.). We're not dealing with those pieces yet for this exercise. We are just looking on Zillow and seeing how much the type of home we want to buy in this town is going to cost us and whether that buys us a 1 bedroom studio apartment, a 3 bedroom townhome, or a 5 bedroom house. 
 
 ## The Assignment
 
@@ -25,9 +30,10 @@ To support your analysis, please use the following assumptions on implementation
 To identify your upland treatments:
 
 - Maybe filter down to just PJ and or Douglas Fir on land that looks treatable (e.g. USFS / BLM ownership) or large private tracts (ignore lots of small parcels)
-- Filter to just the BRAT Low-Hanging-Fruit Result
 
-To identify your LTPBR treatments: just filter down and use the length that is 
+
+To identify your LTPBR treatments: 
+- Just filter down and use the length in the `Conservation and Restoration Opportunties` management layer and - filter to just the`Low-Hanging-Fruit` result. - Optionally, maybe also filter down to just public BLM and USFS lands. 
 
 -----
 ## Some Supporting GIS to Help You

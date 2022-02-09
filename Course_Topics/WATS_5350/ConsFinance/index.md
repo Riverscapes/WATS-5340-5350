@@ -3,6 +3,15 @@ title: Conservation & Restoration Financing
 weight: 3
 ---
 
+<div class="row small-up-2 medium-up-2 large-up-3" align="center">
+
+  <div class="column column-block">
+	<a class="button hollow" href="{{ site.baseurl }}/Course_Topics/WATS_5350/ConsFinance/Bond_scoping"><i class="fa fa-globe" aria-hidden="true"></i>  Bond Scoping Excercise <br> Homework</a>
+ </div>
+
+
+</div>
+
 # Background
 
 Despite tens of billions of dollars being spent annually on restoring riverscapes, we are nowhere near scratching the scope of the problem. There is way more work that needs to be done, than we are getting done.  Restoration tends to be primarily be implemented with funding from grants and program-specific contracts. The vast majority of restoration funding comes from revenue from tax-payers and/or rate-payers (e.g. utilities and ) and a variety of mechanisms are used to make awards and get projects implemented. However, these standard methods of procurement are typically subject to local, state and/or federal contracting guidelines and limitations, and are difficult to organize for larger projects or plan for phased implementation.  The current pace of spending and action is far too little.
@@ -184,6 +193,13 @@ If this excites you, you may also want to watch Leigh Maderia's talk.
 - **Partners:** [US Forest Service](https://www.fs.fed.us/blogs/innovative-new-partnership-will-accelerate-much-needed-restoration-work-public-and-private), World Resources Institute, Encourage Capital, National Forest Foundation, National Wild Turkey Federation, UC-Merced’s Sierra Nevada Research Institute, The Natural Capital Project and Water in the West at Stanford, and the Sierra Nevada Conservancy. 
 - **Project Investors:** The Rockefeller Foundation, The Gordon and Betty Moore Foundation, CSAA/AAA, Calvert Impact Capital
 
+### Homework
+<div class="row small-up-2 medium-up-2 large-up-3" align="center">
+
+  <div class="column column-block">
+	<a class="button hollow" href="{{ site.baseurl }}/Course_Topics/WATS_5350/ConsFinance/Bond_scoping"><i class="fa fa-globe" aria-hidden="true"></i>  Bond Scoping Excercise <br> Homework</a>
+ </div>
+ </div>
 
 ### Additional Resources
 
