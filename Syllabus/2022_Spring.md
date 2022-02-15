@@ -39,7 +39,7 @@ We will use the same recurring Link:
 
 #### Rough Plan:
 
-Lectures are all pre-recorded and you will watch them prior to class on YouTube for each [module]({{ site.baseurl }}/Modules/). Our class meeting times will be a mix of structured and unstructred discussion based on the reading and lectures, as well as exercises to explore specific concepts in more detail. Class will be pretty dysfunctional and hard to follow if you don't watch the lectures ahead of time.   
+Lectures are all pre-recorded and you will watch them prior to class on YouTube for each [module]({{ site.baseurl }}/Modules/). Our class meeting times will be a mix of structured and unstructured discussion based on the reading and lectures, as well as exercises to explore specific concepts in more detail and do group work. Class will be pretty dysfunctional and hard to follow if you don't watch the lectures ahead of time.   
 
 | Week |                 Date (Fridays @ 1:30-5:00)                 | Module                                           |
 | ---- | :----------------------------------: | ------------------------------------------------ |
@@ -54,13 +54,14 @@ Lectures are all pre-recorded and you will watch them prior to class on YouTube 
 | 7    |                 2/25                 | [Module 5 - Intro to Birch Creek]({{ site.baseurl }}/Course_Topics/WATS_5350/Low-Tech/Projects/birch/)  |
 | 8    |                 3/4                  | [Module 6 - Planning LTPBR]({{ site.baseurl }}/Course_Topics/WATS_5350/Low-Tech/planning.html) |
 |     | Spring Break; No Class |      3/7 to 3/11                                            |
-| 9    |                 3/18                 | [Module 7 -  Adaptive Management, Monitoring and Permitting of LTPBR ]({{ site.baseurl }}/Course_Topics/WATS_5350/Design_Geomorphic_Principles.html) |
-| 10   |                 3/25                 | [Module 6 - Group Planning LTPBR]({{ site.baseurl }}/Course_Topics/WATS_5350/Design_Geomorphic_Principles.html) |
-| 11   |                 4/1                | [Module 8 - Design of LTPBR]({{ site.baseurl }}/Course_Topics/WATS_5350/Design_Geomorphic_Principles.html) |
-| 12   |                 4/8                 | [Module 8 - Group Design of LTPBR]({{ site.baseurl }}/Course_Topics/WATS_5350/Design_Geomorphic_Principles.html) |
+| 9    |                 3/18                 | [Module 7 -  Adaptive Management, Monitoring and Permitting of LTPBR ]({{ site.baseurl }}/Course_Topics/WATS_5350/Low-Tech/adaptive.html) |
+| 10   |                 3/25                 | [Module 6 - Group Planning LTPBR]({{ site.baseurl }}/Course_Topics/WATS_5350/Low-Tech/planning.html) |
+| 11   |                 4/1                | [Module 8 - Design of LTPBR]({{ site.baseurl }}/Course_Topics/WATS_5350/Low-Tech/design.html) |
+| 14   |                 4/2                 |    Saturday Field Trip - **Field Design** @ Birch Creek                                          |
+| 12   |                 4/8                 | [Module 8 - Group Design of LTPBR]({{ site.baseurl }}/Course_Topics/WATS_5350/Low-Tech/design.html) |
 | 13   |                 4/15                  | [Module 9 - Implementation of LTPBR]({{ site.baseurl }}/Course_Topics/WATS_5350/Low-Tech/adaptive.html) |
-| 14   |                 4/22                 | Implementation / Staging |
-| 14   |                 4/23                 |    Saturday Field Trip - Implementaton & Construction                                           |
+| 14   |                 4/22                 | **Implementation** / Staging Equipment & Materials @ Birch Creek |
+| 14   |                 4/23                 |    Saturday Field Trip - **Implementation & Construction** @ Birch Creek                            |
 | 15   |                 4/26                 |     Last Day of Classes USU                                           |
 
 
