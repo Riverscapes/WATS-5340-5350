@@ -20,6 +20,12 @@ Topics include:
 
 
 
+<div align="center">
+	<a class="hollow button" href="{{ site.baseurl }}/Syllabus/#wats-5350-capstone-ii--wats-6350-capstone-mentoring"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">   Canvas Links & Syllabai</a>   
+	</div>
+
+
+
 
 -----
 <div align="center">
