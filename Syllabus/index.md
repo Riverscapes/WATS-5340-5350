@@ -9,7 +9,7 @@ weight: 1
 
 
 
-### WATS 5350 Capstone I
+### WATS 5340 Capstone I
 Students apply the principles, theory, and skills of watershed science to aquatic ecosystem management and restoration projects. Assignments and group projects include diagnosing aquatic ecosystem impairments, objective definition, requests for proposals, restoration planning, regulatory permitting, and conceptual design. Field trips are required.  
 
 
@@ -56,7 +56,7 @@ Students teach and apply principles, theory, and skills required for aquatic eco
 
 ## Schedules
 
-### WATS 5340 Capstone I
+### WATS 5340 Capstone I Schedule
 Note that from Fall 2020, Peter Wilcock became primary instructor of WATS 5340 and switched to a ten-week format.  From Fall 2017 trhough Fall 2019 the Fall WATS 5340 course ran the entire semester and was co-taught by Peter Wilcock & Joe Wheaton. We covered the following topics (kept [here for reference]({{ site.baseurl }}/Course_Topics/WATS_5340) for past students and as an alternative reference for existing. 
 
 Peter provides Syllabus in Canvas now.
@@ -74,7 +74,7 @@ Peter provides Syllabus in Canvas now.
 
 
 
-### WATS 5350 Capstone II & WATS 6350 Capstone Mentoring
+### WATS 5350 Capstone II & WATS 6350 Capstone Mentoring Schedule
 
 #### Syllabai
 
