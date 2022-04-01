@@ -1,5 +1,5 @@
 ---
-title: 2020 & 2021 - Birch Creek
+title: 2020 - 2022 - Birch Creek
 weight: 3
 ---
 
@@ -8,14 +8,21 @@ weight: 3
 # Intro to Birch Creek
 <a href="https://photos.app.goo.gl/XA7iTzxAKcE9Pf9MA"><img class="float-right" src="{{ site.baseurl }}/assets/images/projects/birch/BirchFall.JPG"></a>
 
-The WATS 5350 Spring 2020 and 2021 classes focused on [Birch Creek, Idaho](https://earth.app.goo.gl/n9RRA6) in southeast Idaho. Birch Creek is a left-bank tributary to Mink Creek, which is tributary to the Bear River just downstream of Oneida Narrows.  The project is on landowner and rancher Jay Wilde's deeded ground.  
+The WATS 5350 Spring 2020, 2021 and 2022 classes focused on [Birch Creek, Idaho](https://earth.app.goo.gl/n9RRA6) in southeast Idaho. Birch Creek is a left-bank tributary to Mink Creek, which is tributary to the Bear River just downstream of Oneida Narrows.  The project is on landowner and rancher Jay Wilde's deeded ground.  
 
 Jay is excited to see if the success of beaver reintroduction facilitated by low-tech BDAs on Birch Creek on USFS land upstream of his ranch can be extended downstream on to his own property. **The goals of this project are to improve riverscape health and restore perennial flow.**
+
+
+ <div align="center">
+    <a class="hollow button" href="https://lowtechpbr.restoration.usu.edu/workshops/volunteer" target="_blank"><img src="{{ site.baseurl }}/assets/images/logos/Restoration-PAIRED-05_Horizontal_BlueOnWhite.png"> <br> <b>Register to Volunteer for LTPBR Construction</b><br>on April 23, 2022 @ 8 AM at Birch Creek </a>
+  </div>
+
+
 
 ## For more information on Birch Creek
 <div class="row small-up-2 medium-up-2 large-up-4" align="center">
 
-​     
+
 
  <div class="column column-block">
     <a class="hollow button" href="http://lowtechpbr.restoration.usu.edu/resources/casestudies/birch.html" target="_blank"><img src="{{ site.baseurl }}/assets/images/projects/birch/wilde.png"> <br> LTPBR <b>Birch Creek, Utah</b><br>Case Study Information </a>
@@ -91,7 +98,7 @@ The video is about 35 minutes. Please post any questions you have to the [planni
 
 -----
 
-## Resources for 2020 Students
+## Resources for Capstone Students
 
 <div align="center">
 <a class="button" href="{{ site.baserurl }}/Course_Topics/WATS_5350/Low-Tech/Projects/birch/birchplanning.html"><i class="fa fa-leaf" aria-hidden="true"></i> Conservation Planning Resources for Birch Creek</a> 
@@ -100,17 +107,3 @@ The video is about 35 minutes. Please post any questions you have to the [planni
 
 
 
-
-
-----
-## Student Outputs
-
-At the end of the semester, we'll put your design reports up here.
-
-### Project Reports
-
-
-
-
-
------
