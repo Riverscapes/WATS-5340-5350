@@ -54,7 +54,7 @@ Lectures are all pre-recorded and you will watch them prior to class on YouTube 
 | 13   |                 4/14                  | [Module 9 - Implementation of LTPBR]({{ site.baseurl }}/Course_Topics/WATS_5350/Low-Tech/adaptive.html) |
 | 13   |                 4/14                 | **Implementation** / Staging Equipment & Materials  |
 |    |                 4/15                 |    Saturday Field Trip - **Implementation & Construction**                             |
-| 14   |                 4/21                 |     Last Day of Classes USU                                           |
+| 14   |                 4/21                 |     Present Draft Final Report with As-Built                                           |
 | 15   |               April 25 - Last Day of Class                  |     Final Project Due: April 26                                         |
 
 
