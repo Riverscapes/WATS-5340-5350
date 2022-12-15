@@ -11,8 +11,8 @@ weight: 2
 
 ## Spring 2023 WATS 5350/6350
 <!--- Don't forget to update CRNs and link --->
-- [Management and Restoration of Aquatic Ecosystems Capstone II - CRN - WATS 5350 - 001]()
-- [Capstone Mentoring - CRN - WATS 6350 - 001]()
+- [Management and Restoration of Aquatic Ecosystems Capstone II - CRN 12096- WATS 5350 - 001](https://ss.banner.usu.edu/StudentRegistrationSsb/ssb/classSearch/classSearch)
+- [Capstone Mentoring - CRN 13734- WATS 6350 - 001](https://ss.banner.usu.edu/StudentRegistrationSsb/ssb/classSearch/classSearch)
 
 
 
