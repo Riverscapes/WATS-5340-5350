@@ -18,7 +18,7 @@ weight: 2
 
 | Class     | Time              | Days | Where                     | Dates                 |  Instructors                                                                                         |
 |----------|-------------------|------|---------------------------|-----------------------------|-----------------------------------------------------------------------------------------------------|
-| Individualized Instruction | 1:30 pm - 5:00 pm | Friday | Room   | Jan 9 - May 3,  2023 | Steve Bennett |
+| Individualized Instruction | 1:30 pm - 5:00 pm | Friday | HH120   | Jan 9 - May 3,  2023 | Steve Bennett |
 
 
 
@@ -26,7 +26,7 @@ weight: 2
 
 
 <div align="center">
-<a class="hollow button" href="" target="blank"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>See Spring 2023 Canvas</b><br> For Latest Schedule and Zoom Links</a>
+<a class="hollow button" href="https://usu.instructure.com/courses/720763" target="blank"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>See Spring 2023 Canvas</b><br> For Latest Schedule and Zoom Links</a>
 </div>
 
 #### Rough Plan:
@@ -43,11 +43,11 @@ Lectures are all pre-recorded and you will watch them prior to class on YouTube 
 | 5    |                 2/10                 | [Module 3 - Conservation Finance]({{ site.baseurl }}/Course_Topics/WATS_5350/ConsFinance/) |
 | 6    |                 2/17                 | [Module 4 - Intro to LTPBR]({{ site.baseurl }}/Course_Topics/WATS_5350/Low-Tech/intro.html)  |
 | 7    | Presidents Day Monday 2/21; No Class |                                                  |
-| 7    |                 2/25                 | [Module 5 - Intro to Birch Creek]({{ site.baseurl }}/Course_Topics/WATS_5350/Low-Tech/Projects/birch/)  |
+| 7    |                 2/24                 | [Module 5 - Intro to Birch Creek]({{ site.baseurl }}/Course_Topics/WATS_5350/Low-Tech/Projects/birch/)  |
 | 8    |                 3/4                  | [Module 6 - Planning LTPBR]({{ site.baseurl }}/Course_Topics/WATS_5350/Low-Tech/planning.html) |
 |     | Spring Break; No Class |      3/6 to 3/10                                            |
 | 9    |                 3/17                 | [Module 7 -  Adaptive Management, Monitoring and Permitting of LTPBR ]({{ site.baseurl }}/Course_Topics/WATS_5350/Low-Tech/adaptive.html) |
-| 10   |                 3/24                 | [Module 6 - Group Planning LTPBR]({{ site.baseurl }}/Course_Topics/WATS_5350/Low-Tech/planning.html) |
+| 10   |                 3/24                 | [Module 6 - Individual Planning LTPBR]({{ site.baseurl }}/Course_Topics/WATS_5350/Low-Tech/planning.html) |
 | 10   |                 3/25                 |    Saturday Field Trip - **Field Design** @ Birch Creek                                          |
 | 11   |                 3/31                | [Module 8 - Design of LTPBR]({{ site.baseurl }}/Course_Topics/WATS_5350/Low-Tech/design.html) |
 | 12   |                 4/7                 | [Module 8 - Group Design of LTPBR]({{ site.baseurl }}/Course_Topics/WATS_5350/Low-Tech/design.html) |
@@ -84,7 +84,7 @@ Lectures are all pre-recorded and you will watch them prior to class on YouTube 
 
   <div class="column column-block">
     <a href="https://qcnr.usu.edu/wats/people/graduates/"><img src="{{ site.baseurl }}/assets/images/people/"></a>
-    <h4><a href="">NAME<sup>1</sup></a></h4>
+    <h4><a href="">Sydney Southers<sup>1</sup></a></h4>
     Graduate Student in MoER<br>
    <b>Teaching Assistant</b><br>
    Office Hours by Appointment
@@ -125,7 +125,7 @@ Please use Office Hours (TBD) <i class="fa fa-search" aria-hidden="true"></i>
 
 
 <div align="center">
-<a class="hollow button" href="https://usu.instructure.com/courses/" target="blank"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>See Spring 2023 Canvas</b><br> For Latest Schedule</a>
+<a class="hollow button" href="https://usu.instructure.com/courses/720763" target="blank"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>See Spring 2023 Canvas</b><br> For Latest Schedule</a>
 
 <a class="hollow button" href="{{ site.baseurl }}/Course_Topics/WATS_5350/"><img src="{{ site.baseurl }}/assets/images/presentation.png"> <b>Modules</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a>
 
