@@ -112,7 +112,7 @@ It could take you a very long time to manually digitize polygons looking just at
 We will learn more about the Beaver Restoration Assessment Tool (<a href="https://tools.riverscapes.net/brat/">BRAT</a>) in our LTPBR Planning Module. For now, we are just going to take its analysis of "Conservation and Restoration Opporunities", that are available as fields in the Metric Engine project to approximate where and how much <a href="http://lowtechpbr.restoration.usu.edu/">low-tech PBR restoration</a> to do in your HUC 8. In this 17 minute video, we do the following steps:
 <ol>
 <li>Open up The Metric Engine Synthesis in QViewer in QGIS</li>
-<li>Load any output layer, all available fields for analysis are visible in the attribute table</li>
+<li>Load any output layer, all available fields for analysis are visible in the attribute table. A description of all output layers can be found <a href="https://tools.riverscapes.net/rme/">here</a></li>
 <li>Summarize the total mileage of riverscape where `brat_igo_opportunity` is "Conservation/Appropriate for Translocation" or "Encourage Beaver Expansion/Colonization" </li>
 <li>The field for riverscape length is `centerline_length` and the units are meters.
 <li>Use some simple "Select by Expression" queries to filter down to only the reaches on BLM and USFS land (field `rme_igo_ownership`). </li>
