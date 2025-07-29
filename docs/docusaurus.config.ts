@@ -44,7 +44,7 @@ const config: Config = {
   ],
 
   themeConfig: {
-    image: 'images/logo.png', // Social sharing image
+    image: 'img/logo.png', // Social sharing image
 
     algolia: {
       // The application ID provided by Algolia
@@ -83,7 +83,7 @@ const config: Config = {
       title: 'Management of Restoration & Aquatic Ecosystems Capstone I & II', // Navbar title
       logo: {
         alt: 'MRAE Logo',
-        src: 'images/logo.png',
+        src: 'img/logo.png',
       },
       items: [
         // { to: '/menu', label: 'MENU HERE', position: 'left' },
