@@ -33,7 +33,7 @@ Learning Outcomes for the second semester include:
 5. *Develop* a pragmatic **Adaptive Management Plan** for a real project.
 6. Get first-hand experience **constructing & implementing** a ‘cheap and cheerful’ restoration project by *building* structures you *designed*.
 7. Understand the principles of **Post Project Appraisals and Monitoring** and how to evaluate overall restoration objectives and test design hypotheses. 
-8. *Apply* the evaluation and adjust loops of an **Adaptive Management Plan ** to see how the process of learning-by-doing can work.
+8. *Apply* the evaluation and adjust loops of an **Adaptive Management Plan** to see how the process of learning-by-doing can work.
 
 ---
 Note: The words in *italics* above refer to specific types of learning objectives (cesnu [Bloom's Taxonomy](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/)), whereas the **bold** words describe the specific topics students will be developing those skills with respect to. 

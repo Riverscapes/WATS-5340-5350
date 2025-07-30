@@ -1,0 +1,115 @@
+---
+title: Bond Scoping Exercise
+sidebar_position: 2
+---
+
+<ToolsWrapper
+  cards={[{
+    title: 'Back to Resilience Bonds',
+    toolUrl: '/Course_Topics/WATS_5350/ConsFinance/',
+    description: '← Parent Module'
+  }]}
+  cardsize="sm"
+/>
+
+## Background
+
+![How much?](/img/howmuch.png)
+
+If a bond is essentially a loan (or financing) that can support implementation a "project", we need to know _what is the scope of the proposed work_ (e.g. _where is it, how big is it, how many acres, how many miles_) and fundamentally **how much is it going to cost?**
+
+Later, we will also need to know  _who is going to pay for it_ (i.e. beneficiaries), _what is their ability to pay for_, and _how much the work is worth to those paying for it_. In this exercise, we're just trying to land at a defensible estimate of _what is the restoration we want to propose_ and _how much is going to cost_. You wouldn't ask a bank for a loan for a house (i.e. a mortgage) without knowing how much the property is selling for (i.e. purchase price). The bank will do its due diligence to a) independently confirm with an appraisal that the house is worth more than you are asking for in the loan, and b) make sure that you are able to pay that back (e.g. employment, assets, income, credit score etc.). We're not dealing with those pieces yet for this exercise. We are just looking on Zillow and seeing how much the type of home we want to buy in this town is going to cost us and whether that buys us a 1 bedroom studio apartment, a 3 bedroom townhome, or a 5 bedroom house. 
+
+## The Assignment
+
+As discussed in class, you are working in teams to prepare a preliminary answer to the basic question of how much do we need for a proposed resilience bond within an area in the Bear River watershed that your team chooses. Specifically, how much:
+
+- Total **acres** of Proposed *Upland Treatments* (e.g. PJ removal, forest thinning, fuels treatments)
+- Total **miles** of riverscape proposed for *Low-Tech PBR* treatments
+- **Estimated Total Cost** of Proposed Actions (you can provide ranges and medians)
+
+To support your analysis, please use the following assumptions on implementation costs to calculate ranges and medians in your table/spreadsheet:
+
+- For Upland Treatments use: Min cost of $300/acre; Median cost of $1000/acre; Upper cost of $2500 /acre
+- For Riverscape LTPBR Treatments use:  Min cost of $50,000/mile; Upper cost of $100,000/mile; and also a Reference Traditional Restoration cost of $350,000/mile
+
+To identify your upland treatments:
+
+- Maybe filter down the LANDIRE EVT layer to just PJ and/or Douglas Fir on land that looks treatable (e.g. USFS / BLM ownership) or large private tracts (ignore lots of small parcels)
+
+
+To identify your LTPBR treatments: 
+- Just filter down and use the length in the `brat_igo_opportunity` field - filtered to just the`Conservation/Appropriate for Translocation` and `Encourage Beaver Expansion/Colonization` results. - Optionally, maybe also filter down to just public BLM and USFS lands. 
+
+-----
+## Some Supporting GIS to Help You
+
+There are lots of ways to approximate the above, but here is one recommended workflow based on using data from the Data Exchange, QGIS and Q Riverscapes Viewer.
+
+In class, we just used [Web Viewer](https://viewer.riverscapes.net/software-help/help-web/) to look at projects. Below, I show you how to do this in QGIS with [QViewer](https://viewer.riverscapes.net/software-help/help-qgis/) (if you want to install QGIS from scratch for first time, [see here](https://qgis.org/download/) and you can do it < 5 minutes). You can also do same thing in ArcGIS 10.X with [ArcViewer](https://viewer.riverscapes.net/software-help/help-arc/).
+
+### Getting Data from Data Exchange
+
+**Warehouse Info**
+
+In class, we introduced you to the Riverscapes Consortium [Data Exchange](https://data.riverscapes.net/).
+
+For this assignment, it will be easiest to download two projects from the exchange:
+
+- [Bear River Riverscape Metric Engine Synthesis](https://data.riverscapes.net/p/212f1525-7083-4737-afe6-5b3c23e49830/)
+- [Bear River Riverscapes Context](https://data.riverscapes.net/p/dd1318f8-2b3f-49b9-9323-ff007c327195/)
+
+**Video Tutorial**
+
+<YouTubeEmbed videoId="Xlg--J14JAE" title="Data Exchange & QGIS Overview" />
+
+_5 minutes_
+
+### Riverscape Context for Upland Treatments (acres)
+
+**Riverscape Context and LANDFIRE**
+
+It could take you a very long time to manually digitize polygons looking just at the aerial imagery. I show you how you can do that in QGIS in first 5 minutes. A more repeatable and powerful GIS workflow is to filter down based on some GIS layers. In this 55 minute video, we use the [Riverscapes Context](https://tools.riverscapes.xyz/rscontext/) project for a HUC 8 to do the following steps:
+
+1. Use [LANDFIRE](https://landfire.gov) existing vegetation ([EVT](https://landfire.gov/evt.php)) to identify dominant vegetation types and choose some to target for treatment areas.
+2. Create a raster that highlights just those chosen vegetation classes.
+3. Convert that raster to polygons, and calculate acreage.
+4. Clip those polygons based on some other information (i.e. only treat on federal BLM and USFS land).
+5. Use summary statistics to get total acreage.
+6. Fill out spreadsheet with acreage and cost estimates.
+
+**Video Tutorial**
+
+<YouTubeEmbed videoId="9JX5u53NuDI" title="Riverscape Context & LANDFIRE in QGIS" />
+
+_55 minutes_
+
+
+### BRAT for LTPBR Riverscape Treatments (miles)
+
+**BRAT-Based Workflow**
+
+We will learn more about the Beaver Restoration Assessment Tool ([BRAT](https://tools.riverscapes.net/brat/)) in our LTPBR Planning Module. For now, we are just going to take its analysis of "Conservation and Restoration Opportunities", that are available as fields in the Metric Engine project to approximate where and how much [low-tech PBR restoration](http://lowtechpbr.restoration.usu.edu/) to do in your HUC 8. In this 17 minute video, we do the following steps:
+
+1. Open up The Metric Engine Synthesis in QViewer in QGIS
+2. Load any output layer, all available fields for analysis are visible in the attribute table. A description of all output layers can be found [here](https://tools.riverscapes.net/rme/)
+3. Summarize the total mileage of riverscape where `brat_igo_opportunity` is "Conservation/Appropriate for Translocation" or "Encourage Beaver Expansion/Colonization"
+4. The field for riverscape length is `centerline_length` and the units are meters.
+5. Use some simple "Select by Expression" queries to filter down to only the reaches on BLM and USFS land (field `rme_igo_ownership`).
+6. Use summary statistics to get total mileage.
+7. Fill out spreadsheet with acreage and cost estimates.
+
+**Video Tutorial**
+
+<YouTubeEmbed videoId="l8uDiNT2DoY" title="BRAT-Based Workflow in QGIS" />
+
+_17 minutes_
+
+
+---
+## What you are being asked to turn in on Canvas
+
+Please upload:
+
+1. A shared URL to your Google Sheet with numbers (don't forget to turn on sharing)
+2. A PDF of your Map (show watershed/subwatershed, some context and the polygons for upland treatment, and the portion of the river network you used for areas to treat)
