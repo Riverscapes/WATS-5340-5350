@@ -52,7 +52,7 @@ Examples:
 - [Middle Bear Floodplain Connectivity](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5340/2018/Excercises/Condition/Et_Al_16010203_FP_Connectivity.zip)
 - [Middle Bear RCAT](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5340/2018/Excercises/Condition/Et_Al_16010203_RCA.zip)
 - [Middle Bear VBET](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5340/2018/Excercises/Condition/Et_Al_16010203_VBET.zip)
-- [Watershed Boundaries]()
+- Watershed Boundaries
 
 
 #### 2017
